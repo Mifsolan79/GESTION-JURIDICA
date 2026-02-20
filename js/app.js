@@ -62,15 +62,14 @@ async function init() {
     }
     console.log('Loading exam:', themeValue);
 
-    // Normalize: if it's just a number, make it 'tema_N'. If it's 'tema_N', keep it.
-    if (!themeValue.startsWith('tema_')) {
-        themeValue = `tema_${themeValue}`;
-    }
+    // Normalize: extract raw number, zero-pad to 2 digits
+    const rawNum = themeValue.replace('tema_', '');
+    const paddedNum = rawNum.padStart(2, '0');
+    themeValue = `tema_${paddedNum}`;
 
     try {
-        // Force new filename to bypass cache completely
-        const dbName = themeValue.replace('tema_', 'db_tema_');
-        const url = `data/${dbName}.json`;
+        // Build filename with zero-padded number
+        const url = `data/db_tema_${paddedNum}.json`;
         console.log('Fetching new DB:', url);
         const response = await fetch(url);
         if (!response.ok) {
