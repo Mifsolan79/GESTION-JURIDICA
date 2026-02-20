@@ -1,0 +1,365 @@
+{
+    "title": "Otras instituciones de la UE y Derecho comunitario (Tema 12)",
+    "items": [
+        {
+            "question": "¿Cuál es la función principal de la Comisión Europea según el texto?",
+            "options": [
+                "Ejercer la potestad legislativa en solitario.",
+                "Promover el interés general de la Unión y velar por la aplicación de los Tratados.",
+                "Resolver recursos de casación entre particulares.",
+                "Dictar sentencias de obligado cumplimiento para el Banco Central Europeo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La Comisión Europea es el órgano ejecutivo que promueve el interés general y vela por la aplicación de los Tratados. Fundamento: Página 4, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuánto dura el mandato de la Comisión Europea?",
+            "options": [
+                "4 años.",
+                "8 años.",
+                "5 años.",
+                "6 años."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El texto indica explícitamente que el mandato de la Comisión Europea dura 5 años. Fundamento: Página 4, sección 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué institución tiene la exclusiva para presentar propuestas legislativas en la UE?",
+            "options": [
+                "El Parlamento Europeo.",
+                "El Consejo Europeo.",
+                "El Consejo de la Unión Europea.",
+                "La Comisión Europea."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: La Comisión se encarga, en exclusiva, de presentar propuestas legislativas al Parlamento y al Consejo. Fundamento: Página 4, sección 2.",
+            "position": "D"
+        },
+        {
+            "question": "¿Quién propone al candidato para presidente de la Comisión Europea?",
+            "options": [
+                "El Consejo Europeo, por mayoría cualificada.",
+                "El Parlamento Europeo, por mayoría simple.",
+                "Los ciudadanos mediante sufragio directo.",
+                "Los tribunales de justicia nacionales."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El Consejo Europeo, por mayoría cualificada, presenta a un candidato teniendo en cuenta las elecciones europeas. Fundamento: Página 4, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuál es la sede del Tribunal de Justicia de la Unión Europea?",
+            "options": [
+                "Luxemburgo (Luxemburgo).",
+                "Bruselas (Bélgica).",
+                "Estrasburgo (Francia).",
+                "Fráncfort (Alemania)."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El texto indica que la sede del Tribunal de Justicia de la Unión Europea está en Luxemburgo. Fundamento: Página 4, sección 3.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cómo está compuesto el Tribunal de Justicia de la UE propiamente dicho?",
+            "options": [
+                "Por dos jueces de cada uno de los países miembros.",
+                "Por un presidente elegido por los ciudadanos de la Unión.",
+                "Por quince magistrados de carácter vitalicio.",
+                "Por un juez de cada país miembro y once abogados generales."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: El Tribunal de Justicia está formado por un juez de cada país miembro y once abogados generales. Fundamento: Página 5, sección 3.",
+            "position": "D"
+        },
+        {
+            "question": "¿De qué se encarga el Tribunal General de la Unión Europea?",
+            "options": [
+                "De resolver recursos de los particulares contra normas comunitarias.",
+                "De la gestión del presupuesto comunitario.",
+                "De la política monetaria única.",
+                "De asesorar al Comité de las Regiones."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El Tribunal General está facultado para resolver sobre los recursos de los particulares contra normas comunitarias (recurso de anulación). Fundamento: Página 5 y 6, sección 4.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué organismo es responsable de la política monetaria y la gestión del euro?",
+            "options": [
+                "La Comisión Europea.",
+                "El Banco Central Europeo.",
+                "El Tribunal de Cuentas Europeo.",
+                "El Fondo Monetario Internacional."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El Banco Central Europeo es el organismo encargado de la política monetaria y la gestión del euro. Fundamento: Página 5, dección 3.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué instituciones forman el Eurosistema?",
+            "options": [
+                "La Comisión Europea y el Banco Central Europeo únicamente.",
+                "El Banco Central Europeo y los bancos centrales de los países que han adoptado el euro.",
+                "El Banco Central Europeo y todos los bancos centrales de la UE.",
+                "El Parlamento Europeo y el Consejo de Ministros."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El Eurosistema está formado por el Banco Central Europeo y los bancos centrales de los países que han adoptado el euro. Fundamento: Página 5, sección 3.",
+            "position": "B"
+        },
+        {
+            "question": "¿De qué se ocupa el Tribunal de Cuentas Europeo?",
+            "options": [
+                "De juzgar delitos penales internacionales.",
+                "De la redacción de los Reglamentos comunitarios.",
+                "De la fiscalización de las cuentas de la Unión Europea.",
+                "De la coordinación de las policías nacionales."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El Tribunal de Cuentas Europeo es el órgano encargado de la fiscalización de las cuentas de la Unión Europea. Fundamento: Página 5, sección 3.",
+            "position": "C"
+        },
+        {
+            "question": "¿Por cuánto tiempo se nombran los miembros del Tribunal de Cuentas Europeo?",
+            "options": [
+                "Por un período de 4 años.",
+                "Por un período de 6 años, renovable.",
+                "Por un período de 5 años.",
+                "De forma permanente hasta su jubilación."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Sus miembros son nombrados por un período renovable de 6 años por el Consejo de la UE. Fundamento: Página 5, sección 3.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué tipo de órgano es el Comité Europeo de las Regiones?",
+            "options": [
+                "A. Un órgano ejecutivo con poder de decisión directa.",
+                "B. Una oficina de prensa de la Comisión Europea.",
+                "C. Un órgano consultivo formado por representantes locales y regionales.",
+                "D. Un órgano judicial encargado de sancionar a las CCAA."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Es un órgano consultivo formado por representantes de todos los Estados miembros a nivel regional y local. Fundamento: Página 5, sección 3.",
+            "position": "C"
+        },
+        {
+            "question": "¿Sobre qué áreas es obligatorio consultar al Comité de las Regiones?",
+            "options": [
+                "Defensa y seguridad nacional.",
+                "Relaciones con Estados Unidos y China.",
+                "Nombramiento de los jueces del Tribunal Supremo.",
+                "Legislación relativa a sanidad, empleo o educación."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Es obligatorio consultarle sobre legislación relacionada con administración local y regional, como sanidad, empleo o educación. Fundamento: Página 5, sección 3.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué es el 'recurso de anulación'?",
+            "options": [
+                "Un proceso para disolver el Parlamento Europeo.",
+                "Un método para anular las elecciones presidenciales.",
+                "Una solicitud para abandonar la zona euro.",
+                "Un recurso que cualquier ciudadano puede plantear contra una norma comunitaria que le afecte directamente."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Se llama recurso de anulación y puede plantearlo cualquier ciudadano si la norma comunitaria le afecta directamente. Fundamento: Página 6, sección 4.",
+            "position": "D"
+        },
+        {
+            "question": "¿Cuál es la fuente más importante del Derecho de la Unión Europea?",
+            "options": [
+                "El Derecho originario o primario (Tratados).",
+                "El Derecho derivado (Reglamentos y Directivas).",
+                "Los Tratados internacionales con países terceros.",
+                "Las costumbres de los pueblos europeos."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El Derecho originario (o primario) es la fuente más importante de derecho de la UE. Fundamento: Página 6, sección 5.",
+            "position": "A"
+        },
+        {
+            "question": "Los Tratados de Roma y el Tratado de Maastricht son ejemplos de:",
+            "options": [
+                "Tratados constitutivos.",
+                "Tratados de adhesión.",
+                "Reglamentos de ejecución.",
+                "Acuerdos comerciales bilaterales."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El texto los clasifica como Tratados constitutivos dentro del Derecho originario. Fundamento: Página 6, sección 5.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué valor tiene la Carta de los Derechos Fundamentales de la Unión Europea?",
+            "options": [
+                "Es un documento meramente decorativo.",
+                "Es inferior a las Directivas nacionales.",
+                "Tiene el mismo valor que los Tratados.",
+                "Solo se aplica en caso de guerra."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: La Carta de los Derechos Fundamentales de la UE tiene el mismo valor que los Tratados. Fundamento: Página 6, sección 5.",
+            "position": "C"
+        },
+        {
+            "question": "Un acto normativo que se aplica automáticamente en todos los Estados miembros sin necesidad de trasposición es:",
+            "options": [
+                "Una Directiva.",
+                "Una Recomendación.",
+                "Un Dictamen.",
+                "Un Reglamento."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Los reglamentos se aplican de manera automática sin necesidad de trasposición al derecho nacional. Fundamento: Página 6, sección 5.1.",
+            "position": "D"
+        },
+        {
+            "question": "¿Cuándo entra en vigor un Reglamento si no se establece una fecha concreta?",
+            "options": [
+                "A los 20 días de su publicación en el Diario Oficial de la UE.",
+                "Al año de ser aprobado por el Parlamento.",
+                "Inmediatamente después de la firma del Presidente.",
+                "Cuando lo decida el gobierno nacional de cada país."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Si no establece una fecha, entra en vigor a los 20 días de su publicación. Fundamento: Página 6, sección 5.1.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuál es la característica principal de las Directivas?",
+            "options": [
+                "Son obligatorias en todos sus elementos y directamente aplicables.",
+                "Obligan al Estado cuanto al resultado, pero dejan libertad para elegir la forma y los medios (trasposición).",
+                "No tienen carácter vinculante bajo ningún concepto.",
+                "Solo sirven para sugerir líneas de actuación."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Las directivas destinan a los Estados a conseguir un resultado, pero la legislación nacional determina la forma y medios para obtenerlo. Fundamento: Página 7, sección 5.2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuál es el plazo general para que un Estado incorpore una Directiva a su derecho nacional?",
+            "options": [
+                "6 meses.",
+                "Generalmente, 2 años.",
+                "Indefinido.",
+                "10 años."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El texto indica que generalmente el plazo es de 2 años. Fundamento: Página 7, sección 5.2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué sucede con las 'Decisiones' de la UE?",
+            "options": [
+                "Son normas obligatorias para sus destinatarios.",
+                "Son normas solo para los ciudadanos, no para los Estados.",
+                "Son sugerencias que pueden ser ignoradas por las empresas.",
+                "Son obligatorias pero solo si se publican en el BOE."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Las decisiones son normas obligatorias para sus destinatarios (Estados, instituciones, empresas o particulares). Fundamento: Página 7, sección 5.3.",
+            "position": "A"
+        },
+        {
+            "question": "Sobre las recomendaciones y los dictámenes, el texto señala que:",
+            "options": [
+                "Son de obligado cumplimiento para los tribunales.",
+                "Tienen rango superior a los Reglamentos.",
+                "Deben ser ratificados por la ONU.",
+                "No son vinculantes para sus destinatarios."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Ni las recomendaciones ni los dictámenes son vinculantes para sus destinatarios. Fundamento: Página 7, sección 5.4.",
+            "position": "D"
+        },
+        {
+            "question": "¿Cómo debe ser, obligatoriamente, el presupuesto de la Unión Europea?",
+            "options": [
+                "Debe presentar siempre un déficit controlado.",
+                "Debe estar invertido íntegramente en armamento.",
+                "Debe estar equilibrado (ingresos igual a gastos).",
+                "Debe ser secreto y no publicarse."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El presupuesto de la Unión Europea debe estar, obligatoriamente, equilibrado. Fundamento: Página 7, sección 6.",
+            "position": "C"
+        },
+        {
+            "question": "¿Cuál es el período mínimo de duración del marco financiero plurianual de la UE?",
+            "options": [
+                "3 años.",
+                "10 años.",
+                "Un año natural.",
+                "5 años."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: El marco financiero plurianual se elabora por un período mínimo de 5 años. Fundamento: Página 7, sección 6.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué sucede si el Parlamento y el Consejo no se ponen de acuerdo sobre el presupuesto?",
+            "options": [
+                "El presupuesto lo decide el Rey de Bélgica.",
+                "Se abre un procedimiento de conciliación para elaborar un texto conjunto.",
+                "Se prorroga automáticamente el del año anterior sin cambios.",
+                "Se disuelven todas las instituciones europeas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Si hay desacuerdo por las enmiendas del Parlamento, se abre el procedimiento de conciliación. Fundamento: Página 8, sección 6.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuántos votos representan la 'mayoría simple' actualmente en el Consejo de la UE?",
+            "options": [
+                "10 votos.",
+                "14 votos.",
+                "28 votos.",
+                "Todos los votos posibles."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La mayoría simple exige el voto favorable de la mayoría de los miembros, que actualmente son 14 votos. Fundamento: Página 9, sección 7.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué requisitos debe cumplir una 'mayoría cualificada' en el Consejo?",
+            "options": [
+                "Unanimidad de todos los presidentes de gobierno.",
+                "Voto favorable de al menos 5 países con el euro.",
+                "Voto favorable del 55% de los Estados que representen al 65% de la población.",
+                "Voto secreto por parte de los ciudadanos en referéndum."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Exige el voto del 55% de miembros (15 votos) que representen el 65% de la población total. Fundamento: Página 9, sección 7.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué porcentaje de los recursos propios tradicionales retienen los Estados por gastos de recaudación?",
+            "options": [
+                "El 5%.",
+                "El 50%.",
+                "El 100%.",
+                "El 20%."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Los Estados miembros retienen el 20% de las cantidades percibidas en concepto de gastos de recaudación. Fundamento: Página 9, sección 8.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué es la Renta Nacional Bruta (RNB) según la definición del documento?",
+            "options": [
+                "El dinero que cada ciudadano tiene en su cuenta bancaria.",
+                "El total de billetes de euro impresos en un año.",
+                "La suma de las retribuciones de todos los factores de producción nacionales.",
+                "La deuda acumulada por un país con el Banco Central."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El texto define la RNB como la suma de las retribuciones de todos los factores de producción nacionales. Fundamento: Página 9, sección 8.",
+            "position": "C"
+        }
+    ]
+}
