@@ -1,260 +1,466 @@
-// Exam Engine - GESTIÓN DE LA DOCUMENTACIÓN JURÍDICA
-// Optimized for Purple Theme
-
-const quizState = {
-    items: [],
-    currentIndex: 0,
-    userAnswers: {}, // index: chosenOptionIndex
-    results: null // { correct: 0, incorrect: 0, skipped: 0 }
+const state = {
+    quizData: [],
+    currentQuestionIndex: 0,
+    correctCount: 0,
+    incorrectCount: 0,
+    skippedCount: 0,
+    results: [],
+    order: [],
+    totalQuestions: 0,
+    settings: {
+        penaltyMode: 'auto',
+        customT: 3,
+        timerEnabled: false
+    }
 };
 
-const dom = {
-    container: document.getElementById('quiz-container'),
+// DOM Elements
+const elements = {
+    quizContainer: document.getElementById('quiz-container'),
     questionText: document.getElementById('question-text'),
     optionsContainer: document.getElementById('options-container'),
-    feedback: document.getElementById('feedback-container'),
-    prevBtn: document.getElementById('prev-btn'),
+    feedbackContainer: document.getElementById('feedback-container'),
+    submitBtn: document.getElementById('submit-btn'),
+    skipBtn: document.getElementById('skip-btn'),
     nextBtn: document.getElementById('next-btn'),
-    finishBtn: document.getElementById('finish-btn'),
-    // Dashboard
-    countOk: document.getElementById('count-ok'),
-    countKo: document.getElementById('count-ko'),
-    countSk: document.getElementById('count-sk'),
-    countSc: document.getElementById('count-sc'),
-    navigator: document.getElementById('navigator')
+    restartBtn: document.getElementById('restart-btn'),
+    scoreContainer: document.getElementById('score-container'),
+    finalOverlay: document.getElementById('final-overlay'),
+    finalScoreBig: document.getElementById('final-score-big'),
+    finalMsg: document.getElementById('final-msg'),
+    ringProgress: document.getElementById('ring-progress'),
+    ringLabel: document.getElementById('ring-label'),
+    ringStep: document.getElementById('ring-step'),
+    ringAcc: document.getElementById('ring-acc'),
+    liveCorrect: document.getElementById('s-ok'),
+    liveIncorrect: document.getElementById('s-ko'),
+    liveSkipped: document.getElementById('s-sk'),
+    liveScore: document.getElementById('s-sc'),
+    miniNav: document.getElementById('mini-nav')
 };
 
-// URL Params
-const urlParams = new URLSearchParams(window.location.search);
-const currentTema = urlParams.get('tema') || '01';
+// Utils
+const getPenaltyT = () => 3; // Default penalty divisor
+const computeScore = () => {
+    const T = getPenaltyT();
+    const penalty = state.incorrectCount / T;
+    const net = Math.max(0, state.correctCount - penalty);
+    return Math.min(10, (net / state.totalQuestions) * 10);
+};
 
+// Initialization
 async function init() {
-    try {
-        const response = await fetch(`data/db_tema_${currentTema.padStart(2, '0')}.json`);
-        if (!response.ok) throw new Error('No se pudo cargar el examen.');
-        const data = await response.json();
+    const params = new URLSearchParams(window.location.search);
 
-        quizState.items = data.items;
-        document.title = `${data.title} - Examen`;
+    let themeValue = params.get('tema') || params.get('exam');
 
-        setupNavigator();
-        renderQuestion();
-        updateDashboard();
-    } catch (err) {
-        console.error(err);
-        dom.container.innerHTML = `<div style="padding:40px;text-align:center;">
-            <h2>❌ Error</h2>
-            <p>${err.message}</p>
-            <br>
-            <a href="index.html" style="color:var(--gold)">Volver al menú</a>
-        </div>`;
+    if (!themeValue) {
+        console.error('No exam ID found in URL parameters.');
+        alert('No se ha especificado un examen.');
+        window.location.href = 'index.html';
+        return;
     }
+    console.log('Loading exam:', themeValue);
+
+    // Normalize: if it's just a number, make it 'tema_N'. If it's 'tema_N', keep it.
+    if (!themeValue.startsWith('tema_')) {
+        themeValue = `tema_${themeValue}`;
+    }
+
+    try {
+        // Force new filename to bypass cache completely
+        const dbName = themeValue.replace('tema_', 'db_tema_');
+        const url = `data/${dbName}.json`;
+        console.log('Fetching new DB:', url);
+        const response = await fetch(url);
+        if (!response.ok) {
+            if (response.status === 404) {
+                alert('⚠️ Este examen (' + themeValue.replace('tema_', 'TEMA ') + ') aún no está disponible.\n\nPróximamente añadiremos más contenidos.');
+                window.location.href = 'index.html';
+                return;
+            }
+            throw new Error('No se pudo cargar el archivo del examen.');
+        }
+
+        const data = await response.json();
+        state.quizData = data.items;
+        state.totalQuestions = state.quizData.length;
+        state.order = Array.from({ length: state.totalQuestions }, (_, i) => i);
+
+        // Format the title
+        const themeNum = themeValue.replace('tema_', '');
+        const formattedNum = themeNum.padStart(2, '0');
+        const genericTitle = `GESTIÓN JURÍDICA - TEMA ${formattedNum}`;
+
+        document.querySelector('h1').textContent = genericTitle;
+        document.title = genericTitle;
+
+        loadQuestion();
+        updateUI();
+    } catch (error) {
+        console.error(error);
+        alert('Error cargando el examen: ' + error.message);
+    }
+
+    setupEventListeners();
 }
 
-function setupNavigator() {
-    dom.navigator.innerHTML = '';
-    quizState.items.forEach((_, i) => {
+function loadQuestion() {
+    const qIndex = state.order[state.currentQuestionIndex];
+    const question = state.quizData[qIndex];
+
+    elements.questionText.textContent = question.question;
+    elements.optionsContainer.innerHTML = '';
+
+    // Check if already answered
+    const existingResult = state.results.find(r => r.qIndex === qIndex);
+
+    elements.feedbackContainer.classList.add('hidden');
+    elements.feedbackContainer.innerHTML = '';
+
+    question.options.forEach((opt, idx) => {
+        const div = document.createElement('div');
+        div.className = 'option';
+
+        const input = document.createElement('input');
+        input.type = 'radio';
+        input.name = 'answer';
+        input.value = idx;
+        input.id = `opt${idx}`;
+        input.disabled = !!existingResult; // Disable if already answered
+
+        const label = document.createElement('label');
+        label.htmlFor = `opt${idx}`;
+        label.textContent = opt;
+
+        div.append(input, label);
+
+        if (!existingResult) {
+            div.addEventListener('click', (e) => {
+                if (e.target !== input && !input.disabled) {
+                    input.checked = true;
+                    document.querySelectorAll('.option').forEach(o => o.classList.remove('selected'));
+                    div.classList.add('selected');
+                }
+            });
+        }
+
+        elements.optionsContainer.appendChild(div);
+    });
+
+    if (existingResult) {
+        // Restore State
+        if (existingResult.chosen !== null) {
+            const chosenInput = document.getElementById(`opt${existingResult.chosen}`);
+            if (chosenInput) {
+                chosenInput.checked = true;
+                chosenInput.closest('.option').classList.add('selected');
+            }
+        }
+
+        // Show feedback immediately
+        const isCorrect = existingResult.outcome === 'ok';
+        const isSkipped = existingResult.outcome === 'sk';
+        showFeedback(isCorrect, question, existingResult.chosen, isSkipped);
+
+        elements.submitBtn.classList.add('hidden');
+        elements.skipBtn.classList.add('hidden');
+        elements.nextBtn.classList.remove('hidden');
+
+    } else {
+        // New Question State
+        elements.submitBtn.classList.remove('hidden');
+        elements.submitBtn.disabled = false;
+        elements.skipBtn.classList.remove('hidden');
+        elements.skipBtn.disabled = false;
+        elements.nextBtn.classList.add('hidden');
+    }
+
+    updateMiniNav();
+}
+
+function updateMiniNav() {
+    if (!elements.miniNav) return;
+    elements.miniNav.innerHTML = '';
+    state.order.forEach((qIdx, i) => {
         const pill = document.createElement('div');
         pill.className = 'pill';
         pill.textContent = i + 1;
-        pill.id = `pill-${i}`;
+        pill.style.cursor = 'pointer';
+
+        const res = state.results.find(r => r.qIndex === qIdx);
+        if (res) {
+            pill.classList.add(res.outcome); // ok, ko, sk
+        }
+
+        if (i === state.currentQuestionIndex) pill.classList.add('cur');
+
+        // Add click listener to jump
         pill.onclick = () => {
-            if (quizState.results) return; // Locked after finishing
-            quizState.currentIndex = i;
-            renderQuestion();
+            state.currentQuestionIndex = i;
+            loadQuestion();
         };
-        dom.navigator.appendChild(pill);
+
+        elements.miniNav.appendChild(pill);
     });
 }
 
-function renderQuestion() {
-    const q = quizState.items[quizState.currentIndex];
-    const answered = quizState.userAnswers.hasOwnProperty(quizState.currentIndex);
-    const resultRevealed = quizState.results !== null;
+function submitAnswer() {
+    const selected = document.querySelector('input[name="answer"]:checked');
+    if (!selected) {
+        showToast('Por favor, selecciona una respuesta.');
+        return;
+    }
 
-    dom.questionText.textContent = `${quizState.currentIndex + 1}. ${q.question}`;
-    dom.optionsContainer.innerHTML = '';
+    const chosenIdx = parseInt(selected.value);
+    const qIndex = state.order[state.currentQuestionIndex];
+    const question = state.quizData[qIndex];
+    const isCorrect = chosenIdx === question.correctAnswer;
 
-    q.options.forEach((opt, i) => {
-        const div = document.createElement('div');
-        div.className = 'option';
-        if (quizState.userAnswers[quizState.currentIndex] === i) div.classList.add('selected');
-        if (resultRevealed || answered) div.classList.add('disabled');
+    if (isCorrect) state.correctCount++;
+    else state.incorrectCount++;
 
-        // Final coloring
-        if (resultRevealed) {
-            if (i === q.correctAnswer) div.classList.add('revealed-correct');
-            else if (quizState.userAnswers[quizState.currentIndex] === i) div.classList.add('revealed-wrong');
-        }
-
-        div.innerHTML = `
-            <input type="radio" name="opt" value="${i}" ${quizState.userAnswers[quizState.currentIndex] === i ? 'checked' : ''} ${resultRevealed || answered ? 'disabled' : ''}>
-            <span>${opt}</span>
-        `;
-
-        if (!resultRevealed && !answered) {
-            div.onclick = () => selectOption(i);
-        }
-        dom.optionsContainer.appendChild(div);
+    state.results.push({
+        qIndex,
+        outcome: isCorrect ? 'ok' : 'ko',
+        chosen: chosenIdx,
+        correct: question.correctAnswer
     });
 
-    // Feedback
-    dom.feedback.className = 'hidden';
-    if (resultRevealed) {
-        dom.feedback.classList.remove('hidden');
-        const userA = quizState.userAnswers[quizState.currentIndex];
-        if (userA === undefined) {
-            dom.feedback.textContent = `⚠️ Saltada. La respuesta correcta era: ${String.fromCharCode(65 + q.correctAnswer)}`;
-            dom.feedback.className = 'feedback-skipped';
-        } else if (userA === q.correctAnswer) {
-            dom.feedback.textContent = `✅ ¡Correcto! ${q.explanation || ''}`;
-            dom.feedback.className = 'feedback-correct';
-        } else {
-            dom.feedback.textContent = `❌ Incorrecto. Era la ${String.fromCharCode(65 + q.correctAnswer)}. ${q.explanation || ''}`;
-            dom.feedback.className = 'feedback-incorrect';
-        }
-    }
-
-    // Buttons
-    dom.prevBtn.disabled = quizState.currentIndex === 0;
-    dom.nextBtn.classList.toggle('hidden', quizState.currentIndex === quizState.items.length - 1);
-    dom.finishBtn.classList.toggle('hidden', quizState.currentIndex !== quizState.items.length - 1 || resultRevealed);
-
-    // Navigator Active
-    document.querySelectorAll('.pill').forEach(p => p.classList.remove('cur'));
-    document.getElementById(`pill-${quizState.currentIndex}`).classList.add('cur');
+    showFeedback(isCorrect, question, chosenIdx);
+    updateUI();
 }
 
-function selectOption(index) {
-    quizState.userAnswers[quizState.currentIndex] = index;
+function skipQuestion() {
+    const qIndex = state.order[state.currentQuestionIndex];
+    const question = state.quizData[qIndex];
 
-    // Auto-advance or just re-render
-    const pill = document.getElementById(`pill-${quizState.currentIndex}`);
-    pill.classList.add('ok'); // Visual marker that it's answered
+    state.skippedCount++;
+    state.results.push({
+        qIndex,
+        outcome: 'sk',
+        chosen: null,
+        correct: question.correctAnswer
+    });
 
-    renderQuestion();
-    updateDashboard();
+    showFeedback(false, question, null, true);
+    updateUI();
 }
 
-function updateDashboard() {
-    const total = quizState.items.length;
-    const answeredCount = Object.keys(quizState.userAnswers).length;
+function showFeedback(isCorrect, question, chosenIdx, isSkipped = false) {
+    const container = elements.feedbackContainer;
+    container.classList.remove('hidden', 'feedback-correct', 'feedback-incorrect', 'feedback-skipped');
 
-    dom.countSc.textContent = `${answeredCount}/${total}`;
+    elements.submitBtn.classList.add('hidden');
+    elements.skipBtn.classList.add('hidden');
+    elements.nextBtn.classList.remove('hidden');
 
-    if (quizState.results) {
-        dom.countOk.textContent = quizState.results.correct;
-        dom.countKo.textContent = quizState.results.incorrect;
-        dom.countSk.textContent = quizState.results.skipped;
+    // Disable inputs
+    document.querySelectorAll('input[type="radio"]').forEach(i => i.disabled = true);
+    document.querySelectorAll('.option').forEach(o => o.classList.add('disabled'));
 
-        // Progress bar in ring (optional if you want to implement the SVG logic)
-        const percent = (quizState.results.correct / total) * 100;
-        const circle = document.querySelector('.ring circle:last-child');
-        if (circle) {
-            const offset = 220 - (220 * percent) / 100;
-            circle.style.strokeDashoffset = offset;
-        }
-        const label = document.querySelector('.ring .label');
-        if (label) label.textContent = `${Math.round(percent)}%`;
+    // Highlight options
+    const correctOpt = document.getElementById(`opt${question.correctAnswer}`).closest('.option');
+    correctOpt.classList.add('revealed-correct');
+
+    if (!isCorrect && !isSkipped && chosenIdx !== null) {
+        const chosenOpt = document.getElementById(`opt${chosenIdx}`).closest('.option');
+        chosenOpt.classList.add('revealed-wrong');
     }
+
+    // Feedback Text
+    let html = '';
+    if (isSkipped) {
+        container.classList.add('feedback-skipped');
+        html = '<div>🟡 Pregunta omitida.</div>';
+    } else if (isCorrect) {
+        container.classList.add('feedback-correct');
+        html = '<div>✅ ¡Correcto!</div>';
+    } else {
+        container.classList.add('feedback-incorrect');
+        html = '<div>❌ Incorrecto.</div>';
+    }
+
+    if (question.explanation) {
+        html += `<div style="margin-top:10px; font-weight:normal;">${question.explanation}</div>`;
+    }
+
+    container.innerHTML = html;
 }
 
 function nextQuestion() {
-    if (quizState.currentIndex < quizState.items.length - 1) {
-        quizState.currentIndex++;
-        renderQuestion();
+    state.currentQuestionIndex++;
+    if (state.currentQuestionIndex < state.totalQuestions) {
+        loadQuestion();
+    } else {
+        showFinalResults();
     }
-}
-
-function prevQuestion() {
-    if (quizState.currentIndex > 0) {
-        quizState.currentIndex--;
-        renderQuestion();
-    }
-}
-
-function finishQuiz() {
-    if (quizState.results) return;
-
-    let correct = 0, incorrect = 0, skipped = 0;
-
-    quizState.items.forEach((q, i) => {
-        const userA = quizState.userAnswers[i];
-        const pill = document.getElementById(`pill-${i}`);
-        pill.classList.remove('ok', 'ko', 'sk');
-
-        if (userA === undefined) {
-            skipped++;
-            pill.classList.add('sk');
-        } else if (userA === q.correctAnswer) {
-            correct++;
-            pill.classList.add('ok');
-        } else {
-            incorrect++;
-            pill.classList.add('ko');
-        }
-    });
-
-    quizState.results = { correct, incorrect, skipped };
-    renderQuestion();
-    updateDashboard();
-
-    // Show final overlay
-    showFinalResults();
 }
 
 function showFinalResults() {
-    const overlay = document.getElementById('final-overlay');
-    overlay.classList.remove('hidden');
+    const finalScore = computeScore();
+    elements.quizContainer.classList.add('hidden');
+    elements.finalOverlay.classList.remove('hidden');
 
-    const total = quizState.items.length;
-    const nota = (quizState.results.correct / total) * 10;
+    elements.finalScoreBig.textContent = finalScore.toFixed(2);
 
-    document.getElementById('final-score-text').textContent = `Nota: ${nota.toFixed(1)} / 10`;
-    document.getElementById('final-stats-text').textContent =
-        `Correctas: ${quizState.results.correct} | Incorrectas: ${quizState.results.incorrect} | Saltadas: ${quizState.results.skipped}`;
+    let msg = '';
+    if (finalScore >= 9) msg = '¡Excelente trabajo! 🌟';
+    else if (finalScore >= 7) msg = 'Muy bien, sigue así. 👍';
+    else if (finalScore >= 5) msg = 'Aprobado, pero se puede mejorar. 📚';
+    else msg = 'No has aprobado. ¡Sigue practicando! 💪';
 
-    // Fill Summary
-    const summaryBody = document.getElementById('summary-body');
-    summaryBody.innerHTML = '';
+    elements.finalMsg.textContent = msg;
 
-    quizState.items.forEach((q, i) => {
-        const userA = quizState.userAnswers[i];
-        const isCorrect = userA === q.correctAnswer;
-
-        const item = document.createElement('div');
-        item.className = 'final-question-item';
-        item.style.borderLeft = `4px solid ${userA === undefined ? 'var(--amber)' : (isCorrect ? 'var(--green)' : 'var(--red)')}`;
-
-        item.innerHTML = `
-            <span class="q-num">Pregunta ${i + 1}</span>
-            <span class="q-text">${q.question}</span>
-            <div class="q-answer">
-                ${userA === undefined ? '⚠️ No respondida' : (isCorrect ? '✅ Correcta' : '❌ Tu respuesta: ' + q.options[userA])}
-                <br>
-                <small style="opacity:0.8">La respuesta correcta era: <strong>${q.options[q.correctAnswer]}</strong></small>
-            </div>
+    // --- Badges de resumen rápido ---
+    const summaryBadges = document.getElementById('final-summary-badges');
+    if (summaryBadges) {
+        summaryBadges.innerHTML = `
+            <div class="badge ok">✅ Acertadas <strong>${state.correctCount}</strong></div>
+            <div class="badge ko">❌ Falladas <strong>${state.incorrectCount}</strong></div>
+            <div class="badge sk">🟡 Saltadas <strong>${state.skippedCount}</strong></div>
+            <div class="badge sc">📊 Nota <strong>${finalScore.toFixed(2)}</strong></div>
         `;
-        summaryBody.appendChild(item);
-    });
+    }
 
-    if (nota >= 5) launchConfetti();
+    // --- Detalle por categoría ---
+    const detail = document.getElementById('final-detail');
+    if (detail) {
+        detail.innerHTML = '';
+
+        const categories = [
+            {
+                key: 'ok',
+                emoji: '✅',
+                label: 'Preguntas acertadas',
+                cls: 'ok',
+                items: state.results.filter(r => r.outcome === 'ok')
+            },
+            {
+                key: 'ko',
+                emoji: '❌',
+                label: 'Preguntas falladas — ¡Repásalas!',
+                cls: 'ko',
+                items: state.results.filter(r => r.outcome === 'ko')
+            },
+            {
+                key: 'sk',
+                emoji: '🟡',
+                label: 'Preguntas saltadas',
+                cls: 'sk',
+                items: state.results.filter(r => r.outcome === 'sk')
+            }
+        ];
+
+        categories.forEach(cat => {
+            if (cat.items.length === 0) return;
+
+            const section = document.createElement('div');
+            section.className = `final-section ${cat.cls}`;
+
+            const header = document.createElement('div');
+            header.className = 'final-section-header';
+            header.innerHTML = `
+                <span>${cat.emoji} ${cat.label}</span>
+                <span class="count-badge">${cat.items.length} preguntas</span>
+            `;
+
+            const body = document.createElement('div');
+            body.className = 'final-section-body';
+
+            cat.items.forEach((res, idx) => {
+                const q = state.quizData[res.qIndex];
+                const item = document.createElement('div');
+                item.className = 'final-question-item';
+
+                let answerHtml = '';
+                if (res.outcome === 'ok') {
+                    answerHtml = `<span class="q-answer">✔️ ${q.options[q.correctAnswer]}</span>`;
+                } else if (res.outcome === 'ko') {
+                    answerHtml = `
+                        <span class="q-answer" style="color:#ff6b8a;">✘ Tu respuesta: ${q.options[res.chosen]}</span><br>
+                        <span class="q-answer" style="color:#00f5d4;">✔ Correcta: ${q.options[q.correctAnswer]}</span>
+                    `;
+                } else {
+                    answerHtml = `<span class="q-answer" style="color:#00f5d4;">✔ Respuesta correcta: ${q.options[q.correctAnswer]}</span>`;
+                }
+
+                item.innerHTML = `
+                    <span class="q-num">${idx + 1}.</span>
+                    <span class="q-text">${q.question}</span>
+                    ${answerHtml}
+                `;
+                body.appendChild(item);
+            });
+
+            header.addEventListener('click', () => {
+                body.style.display = body.style.display === 'none' ? 'flex' : 'none';
+            });
+
+            section.appendChild(header);
+            section.appendChild(body);
+            detail.appendChild(section);
+        });
+    }
+
+    // Confetti
+    confettiBurst();
 }
 
-function closeOverlay() {
-    document.getElementById('final-overlay').classList.add('hidden');
+function updateUI() {
+    // Ring Logic
+    const answered = state.correctCount + state.incorrectCount + state.skippedCount;
+    const perc = state.totalQuestions > 0 ? answered / state.totalQuestions : 0;
+    const offset = 327 - (327 * perc);
+
+    if (elements.ringProgress) elements.ringProgress.style.strokeDashoffset = offset;
+    if (elements.ringLabel) elements.ringLabel.textContent = Math.round(perc * 100) + '%';
+    if (elements.ringStep) elements.ringStep.textContent = `${state.currentQuestionIndex + 1} / ${state.totalQuestions}`;
+
+    // Stats
+    const acc = answered > 0 ? (state.correctCount / answered) * 100 : 0;
+    if (elements.ringAcc) elements.ringAcc.textContent = Math.round(acc) + '%';
+
+    if (elements.liveCorrect) elements.liveCorrect.textContent = state.correctCount;
+    if (elements.liveIncorrect) elements.liveIncorrect.textContent = state.incorrectCount;
+    if (elements.liveSkipped) elements.liveSkipped.textContent = state.skippedCount;
+    if (elements.liveScore) elements.liveScore.textContent = computeScore().toFixed(2);
+
+    // Mini Nav
+    updateMiniNav();
 }
 
-function launchConfetti() {
+function setupEventListeners() {
+    elements.submitBtn.addEventListener('click', submitAnswer);
+    elements.skipBtn.addEventListener('click', skipQuestion);
+    elements.nextBtn.addEventListener('click', nextQuestion);
+
+    document.getElementById('ovl-restart')?.addEventListener('click', () => location.reload());
+    document.getElementById('ovl-close')?.addEventListener('click', () => window.location.href = 'index.html');
+}
+
+function showToast(msg) {
+    const toast = document.createElement('div');
+    toast.className = 'toast';
+    toast.textContent = msg;
+    toast.style.cssText = 'position:fixed;bottom:20px;right:20px;background:var(--panel);border:1px solid var(--gold);padding:12px 20px;border-radius:8px;box-shadow:0 5px 15px rgba(0,0,0,0.5);z-index:2000;font-weight:bold;color:var(--text);';
+    document.body.appendChild(toast);
+    setTimeout(() => toast.remove(), 3000);
+}
+
+// Confetti Effect
+function confettiBurst() {
+    const colors = ['#d46aff', '#e3a3ff', '#00f5d4', '#ff4d6d', '#ffffff'];
     for (let i = 0; i < 50; i++) {
-        const c = document.createElement('div');
-        c.className = 'confetti';
-        c.style.left = Math.random() * 100 + 'vw';
-        c.style.backgroundColor = ['#d46aff', '#e3a3ff', '#00f5d4', '#ff4d6d'][Math.floor(Math.random() * 4)];
-        c.style.animation = `fallConfetti ${Math.random() * 3 + 2}s linear forwards`;
-        document.body.appendChild(c);
-        setTimeout(() => c.remove(), 5000);
+        const conf = document.createElement('div');
+        conf.className = 'confetti';
+        conf.style.left = Math.random() * 100 + 'vw';
+        conf.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+        conf.style.animation = `fallConfetti ${1 + Math.random() * 2}s linear forwards`;
+        document.body.appendChild(conf);
+        setTimeout(() => conf.remove(), 3000);
     }
 }
 
-init();
+// Start
+document.addEventListener('DOMContentLoaded', init);

@@ -1,22 +1,26 @@
 :root {
+    /* Purple/Violet Theme (Neon Juridico) */
     --bg: #1f0e2e;
+    /* Dark purple bg */
     --panel: rgba(50, 26, 63, 0.95);
     --text: #f0e8ff;
+    /* Lavender 50 */
     --muted: #c4bad9;
 
     --gold: #d46aff;
-    /* Purple primary */
+    /* Main Accent (Purple 400) */
     --amber: #e3a3ff;
-    /* Purple secondary */
+    /* Secondary (Purple 300) */
     --red: #ff4d6d;
+    /* Error/Accent */
     --green: #00f5d4;
 
     --cyan: var(--gold);
-    --magenta: var(--amber);
+    /* Mapping for legacy class referencing */
+    --magenta: var(--red);
 
     --border: #4a3160;
     --shadow: 0 0 15px rgba(212, 106, 255, 0.25), 0 0 25px rgba(227, 163, 255, 0.2);
-    --radius: 10px;
 }
 
 body {
@@ -67,6 +71,7 @@ main {
     align-items: flex-start;
     width: 100%;
     overflow-x: hidden;
+    /* Prevent horizontal scroll */
 }
 
 @media (min-width: 980px) {
@@ -135,6 +140,13 @@ main {
         padding: 4px 8px;
     }
 
+    .navigator {
+        display: flex;
+        overflow-x: auto;
+        max-width: 90vw;
+        padding-bottom: 5px;
+    }
+
     button {
         padding: 12px 16px;
     }
@@ -201,6 +213,9 @@ button {
     color: #fff;
     cursor: pointer;
     transition: transform .15s, box-shadow .2s;
+    text-shadow: none;
+
+    /* Purple Gradient */
     background: linear-gradient(145deg, #ae40d6, #d46aff);
     box-shadow: 0 4px 0 rgba(116, 42, 143, 0.6), 0 6px 15px rgba(0, 0, 0, .4);
 }
@@ -220,11 +235,13 @@ button:disabled {
 }
 
 .btn-blue {
+    /* Primary Purple */
     background: linear-gradient(145deg, #ae40d6, #d46aff);
     color: #fff;
 }
 
 .btn-amber {
+    /* Secondary Darker Purple */
     background: linear-gradient(145deg, #321a3f, #4a3160);
     color: #f0e8ff;
 }
@@ -232,6 +249,32 @@ button:disabled {
 .btn-red {
     background: linear-gradient(145deg, #b91c1c, #ef4444);
     color: #fff;
+}
+
+.btn-notebook {
+    background: linear-gradient(145deg, #4a2068, #6b21a8);
+    color: #fff;
+    box-shadow: 0 4px 0 rgba(75, 0, 130, .6), 0 6px 15px rgba(0, 0, 0, .4);
+}
+
+.btn-notebook:hover {
+    box-shadow: 0 0 15px #ae40d6;
+}
+
+.btn-ghost {
+    background: transparent;
+    border: 1px solid rgba(212, 106, 255, 0.4);
+    color: var(--gold);
+    box-shadow: none;
+    font-size: 0.85rem;
+    padding: 8px 14px;
+}
+
+.btn-ghost:hover {
+    background: rgba(212, 106, 255, 0.15);
+    border-color: var(--gold);
+    box-shadow: 0 0 10px rgba(212, 106, 255, 0.3);
+    transform: translateY(-1px);
 }
 
 /* Quiz Container */
@@ -284,7 +327,9 @@ h1 {
     position: relative;
     margin-bottom: 12px;
     width: 100%;
+    /* Force full width */
     box-sizing: border-box;
+    /* Include padding in width */
 }
 
 .option:hover {
@@ -484,6 +529,7 @@ h1 {
     gap: 0;
 }
 
+/* Secciones del resumen final */
 .final-section {
     border-radius: 14px;
     overflow: hidden;
@@ -517,7 +563,7 @@ h1 {
 
 .final-section.ko .final-section-header {
     background: rgba(255, 77, 109, 0.15);
-    color: #ff4d6d;
+    color: #ff6b8a;
 }
 
 .final-section.sk .final-section-header {
@@ -532,7 +578,7 @@ h1 {
 
 .final-section.ko .count-badge {
     background: rgba(255, 77, 109, 0.25);
-    color: #ff4d6d;
+    color: #ff6b8a;
 }
 
 .final-section.sk .count-badge {

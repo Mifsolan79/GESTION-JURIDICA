@@ -4,86 +4,100 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Examen - Gestión Jurídica</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>Examen Online - Gestión Jurídica y Empresarial</title>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <link rel="stylesheet" href="css/style.css?v=4">
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚖️</text></svg>">
 </head>
 
 <body>
+
     <aside id="dashboard">
         <div class="card">
             <div class="ring">
-                <svg viewBox="0 0 80 80">
-                    <circle cx="40" cy="40" r="35" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="8">
-                    </circle>
-                    <circle cx="40" cy="40" r="35" fill="none" stroke="var(--gold)" stroke-width="8"
-                        stroke-dasharray="220" stroke-dashoffset="220" stroke-linecap="round"
-                        style="transition: stroke-dashoffset 0.5s ease;"></circle>
+                <svg viewBox="0 0 120 120">
+                    <circle cx="60" cy="60" r="52" fill="none" stroke="rgba(255,255,255,.1)" stroke-width="10"></circle>
+                    <circle id="ring-progress" cx="60" cy="60" r="52" fill="none" stroke="var(--gold)" stroke-width="10"
+                        stroke-linecap="round" stroke-dasharray="327" stroke-dashoffset="327"></circle>
                 </svg>
-                <div class="label">0%</div>
+                <div class="label"><span id="ring-label">0%</span></div>
             </div>
-        </div>
-
-        <div class="card stat-grid">
-            <div class="badge ok">✅ <span id="count-ok">0</span></div>
-            <div class="badge ko">❌ <span id="count-ko">0</span></div>
-            <div class="badge sk">⚠️ <span id="count-sk">0</span></div>
-            <div class="badge sc">📝 <span id="count-sc">0/30</span></div>
+            <div class="row"><span class="muted">Pregunta</span><strong id="ring-step">1 / 0</strong></div>
+            <div class="row"><span class="muted">Precisión</span><strong id="ring-acc">0%</strong></div>
+            <div style="font-size:0.7em; color:#555; text-align:center; margin-top:5px;">v2.0</div>
         </div>
 
         <div class="card">
-            <div class="muted">Navegación</div>
-            <div class="navigator" id="navigator"></div>
+            <div class="stat-grid">
+                <div class="badge ok">Aciertos <span id="s-ok">0</span></div>
+                <div class="badge ko">Fallos <span id="s-ko">0</span></div>
+                <div class="badge sk">Omitidas <span id="s-sk">0</span></div>
+                <div class="badge sc">Puntuación <span id="s-sc">0.00</span></div>
+            </div>
         </div>
 
-        <div class="card" style="margin-top:auto">
-            <button onclick="location.href='index.html'" class="btn-amber" style="width:100%">Volver al Menú</button>
+        <div class="card">
+            <div id="mini-nav" class="navigator"></div>
         </div>
+
+
     </aside>
 
     <main>
         <div id="quiz-app">
-            <div id="quiz-container">
-                <h1 id="quiz-title">Examen de Gestión Jurídica</h1>
+            <section id="quiz-container">
+                <h1>Cargando examen...</h1>
 
-                <div id="question-container">
-                    <div id="question-text">Cargando pregunta...</div>
-                    <div id="options-container"></div>
-                </div>
+                <!-- <div id="question-counter"></div> -->
+                <div id="question-text"></div>
+                <div id="options-container"></div>
 
                 <div id="feedback-container" class="hidden"></div>
 
-                <div class="row" style="margin-top: 24px;">
-                    <button id="prev-btn" onclick="prevQuestion()" disabled>Anterior</button>
-                    <button id="next-btn" onclick="nextQuestion()">Siguiente</button>
-                    <button id="finish-btn" onclick="finishQuiz()" class="hidden btn-red">Finalizar Examen</button>
+                <div id="navigation-buttons" style="margin-top:20px; display:flex; gap:10px; flex-wrap:wrap;">
+                    <button id="submit-btn" class="hidden">Responder</button>
+                    <button id="skip-btn" class="hidden btn-amber">Saltar</button>
+                    <button id="next-btn" class="hidden btn-blue">Siguiente</button>
+
+                    <button onclick="window.open('https://notebooklm.google.com/', '_blank')" class="btn-ghost"
+                        style="margin-left:auto;">
+                        🤖 PREGUNTAME
+                    </button>
                 </div>
-            </div>
+            </section>
         </div>
     </main>
 
-    <!-- Final Results Overlay -->
     <div id="final-overlay" class="hidden">
         <div id="final-card">
-            <div id="score-container">
-                <h2 id="final-score-text" style="font-size: 2.5rem; margin-bottom: 10px;">Nota: 0 / 10</h2>
-                <p id="final-stats-text" class="muted">Correctas: 0 | Incorrectas: 0 | Saltadas: 0</p>
-                <div class="row" style="justify-content: center; margin-top: 20px; gap: 15px;">
-                    <button onclick="location.reload()" class="btn-blue">Repetir Examen</button>
-                    <button onclick="location.href='index.html'" class="btn-amber">Ir al Menú</button>
-                    <button onclick="closeOverlay()" class="btn-notebook">Ver Errores</button>
+
+            <!-- CABECERA DE PUNTUACIÓN -->
+            <div class="card" style="padding:36px; text-align:center;">
+                <h2 style="font-size:2rem; margin-bottom:8px; color: var(--gold);">Examen Finalizado 🏁</h2>
+                <div id="final-score-big" style="font-size:4rem; color:var(--gold); font-weight:900;">0.00</div>
+                <div id="final-msg" style="margin-bottom:24px; color:var(--muted);"></div>
+
+                <!-- Resumen rápido -->
+                <div id="final-summary-badges"
+                    style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-bottom:28px;"></div>
+
+                <div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
+                    <button id="ovl-restart" class="btn-blue">🔄 Intentar de nuevo</button>
+                    <button id="ovl-close" class="btn-red">🏠 Volver al inicio</button>
                 </div>
             </div>
 
-            <div class="final-section ok" style="margin-top: 20px;">
-                <div class="final-section-header">
-                    Resumen del Examen
-                </div>
-                <div id="summary-body" class="final-section-body"></div>
-            </div>
+            <!-- DETALLE POR CATEGORÍA -->
+            <div id="final-detail" style="margin-top:24px; display:flex; flex-direction:column; gap:20px;"></div>
+
         </div>
     </div>
 
-    <script src="js/app.js"></script>
+    <script src="js/app.js?v=4"></script>
+
 </body>
 
 </html>

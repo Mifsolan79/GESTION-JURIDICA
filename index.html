@@ -4,19 +4,24 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Exámenes – Gestión de la Documentación Jurídica y Empresarial</title>
+    <title>GESTIÓN DE LA DOCUMENTACIÓN JURÍDICA Y EMPRESARIAL</title>
     <style>
         :root {
+            /* Purple/Violet Theme (Neon Juridico) */
             --bg: #1f0e2e;
-            --panel: #321a3fcc;
+            /* Dark purple bg */
+            --panel: rgba(50, 26, 63, 0.95);
             --text: #f0e8ff;
+            /* Lavender 50 */
             --muted: #c4bad9;
+            /* Gray 400 */
             --neon-main: #d46aff;
-            /* morado principal */
+            /* Purple 400 */
             --neon-alt: #e3a3ff;
-            /* morado secundario */
+            /* Purple 300 */
             --border: #4a3160;
-            --shadow: 0 6px 16px rgba(0, 0, 0, .45);
+            /* Purple 800 */
+            --shadow: 0 6px 16px rgba(212, 106, 255, 0.25);
             --radius: 10px;
         }
 
@@ -38,7 +43,7 @@
         }
 
         body {
-            font-family: system-ui, Segoe UI, Roboto, sans-serif;
+            font-family: system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica, Arial;
             color: var(--text);
             background: var(--bg);
         }
@@ -69,32 +74,15 @@
         header.app h1 {
             margin: 0;
             font-size: clamp(1.2rem, 4vw, 2.2rem);
-            text-shadow: 0 0 8px rgba(212, 106, 255, .35), 0 0 14px rgba(227, 163, 255, .25);
+            color: var(--neon-main);
+            text-shadow: 0 0 8px rgba(212, 106, 255, 0.35), 0 0 14px rgba(227, 163, 255, 0.25);
         }
 
         .grid {
             display: grid;
-            grid-template-columns: repeat(5, 1fr);
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
             gap: 14px;
             margin-top: 20px;
-        }
-
-        @media (max-width: 900px) {
-            .grid {
-                grid-template-columns: repeat(4, 1fr);
-            }
-        }
-
-        @media (max-width: 700px) {
-            .grid {
-                grid-template-columns: repeat(3, 1fr);
-            }
-        }
-
-        @media (max-width: 500px) {
-            .grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
         }
 
         .card {
@@ -102,33 +90,22 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            padding: 14px;
+            padding: 20px 14px;
             border-radius: 12px;
             border: 1px solid var(--border);
-            background: linear-gradient(180deg, rgba(50, 25, 60, .85), rgba(25, 10, 30, .85));
+            background: rgba(50, 26, 63, 0.85);
             text-decoration: none;
             color: var(--text);
             box-shadow: var(--shadow);
             transition: all .2s ease-in-out;
             text-align: center;
+            cursor: pointer;
         }
 
         .card:hover {
             transform: translateY(-3px) scale(1.02);
             border-color: var(--neon-main);
-            box-shadow: 0 0 8px var(--neon-main), 0 0 16px var(--neon-alt), 0 0 30px rgba(227, 163, 255, .5);
-        }
-
-        .card.disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-            filter: grayscale(0.8);
-        }
-
-        .card.disabled:hover {
-            transform: none;
-            border-color: var(--border);
-            box-shadow: var(--shadow);
+            box-shadow: 0 0 8px var(--neon-main), 0 0 16px var(--neon-alt), 0 0 30px rgba(227, 163, 255, 0.4);
         }
 
         .card .kicker {
@@ -154,6 +131,17 @@
             background: #321a3f;
             color: var(--muted);
         }
+
+        .card.disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            border-color: #4a3160;
+        }
+
+        .card.disabled:hover {
+            transform: none;
+            box-shadow: none;
+        }
     </style>
 </head>
 
@@ -169,7 +157,7 @@
     </div>
 
     <script>
-        // Fondo dinámico purpura
+        // Fondo dinámico Purple
         const canvas = document.getElementById("bgCanvas");
         const ctx = canvas.getContext("2d");
         let particles = [];
@@ -185,10 +173,9 @@
                 dy: (Math.random() - 0.5) * 0.6
             }));
         }
-
         function draw() {
             ctx.clearRect(0, 0, canvas.width, canvas.height);
-            ctx.fillStyle = "#d46aff";
+            ctx.fillStyle = "#d46aff"; /* Purple 400 */
             particles.forEach(p => {
                 ctx.beginPath();
                 ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
@@ -200,47 +187,61 @@
             });
             requestAnimationFrame(draw);
         }
-
         window.addEventListener("resize", resize);
         resize();
         draw();
 
-        // Script de exámenes
+        // Script de temas
         (function () {
-            const pad2 = n => n.toString().padStart(2, '0');
+            // Títulos específicos para los temas
+            const titulos = {
+                1: "ORGANIZACIÓN DE LA DOCUMENTACIÓN",
+                2: "ARCHIVO DE LA INFORMACIÓN",
+                3: "LA EMPRESA Y SU ORGANIZACIÓN",
+                4: "LAS FUENTES DEL DERECHO",
+                5: "LA NORMA JURÍDICA",
+                6: "LOS SUJETOS DEL DERECHO",
+                7: "LOS HECHOS Y ACTOS JURÍDICOS",
+                8: "EL DERECHO MERCANTIL",
+                9: "LOS DOCUMENTOS JURÍDICOS",
+                10: "EL PROCESO JUDICIAL",
+                11: "CONTRATO DE TRABAJO",
+                12: "LA NÓMINA",
+                13: "MODIFICACIÓN Y EXTINCIÓN",
+                14: "PROCEDIMIENTO ADMINISTRATIVO",
+                15: "CONTRATACIÓN PÚBLICA",
+                16: "FACTURACIÓN ELECTRÓNICA",
+                17: "FORMAS JURÍDICAS DE EMPRESA",
+                18: "DOC. DE CONSTITUCIÓN",
+                19: "TRÁMITES DE CONSTITUCIÓN",
+                20: "CONTRATACIÓN PRIVADA"
+            };
 
-            // Temas disponibles (basado en la extracción real)
             const DISPONIBLES = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20];
 
             const temas = Array.from({ length: 20 }, (_, i) => {
-                const n = i + 1,
-                    tag = pad2(n);
+                const n = i + 1;
+                const tituloEspecifico = titulos[n] ? titulos[n] : `TEMA ${n}`;
                 const disponible = DISPONIBLES.includes(n);
+
                 return {
-                    tipo: 'temas',
                     numero: n,
-                    titulo: `TEMA ${tag}`,
-                    href: disponible ? `exam.html?tema=${tag}` : '#',
-                    disponible
+                    titulo: tituloEspecifico,
+                    href: disponible ? `exam.html?tema=${n}` : '#',
+                    disponible: disponible
                 };
             });
 
             const grid = document.getElementById('grid');
 
-            function render() {
-                let items = [...temas];
-                items.sort((a, b) => a.numero - b.numero);
-
-                grid.innerHTML = items.map(it => `
-          <a class="card ${it.disponible ? '' : 'disabled'}" href="${it.href}">
-            <div class="kicker">${it.disponible ? 'EXAMEN' : 'PRÓXIMAMENTE'}</div>
-            <strong>${it.titulo}</strong>
-            <span class="badge">${pad2(it.numero)}</span>
-          </a>
-        `).join('');
-            }
-
-            render();
+            grid.innerHTML = temas.map(it => `
+                <a class="card ${it.disponible ? '' : 'disabled'}" href="${it.href}">
+                    <div class="kicker">EXAMEN</div>
+                    <strong>${it.titulo}</strong>
+                    <span class="badge">Tema ${it.numero}</span>
+                    ${!it.disponible ? '<span class="badge" style="background:#2d1045; color:#d46aff; margin-top:4px;">🔒 Bloqueado</span>' : ''}
+                </a>
+            `).join('');
         })();
     </script>
 </body>
