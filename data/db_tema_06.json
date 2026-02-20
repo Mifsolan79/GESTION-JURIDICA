@@ -1,0 +1,335 @@
+{
+  "title": "La Administración Pública española (Tema 06)",
+  "items": [
+    {
+      "question": "¿Cuál es la función principal de la Administración General del Estado (AGE)?",
+      "options": [
+        "Elaborar y aprobar las leyes orgánicas.",
+        "Ser el medio por el que el Gobierno desarrolla su acción ejecutiva y presta servicio a los ciudadanos.",
+        "Controlar la constitucionalidad de las actuaciones del Gobierno.",
+        "Representar al Estado en las relaciones internacionales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto define a la Administración General del Estado como el instrumento a través del cual el Gobierno lleva a cabo su acción ejecutiva y sirve a los ciudadanos. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "¿Quién nombra y cesa a los ministros del Gobierno de España?",
+      "options": [
+        "El Rey",
+        "El Congreso de los Diputados por mayoría absoluta",
+        "El Presidente del Gobierno",
+        "El Senado por mayoría simple"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Los ministros son nombrados y cesados libremente y a voluntad por el presidente del Gobierno. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "¿Mediante qué tipo de norma se determina el número de ministerios y sus competencias?",
+      "options": [
+        "Ley Orgánica",
+        "Ley Ordinaria",
+        "Real Decreto del presidente del Gobierno",
+        "Orden Ministerial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El número, nombre y competencias de los ministerios se establecen por Real Decreto del presidente del Gobierno. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "Una de las competencias destacadas de un ministro es:",
+      "options": [
+        "Nombrar al presidente del Gobierno.",
+        "Ejercer la potestad reglamentaria en las materias propias de su departamento.",
+        "Resolver recursos de amparo ante el Tribunal Constitucional.",
+        "Dirigir la política exterior de forma autónoma."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Los ministros tienen atribuida la potestad reglamentaria, que pueden ejercer en las materias específicas de su departamento ministerial. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "Dentro de la estructura de un ministerio, ¿de qué se encargan los órganos superiores?",
+      "options": [
+        "De la ejecución y desarrollo de los planes.",
+        "De la gestión del personal funcionario de base.",
+        "De la planificación y diseño de los planes de actuación.",
+        "Del mantenimiento de los edificios administrativos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Las funciones de un ministerio se dividen en dos grupos: la planificación y diseño (a cargo de los órganos superiores) y el desarrollo y ejecución (a cargo de los órganos directivos). Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "¿Cuáles son los órganos superiores en la estructura de un ministerio?",
+      "options": [
+        "El Subsecretario y el Director General.",
+        "El Ministro y el Secretario de Estado.",
+        "El Secretario General y el Subdirector General.",
+        "Únicamente el Ministro."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La estructura jerárquica de un ministerio sitúa al Ministro y al Secretario de Estado como los órganos superiores. Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un órgano directivo de un ministerio?",
+      "options": [
+        "Ministro.",
+        "Secretario de Estado.",
+        "Subsecretario.",
+        "Presidente del Gobierno."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Subsecretario, junto con el Secretario General, el Director General y el Subdirector General, forma parte de los órganos directivos de un ministerio. Fundamento: Página 5, Figura 3."
+    },
+    {
+      "question": "Según el texto, ¿qué órganos son obligatorios en todos los ministerios?",
+      "options": [
+        "Las Secretarías de Estado y las Secretarías Generales.",
+        "Todos los órganos son voluntarios y dependen de cada ministro.",
+        "El Ministro, Subsecretario, Director General y Subdirector General.",
+        "El Ministro y el Secretario de Estado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se indica que las Secretarías de Estado y las Secretarías Generales son órganos voluntarios, mientras que el resto (Ministro, Subsecretario, etc.) son obligatorios. Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "El nombramiento de los funcionarios que ocupan cargos directivos se realiza por:",
+      "options": [
+        "Concurso-oposición.",
+        "Antigüedad en el cuerpo de funcionarios.",
+        "Elección directa de los ciudadanos.",
+        "Libre designación por su superior jerárquico."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Todos los funcionarios que ocupan cargos directivos son de libre designación, lo que significa que son nombrados y cesados a voluntad por su superior jerárquico. Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "La organización de la Administración que atiende al modelo territorial del Estado se denomina:",
+      "options": [
+        "Organización funcional.",
+        "Organización jerárquica.",
+        "Organización territorial.",
+        "Organización central."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Además de la organización funcional (por materias), la Administración Pública necesita una organización territorial para adaptarse al modelo de Estado de las autonomías. Fundamento: Página 6, sección 4."
+    },
+    {
+      "question": "¿Qué órgano dirige la Administración General del Estado (AGE) en el territorio de una Comunidad Autónoma?",
+      "options": [
+        "El Presidente de la Comunidad Autónoma.",
+        "La Delegación del Gobierno.",
+        "El Tribunal Superior de Justicia.",
+        "Una Secretaría de Estado."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La Constitución establece la figura del Delegado del Gobierno, quien dirige la AGE en el territorio de cada Comunidad Autónoma y la coordina con la administración autonómica. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "¿En qué estructura orgánica se integran las Delegaciones del Gobierno?",
+      "options": [
+        "En el Ministerio de Justicia.",
+        "En el Ministerio que asuma las funciones de Administraciones Públicas.",
+        "Directamente en la Presidencia del Gobierno.",
+        "En el Ministerio del Interior."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Las Delegaciones del Gobierno se integran en la estructura orgánica del Ministerio que en cada momento tenga atribuidas las competencias sobre Administraciones Públicas. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "¿Quién nombra al Delegado del Gobierno en una Comunidad Autónoma?",
+      "options": [
+        "El Rey a propuesta del Presidente del Gobierno.",
+        "El Consejo de Ministros por Real Decreto.",
+        "El Congreso de los Diputados por mayoría simple.",
+        "El Presidente de la Comunidad Autónoma."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El nombramiento del Delegado del Gobierno se realiza por Real Decreto del Consejo de Ministros, a propuesta del presidente del Gobierno. Fundamento: Página 7, sección 4.2."
+    },
+    {
+      "question": "¿Qué rango tiene un Delegado del Gobierno dentro de la Administración?",
+      "options": [
+        "Ministro",
+        "Secretario de Estado",
+        "Subsecretario",
+        "Director General"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Delegado del Gobierno es un órgano directivo de la Administración que tiene rango de Subsecretario. Fundamento: Página 7, sección 4.2."
+    },
+    {
+      "question": "Una de las competencias del Delegado del Gobierno es:",
+      "options": [
+        "Aprobar las leyes autonómicas.",
+        "Nombrar a los consejeros del gobierno autonómico.",
+        "Ostentar la jefatura de los cuerpos y fuerzas de seguridad del Estado en su territorio.",
+        "Resolver los recursos de inconstitucionalidad."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Delegado del Gobierno garantiza la seguridad ciudadana y ostenta la jefatura de las fuerzas y cuerpos de seguridad del Estado en el ámbito de su Comunidad Autónoma. Fundamento: Página 7, sección 4.2."
+    },
+    {
+      "question": "Los servicios no integrados en la Delegación del Gobierno, como las Delegaciones de Hacienda, dependen de:",
+      "options": [
+        "El Delegado del Gobierno directamente.",
+        "El Ministerio correspondiente.",
+        "La Comunidad Autónoma.",
+        "El Subdelegado del Gobierno."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El Delegado del Gobierno coordina los servicios no integrados (cuya estructura se mantiene), pero estos dependen funcionalmente del Ministerio correspondiente (en el ejemplo, el de Hacienda). Fundamento: Página 8, Figura 5."
+    },
+    {
+      "question": "¿En qué tipo de Comunidades Autónomas existen, por regla general, las Subdelegaciones del Gobierno?",
+      "options": [
+        "En todas las Comunidades Autónomas sin excepción.",
+        "Únicamente en las uniprovinciales.",
+        "En las Comunidades Autónomas pluriprovinciales.",
+        "Solo en Ceuta y Melilla."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La AGET se completa con Subdelegaciones del Gobierno en cada una de las provincias de las Comunidades Autónomas que están formadas por varias provincias (pluriprovinciales). Fundamento: Página 8, sección 4.3."
+    },
+    {
+      "question": "¿Qué requisito se exige para ser nombrado Subdelegado del Gobierno?",
+      "options": [
+        "Ser diputado o senador.",
+        "Ser un funcionario de carrera.",
+        "Tener la misma afiliación política que el Delegado del Gobierno.",
+        "Haber sido alcalde de la capital de provincia."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El cargo de Subdelegado del Gobierno debe ser ocupado por un funcionario de carrera, nombrado por el procedimiento de libre designación. Fundamento: Página 8, sección 4.3."
+    },
+    {
+      "question": "¿De quién depende jerárquicamente el Subdelegado del Gobierno?",
+      "options": [
+        "Del Ministro del Interior.",
+        "Del Presidente del Gobierno.",
+        "Del Delegado del Gobierno.",
+        "Del Presidente de la Comunidad Autónoma."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Subdelegado del Gobierno se encuentra bajo la dependencia jerárquica directa del Delegado del Gobierno de su respectiva Comunidad Autónoma. Fundamento: Página 8, sección 4.3."
+    },
+    {
+      "question": "¿Qué son las Direcciones Insulares de la AGE?",
+      "options": [
+        "Órganos equivalentes a los Ministerios en las islas.",
+        "Un nivel inferior en la AGET para las islas de Baleares y Canarias.",
+        "Delegaciones especiales del Gobierno para asuntos marítimos.",
+        "Oficinas de turismo del Gobierno central en las islas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La Ley de Régimen Jurídico del Sector Público prevé la existencia de los Directores Insulares, un nivel inferior en la AGE, para determinadas islas de los archipiélagos balear y canario. Fundamento: Página 9, sección 4.4."
+    },
+    {
+      "question": "¿Quién nombra a los Directores Insulares?",
+      "options": [
+        "El Consejo de Ministros.",
+        "El Ministro de Administraciones Públicas.",
+        "El Delegado del Gobierno.",
+        "El presidente del cabildo o consejo insular."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Los Directores Insulares son nombrados por el Delegado del Gobierno de la Comunidad Autónoma correspondiente. Fundamento: Página 9, sección 4.4."
+    },
+    {
+      "question": "En una Comunidad Autónoma uniprovincial sin subdelegado, ¿quién sustituye al Delegado del Gobierno en caso de ausencia?",
+      "options": [
+        "El Director Insular más antiguo.",
+        "El alcalde de la capital.",
+        "El Secretario General de la Delegación del Gobierno.",
+        "Nadie, el cargo queda vacante hasta un nuevo nombramiento."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se especifica que si la Comunidad es uniprovincial y no hay Subdelegado, la sustitución del Delegado recae en el Secretario General de la propia Delegación. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "El principio de organización de la AGE que consiste en cumplir los objetivos con la máxima calidad y dentro del presupuesto se llama:",
+      "options": [
+        "Jerarquía",
+        "Coordinación",
+        "Eficacia",
+        "Descentralización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El principio de eficacia se define como el cumplimiento de los objetivos públicos con la máxima calidad posible y ajustándose a los recursos presupuestarios establecidos. Fundamento: Página 9, sección 6."
+    },
+    {
+      "question": "¿Qué significa el principio de descentralización?",
+      "options": [
+        "El predominio de los órganos superiores sobre los inferiores.",
+        "El traspaso de competencias de un órgano superior a otro inferior dentro de la misma administración.",
+        "El traslado de competencias de una administración a otra más cercana a los ciudadanos.",
+        "Actuar siguiendo los mismos criterios para conseguir un objetivo común."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La descentralización supone trasladar competencias desde una administración a otra diferente que se considera más cercana a los ciudadanos (por ejemplo, del Estado a una Comunidad Autónoma). Fundamento: Página 10, sección 6."
+    },
+    {
+      "question": "¿Y el principio de desconcentración?",
+      "options": [
+        "Servir al interés público, general y común de los ciudadanos.",
+        "Trasladar competencias de una administración a otra distinta.",
+        "Actuar siguiendo los mismos criterios para un objetivo común.",
+        "El traspaso de competencias entre órganos de la misma administración, de uno superior a otro inferior."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: A diferencia de la descentralización, la desconcentración es el traspaso de competencias entre órganos de una misma administración, de un nivel superior a uno inferior. Fundamento: Página 10, sección 6."
+    },
+    {
+      "question": "El principio de actuación administrativa según el cual la Administración sirve al interés público, general y común se denomina:",
+      "options": [
+        "Legalidad",
+        "Objetividad",
+        "Igualdad",
+        "Participación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El principio de objetividad significa que la actuación de la Administración debe estar orientada a servir al interés público y general de todos los ciudadanos. Fundamento: Página 10, sección 6."
+    },
+    {
+      "question": "La obligación de la Administración de facilitar la participación y la audiencia de los ciudadanos se basa en el principio de:",
+      "options": [
+        "Jerarquía",
+        "Legalidad",
+        "Eficacia",
+        "Participación de los ciudadanos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Uno de los principios de actuación es el de participación, que obliga a la Administración a facilitar que los ciudadanos puedan participar en los procedimientos y acceder a los registros públicos. Fundamento: Página 10, sección 6."
+    },
+    {
+      "question": "El principio de legalidad en la actuación administrativa significa que:",
+      "options": [
+        "La Administración puede actuar libremente sin someterse a ninguna norma.",
+        "La actuación de la Administración está sometida a la Constitución y a las leyes.",
+        "Todos los ciudadanos son iguales ante la Administración.",
+        "La Administración debe ser siempre eficaz y eficiente."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El principio de legalidad implica que toda la actuación de la Administración debe estar sometida y ser conforme a la Constitución y al resto del ordenamiento jurídico. Fundamento: Página 10, sección 6."
+    },
+    {
+      "question": "¿Cuál es la estructura básica de un órgano administrativo, donde prestan servicios los funcionarios bajo un superior común?",
+      "options": [
+        "El Ministerio.",
+        "La Secretaría de Estado.",
+        "La unidad administrativa.",
+        "La Delegación del Gobierno."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se define la unidad administrativa como la estructura básica de un órgano, compuesta por funcionarios y personal laboral bajo la dirección de un superior jerárquico común. Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "¿Mediante qué norma se crean, modifican y suprimen los órganos directivos de un Ministerio?",
+      "options": [
+        "Ley Orgánica.",
+        "Real Decreto del Consejo de Ministros.",
+        "Orden del Ministro del departamento.",
+        "Resolución del Subsecretario."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La creación, modificación o supresión de los órganos directivos de un Ministerio se realiza por Real Decreto del Consejo de Ministros. Fundamento: Página 5, sección 2.2."
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "title": "La provincia y otras entidades locales (Tema 10)",
+  "items": [
+    {
+      "question": "¿Qué tipo de norma se necesita para aprobar una alteración de los límites provinciales?",
+      "options": [
+        "Una ley ordinaria de la comunidad autónoma.",
+        "Un Real Decreto del Gobierno.",
+        "Una ley orgánica de las Cortes Generales.",
+        "Un acuerdo del Pleno de las diputaciones afectadas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto indica, citando el artículo 141 de la Constitución, que la alteración de los límites provinciales debe ser aprobada por las Cortes Generales mediante una ley orgánica. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "En municipios de menos de 5.000 habitantes, ¿qué servicio deben asumir obligatoriamente los órganos de gobierno provinciales?",
+      "options": [
+        "Limpieza viaria.",
+        "Alumbrado público.",
+        "Recogida y tratamiento de residuos.",
+        "Pavimentación de vías urbanas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se especifica que para los municipios de menos de 20.000 habitantes, las provincias coordinan varios servicios, pero deben asumir directamente la recogida y tratamiento de residuos en los de menos de 5.000. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "Además de la coordinación de servicios, ¿qué otra función tienen los órganos de gobierno provincial?",
+      "options": [
+        "La elaboración de leyes autonómicas.",
+        "La gestión de la sanidad y la educación.",
+        "La prestación de servicios de carácter supramunicipal.",
+        "La dirección de la política de seguridad ciudadana."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se establece que los órganos de gobierno provincial se encargan de la prestación de servicios de carácter supramunicipal y supracomarcal. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "¿Qué nombre reciben los órganos de gobierno de las provincias en las Islas Baleares?",
+      "options": [
+        "Diputaciones insulares.",
+        "Cabildos.",
+        "Diputaciones forales.",
+        "Consejos insulares."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El documento especifica que los consejos insulares en las Islas Baleares son los órganos de gobierno de las provincias. Fundamento: Página 5, sección 3."
+    },
+    {
+      "question": "¿Qué ocurre con las competencias de la diputación en las comunidades autónomas uniprovinciales?",
+      "options": [
+        "Son gestionadas directamente por el Gobierno central.",
+        "La comunidad autónoma asume dichas competencias.",
+        "Se crea una diputación especial con menos funciones.",
+        "Estas competencias se reparten entre los municipios."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se indica como excepción que las comunidades autónomas uniprovinciales asumen las competencias de las diputaciones provinciales. Fundamento: Página 5, sección 3."
+    },
+    {
+      "question": "En las provincias vascas, los órganos de gobierno provinciales se denominan:",
+      "options": [
+        "Diputaciones provinciales.",
+        "Cabildos forales.",
+        "Diputaciones forales.",
+        "Consejos forales."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto señala que en las provincias vascas, estos órganos reciben el nombre de diputaciones forales. Fundamento: Página 5, sección 3."
+    },
+    {
+      "question": "Según el texto, ¿qué órgano existe en todas las diputaciones para el estudio de asuntos que se someten al pleno y el control de la gestión?",
+      "options": [
+        "Una comisión de control ciudadano.",
+        "Un órgano de estudio o consulta (comisiones informativas).",
+        "Un consejo asesor nombrado por la comunidad autónoma.",
+        "La Junta de Portavoces."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se afirma que todas las diputaciones cuentan con un órgano encargado del estudio o consulta de los asuntos del pleno y del control de la gestión de los órganos de gobierno. Fundamento: Página 5, sección 3."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una competencia del Presidente de la Diputación Provincial?",
+      "options": [
+        "Aprobar las ordenanzas provinciales.",
+        "Votar la moción de censura.",
+        "Dirigir el gobierno y la administración provincial.",
+        "Aprobar los presupuestos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Al igual que un alcalde en el municipio, una de las competencias principales del presidente es dirigir el gobierno y la administración provincial. Las otras son competencias del Pleno. Fundamento: Página 6, sección 5."
+    },
+    {
+      "question": "¿Cómo se elige al presidente de una Diputación Provincial?",
+      "options": [
+        "Es el candidato de la lista más votada en las elecciones provinciales.",
+        "Es elegido directamente por los ciudadanos.",
+        "Los diputados provinciales lo eligen de entre sus miembros.",
+        "Es nombrado por el presidente de la comunidad autónoma."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto indica que los diputados provinciales eligen al presidente de entre sus miembros por mayoría absoluta. Fundamento: Página 6, sección 5."
+    },
+    {
+      "question": "En los cabildos insulares canarios, ¿quién es proclamado presidente?",
+      "options": [
+        "El que eligen los consejeros por mayoría simple.",
+        "El candidato de la lista más votada.",
+        "El consejero de mayor edad.",
+        "El que eligen los alcaldes de la isla."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: A diferencia de las diputaciones, en los cabildos insulares será presidente el candidato de la lista más votada. Fundamento: Página 6, sección 5."
+    },
+    {
+      "question": "La Junta de Gobierno de una diputación está integrada por el presidente y un número de diputados que no puede superar:",
+      "options": [
+        "La mitad del número legal de diputados.",
+        "Un cuarto del número legal de diputados.",
+        "Un tercio del número legal de diputados.",
+        "El 40% del número legal de diputados."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El documento especifica que el número de miembros de la Junta de Gobierno no puede superar el tercio del número legal de diputados provinciales. Fundamento: Página 7, sección 5."
+    },
+    {
+      "question": "¿Cuántos diputados corresponden a una provincia con una población de 4.000.000 de habitantes?",
+      "options": [
+        "27",
+        "31",
+        "51",
+        "25"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Según la tabla de la Ley Orgánica del Régimen Electoral General, a las provincias con 3.500.001 residentes en adelante les corresponden 51 diputados. Fundamento: Página 7, figura 5."
+    },
+    {
+      "question": "¿Cuántos diputados se eligen en una provincia con una población de 700.000 residentes?",
+      "options": [
+        "25",
+        "27",
+        "31",
+        "51"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: De acuerdo con la escala proporcionada, el tramo de 500.001 a 1.000.000 de residentes elige a 27 diputados. Fundamento: Página 7, figura 5."
+    },
+    {
+      "question": "En el reparto de diputados provinciales por partidos judiciales, ¿cuál es una de las reglas que se aplica?",
+      "options": [
+        "Todos los partidos judiciales tendrán al menos un diputado.",
+        "Solo los partidos judiciales con más de 10.000 habitantes tienen diputado.",
+        "El partido judicial de la capital siempre tendrá la mitad de los diputados.",
+        "Ningún partido judicial puede tener más de 5 diputados."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explicación: El texto establece como primera regla que todos los partidos judiciales tendrán, como mínimo, un diputado asignado. Fundamento: Página 7, sección 6."
+    },
+    {
+      "question": "El sistema de elección de los miembros de las diputaciones provinciales es:",
+      "options": [
+        "Directo por los ciudadanos.",
+        "Por sorteo entre los alcaldes de la provincia.",
+        "Indirecto, a través de los concejales electos.",
+        "Por designación de la comunidad autónoma."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se describe un procedimiento indirecto de elección donde los concejales de cada grupo político eligen a quienes de entre ellos serán los diputados provinciales. Fundamento: Página 8, sección 6."
+    },
+    {
+      "question": "¿Qué método se utiliza para distribuir los puestos de diputados entre las diferentes listas políticas?",
+      "options": [
+        "El sistema de cuotas.",
+        "El método D'Hont.",
+        "El sistema mayoritario simple.",
+        "El método de resto mayor."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se indica que a la lista de partidos, coaliciones y agrupaciones se le aplica el método D'Hont para distribuir los diputados. Fundamento: Página 8, sección 6."
+    },
+    {
+      "question": "A diferencia de las diputaciones, ¿cómo se eligen los miembros de los cabildos y consejos insulares?",
+      "options": [
+        "Por un sistema indirecto a través de los alcaldes.",
+        "Por elección directa de los ciudadanos.",
+        "Son nombrados por el gobierno autonómico.",
+        "Por sorteo entre los ciudadanos censados."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto contrasta el sistema indirecto de las diputaciones con el de los órganos insulares, cuya elección es directa por los ciudadanos en las mismas elecciones municipales. Fundamento: Página 8, sección 6."
+    },
+    {
+      "question": "¿Qué normativa rige principalmente a los órganos forales vascos?",
+      "options": [
+        "Exclusivamente la Ley de Bases de Régimen Local.",
+        "El Estatuto de Autonomía de esta comunidad.",
+        "La Ley Orgánica del Régimen Electoral General.",
+        "Un reglamento aprobado por el Gobierno central."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se especifica que los órganos forales vascos se rigen por el Estatuto de Autonomía de su comunidad y, de forma supletoria, por la LBRL. Fundamento: Página 8, sección 7.1."
+    },
+    {
+      "question": "¿Qué es una Mancomunidad?",
+      "options": [
+        "El órgano de gobierno de las comunidades uniprovinciales.",
+        "Una entidad creada por una comunidad autónoma para integrar una gran ciudad con su área de influencia.",
+        "Una asociación de municipios para ejecutar en común obras y servicios de su competencia.",
+        "El nombre que reciben las diputaciones en las Islas Canarias."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se definen las Mancomunidades como entidades creadas a iniciativa de los propios municipios para asociarse y ejecutar obras y servicios comunes. Fundamento: Página 9, sección 7.2."
+    },
+    {
+      "question": "¿Qué entidad local pueden crear las comunidades autónomas para planificar servicios en una gran ciudad y los municipios de su área de influencia?",
+      "options": [
+        "Una comarca.",
+        "Una mancomunidad.",
+        "Un área metropolitana.",
+        "Un consorcio provincial."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Las áreas metropolitanas son descritas como entidades que las CCAA pueden crear para integrar una gran ciudad con los municipios de su área de influencia. Fundamento: Página 9, sección 7.2."
+    },
+    {
+      "question": "Las entidades locales como municipios y provincias, ¿pueden elaborar y aprobar leyes?",
+      "options": [
+        "Sí, pueden aprobar leyes de ámbito local.",
+        "No, solo pueden aprobar normas sin rango de ley.",
+        "Sí, pero deben ser ratificadas por la comunidad autónoma.",
+        "Solo los municipios de gran población pueden hacerlo."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El documento aclara que solo el Estado y las comunidades autónomas pueden aprobar leyes, mientras que los municipios y provincias aprueban normas sin rango de ley. Fundamento: Página 10, sección 9.1."
+    },
+    {
+      "question": "¿Qué tipo de norma local aprueba el Pleno para regular actividades como el tráfico o el urbanismo?",
+      "options": [
+        "Bandos.",
+        "Ordenanzas.",
+        "Decretos de alcaldía.",
+        "Reglamentos de servicio."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Las ordenanzas son definidas como normas que aprueba el pleno del Ayuntamiento o de la Diputación para la regulación de actividades esenciales. Fundamento: Página 10, sección 9.1."
+    },
+    {
+      "question": "¿Para qué sirven los reglamentos orgánicos en las entidades locales?",
+      "options": [
+        "Para establecer los impuestos y tasas municipales.",
+        "Para organizar los órganos municipales y provinciales y establecer sus reglas de funcionamiento.",
+        "Para comunicar decisiones urgentes del alcalde a la población.",
+        "Para regular el uso de los bienes de dominio público."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se indica que los reglamentos orgánicos sirven para organizar los órganos municipales y provinciales y establecer sus normas de organización y funcionamiento. Fundamento: Página 10, sección 9.1."
+    },
+    {
+      "question": "¿Qué son los bandos?",
+      "options": [
+        "Normas aprobadas por el Pleno.",
+        "Una potestad exclusiva de los alcaldes.",
+        "Reglamentos internos del personal del ayuntamiento.",
+        "El presupuesto anual de la entidad local."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto define los bandos como una potestad exclusiva de los alcaldes, utilizada para recordar obligaciones o convocar a eventos. Fundamento: Página 10, sección 9.1."
+    },
+    {
+      "question": "El cobro por el uso de espacio público por la terraza de un bar es un ejemplo de:",
+      "options": [
+        "Impuesto.",
+        "Contribución especial.",
+        "Tasa.",
+        "Precio público."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El documento cita el uso de espacio público por la terraza de un bar como un ejemplo de hecho imponible de una tasa. Fundamento: Página 10, sección 9.2."
+    },
+    {
+      "question": "El pago relacionado con la mejora de servicios, como una nueva red de alcantarillado, se clasifica como:",
+      "options": [
+        "Tasa.",
+        "Contribuciones especiales.",
+        "Impuesto.",
+        "Subvención."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Las contribuciones especiales se definen como tributos relacionados con la mejora de servicios, y se pone como ejemplo una red de alcantarillado. Fundamento: Página 10, sección 9.2."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un impuesto municipal de carácter obligatorio?",
+      "options": [
+        "Impuesto sobre construcciones, instalaciones y obras.",
+        "Impuesto sobre actividades económicas (IAE).",
+        "Impuesto sobre el incremento de valor de los terrenos urbanos.",
+        "Impuesto sobre la publicidad exterior."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto lista tres impuestos como obligatorios para los ayuntamientos: el IBI, el IVTM y el IAE. Fundamento: Página 10, sección 9.2."
+    },
+    {
+      "question": "El Impuesto sobre Vehículos de Tracción Mecánica (IVTM) es de tipo:",
+      "options": [
+        "Obligatorio.",
+        "Voluntario.",
+        "Estatal cedido a los municipios.",
+        "Autonómico con recargo municipal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explicación: Se clasifica el Impuesto sobre Vehículos (IVTM) junto al IBI y al IAE como uno de los impuestos obligatorios para los ayuntamientos. Fundamento: Página 10, sección 9.2."
+    },
+    {
+      "question": "¿Cuál de los siguientes impuestos municipales es de carácter voluntario?",
+      "options": [
+        "Impuesto sobre bienes inmuebles (IBI).",
+        "Impuesto sobre actividades económicas (IAE).",
+        "Impuesto sobre vehículos de tracción mecánica (IVTM).",
+        "Impuesto sobre construcciones, instalaciones y obras."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El texto diferencia entre impuestos obligatorios (IBI, IVTM, IAE) y voluntarios, entre los que se encuentra el impuesto sobre construcciones y obras. Fundamento: Página 10, sección 9.2."
+    },
+    {
+      "question": "Según el texto, ¿qué entidades locales son las únicas que pueden establecer impuestos?",
+      "options": [
+        "Solo las provincias.",
+        "Tanto municipios como provincias.",
+        "Solo los ayuntamientos.",
+        "Las comarcas y las mancomunidades."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Dentro de la sección de tributos propios, al hablar de los impuestos, el documento aclara entre paréntesis: 'solamente los ayuntamientos'. Fundamento: Página 10, sección 9.2."
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "title": "Los poderes públicos y sus funciones (Tema 05)",
+  "items": [
+    {
+      "question": "Según el texto, ¿cómo garantiza el Estado de Derecho el equilibrio de poderes?",
+      "options": [
+        "Concentrando todas las atribuciones en un único órgano.",
+        "A través de relaciones y controles entre los distintos poderes.",
+        "Eliminando el poder judicial para agilizar las decisiones.",
+        "Haciendo que la división entre los poderes sea absoluta y sin comunicación."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El documento indica que la división no es absoluta, sino que existen relaciones y controles que garantizan el equilibrio entre los poderes legislativo, ejecutivo y judicial. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "De acuerdo con el artículo 97 de la Constitución, ¿qué poder ejerce el Gobierno?",
+      "options": [
+        "La potestad legislativa.",
+        "La potestad jurisdiccional.",
+        "La función ejecutiva y la potestad reglamentaria.",
+        "El control de constitucionalidad de las leyes."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto cita expresamente el artículo 97 de la C.E. para señalar que el Gobierno ejerce la función ejecutiva y la potestad reglamentaria. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "¿A quién corresponde exclusivamente el ejercicio de la potestad jurisdiccional según el artículo 117.3 de la C.E.?",
+      "options": [
+        "Al Gobierno.",
+        "A las Cortes Generales.",
+        "A los Juzgados y Tribunales.",
+        "Al Defensor del Pueblo."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El documento especifica, basándose en el artículo 117.3 de la C.E., que la potestad jurisdiccional corresponde exclusivamente a los Juzgados y Tribunales. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una función de las Cortes Generales?",
+      "options": [
+        "Ejercer la Jefatura del Estado.",
+        "Dirigir la Administración civil y militar.",
+        "Interpretar la Constitución en última instancia.",
+        "Aprobar el Presupuesto General del Estado."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Entre las funciones de las Cortes Generales se encuentra la aprobación del Presupuesto General del Estado, a través del cual controlan los ingresos y gastos del Gobierno. Fundamento: Página 5, sección 3."
+    },
+    {
+      "question": "El órgano que organiza el trabajo parlamentario en cada una de las Cámaras se denomina:",
+      "options": [
+        "Pleno",
+        "Mesa",
+        "Diputación Permanente",
+        "Junta de Portavoces"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La Mesa es el órgano encargado de organizar el trabajo parlamentario dentro de cada Cámara (Congreso y Senado). Fundamento: Página 5, sección 3."
+    },
+    {
+      "question": "¿Cuántos diputados componen el Congreso según la Ley Orgánica de Régimen Electoral General?",
+      "options": [
+        "Entre 200 y 300.",
+        "Exactamente 400.",
+        "Exactamente 350.",
+        "Un número variable según la población."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Aunque la Constitución establece un rango de 300 a 400 diputados, se aclara que la Ley Orgánica de Régimen Electoral General concreta esta cifra en 350 miembros. Fundamento: Página 5, sección 3.1."
+    },
+    {
+      "question": "¿Cuál de las siguientes funciones es desarrollada en exclusiva por el Congreso de los Diputados?",
+      "options": [
+        "Autorizar acuerdos entre Comunidades Autónomas.",
+        "Elegir al Presidente del Gobierno.",
+        "Representar a las Comunidades Autónomas.",
+        "Disolver órganos de corporaciones locales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El Congreso tiene el papel exclusivo de elegir al Presidente del Gobierno y de controlar su acción a través de la cuestión de confianza y la moción de censura. Fundamento: Página 5, sección 3.1."
+    },
+    {
+      "question": "El Senado es considerado la cámara de representación...",
+      "options": [
+        "Popular directa.",
+        "Judicial.",
+        "Territorial.",
+        "Del Gobierno."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El artículo 69 de la C.E., citado en el texto, define al Senado como la cámara de representación territorial, encargada de representar a las Comunidades Autónomas. Fundamento: Página 6, sección 3.2."
+    },
+    {
+      "question": "¿Cuántos senadores elige cada provincia peninsular?",
+      "options": [
+        "Un senador.",
+        "Dos senadores.",
+        "Tres senadores.",
+        "Cuatro senadores."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El sistema de elección de senadores establece que cada provincia peninsular elige a cuatro senadores mediante sistema mayoritario. Fundamento: Página 6, sección 3.2."
+    },
+    {
+      "question": "Además de los senadores elegidos por provincia o isla, ¿cómo designan las Comunidades Autónomas a sus senadores?",
+      "options": [
+        "Eligen dos senadores fijos por cada Comunidad.",
+        "Eligen un senador fijo y otro más por cada millón de habitantes.",
+        "Eligen un senador por cada 500.000 habitantes.",
+        "No designan senadores, todos son de elección directa."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Las Comunidades Autónomas nombran a un senador y, adicionalmente, a otro más por cada millón de habitantes de su respectivo territorio. Fundamento: Página 6, sección 3.2."
+    },
+    {
+      "question": "Según el artículo 155.1 de la C.E., ¿en qué materia tiene el Senado una posición superior a la del Congreso?",
+      "options": [
+        "En la aprobación de leyes orgánicas.",
+        "En la elección del Presidente del Gobierno.",
+        "En la aprobación de la intervención en una Comunidad Autónoma.",
+        "En la elaboración de los Presupuestos Generales del Estado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto señala que el Senado tiene una posición superior al Congreso en la aprobación de la aplicación del artículo 155.1 de la C.E., que permite intervenir en una Comunidad Autónoma. Fundamento: Página 6, sección 3.2."
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre el Gobierno y la Administración del Estado?",
+      "options": [
+        "No hay ninguna diferencia, son lo mismo.",
+        "El Gobierno es un órgano técnico y la Administración un órgano político.",
+        "El Gobierno es un órgano político y la Administración es un órgano técnico formado por funcionarios.",
+        "La Administración elige al Gobierno."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El documento distingue claramente al Gobierno como un órgano político (elegido por el Congreso) de la Administración del Estado, que es un órgano técnico compuesto por funcionarios. Fundamento: Página 6, sección 4."
+    },
+    {
+      "question": "Tras las elecciones, ¿quién propone un candidato a la Presidencia del Gobierno para la votación de investidura?",
+      "options": [
+        "El presidente del Senado.",
+        "El presidente del Tribunal Constitucional.",
+        "El candidato del partido más votado, automáticamente.",
+        "El Rey, tras consultar a los representantes de los partidos políticos."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El procedimiento de investidura comienza cuando el Rey, después de realizar consultas con los grupos políticos con representación parlamentaria, propone un candidato. Fundamento: Página 6, sección 4.1."
+    },
+    {
+      "question": "¿Qué mayoría necesita un candidato para ser investido Presidente del Gobierno en la primera votación?",
+      "options": [
+        "Mayoría simple.",
+        "Mayoría de tres quintos.",
+        "Mayoría absoluta.",
+        "Unanimidad."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Para ser elegido presidente en la primera votación, el candidato debe obtener el voto favorable de la mayoría absoluta de los miembros del Congreso de los Diputados. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "Si un Presidente del Gobierno plantea una cuestión de confianza al Congreso, ¿qué mayoría necesita para superarla?",
+      "options": [
+        "Mayoría absoluta.",
+        "Mayoría simple.",
+        "Mayoría de dos tercios.",
+        "El voto favorable de todos los portavoces."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El presidente supera la cuestión de confianza y, por tanto, el Gobierno no cesa, si obtiene una mayoría simple en la votación del Congreso. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "Una característica distintiva de la moción de censura es que:",
+      "options": [
+        "Debe ser propuesta por el propio Presidente del Gobierno.",
+        "Requiere mayoría simple para ser aprobada.",
+        "Debe incluir un candidato alternativo a la presidencia.",
+        "Si es rechazada, se convocan elecciones automáticamente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto aclara que la moción de censura es 'constructiva', lo que significa que debe contener un candidato alternativo que, de aprobarse la moción, es nombrado presidente automáticamente. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "Los Secretarios de Estado y los Gabinetes son ejemplos de:",
+      "options": [
+        "Órdenes jurisdiccionales.",
+        "Órganos de las Cortes Generales.",
+        "Órganos de colaboración y apoyo al Gobierno.",
+        "Instituciones independientes del Estado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La Ley 50/1997 prevé una serie de órganos de colaboración y apoyo al Gobierno, entre los que se encuentran los Secretarios de Estado y los Gabinetes. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "¿Qué orden jurisdiccional se encarga de los asuntos relacionados con el Derecho Laboral y la Seguridad Social?",
+      "options": [
+        "Civil",
+        "Penal",
+        "Social",
+        "Contencioso-Administrativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Los Juzgados de lo Social son los competentes para resolver los asuntos relacionados con el Derecho Laboral y de la Seguridad Social. Fundamento: Página 8, sección 6."
+    },
+    {
+      "question": "Dentro de la jurisdicción penal, ¿qué juzgados se encargan de la investigación de los delitos?",
+      "options": [
+        "Los Juzgados de lo Penal.",
+        "Los Juzgados de Instrucción.",
+        "Los Juzgados de Vigilancia Penitenciaria.",
+        "Las Audiencias Provinciales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: En la jurisdicción penal existe una separación entre la fase de investigación, que corresponde a los Juzgados de Instrucción, y la de enjuiciamiento, que corresponde a los Juzgados de lo Penal. Fundamento: Página 8, sección 6."
+    },
+    {
+      "question": "Un conflicto judicial contra una Administración Pública por una decisión administrativa se resolvería en la jurisdicción:",
+      "options": [
+        "Social.",
+        "Civil.",
+        "Penal.",
+        "Contencioso-Administrativa."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Los juzgados del orden Contencioso-Administrativo son los que asumen los casos relacionados con el Derecho Administrativo, es decir, los conflictos con las Administraciones Públicas. Fundamento: Página 8, sección 6."
+    },
+    {
+      "question": "El Tribunal Supremo se organiza en Salas. ¿Cuántas salas tiene?",
+      "options": [
+        "Una sala única para todos los asuntos.",
+        "Dos salas: una para lo civil y otra para lo penal.",
+        "Tres salas: una por cada poder del Estado.",
+        "Una Sala por cada orden jurisdiccional."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Se menciona que el Tribunal Supremo consta de una Sala por cada uno de los órdenes jurisdiccionales (Civil, Penal, Contencioso-Administrativo y Social). Fundamento: Página 9."
+    },
+    {
+      "question": "El principio de doble instancia en la organización judicial española garantiza:",
+      "options": [
+        "El derecho a dos juicios por el mismo delito.",
+        "El derecho a que la sentencia de un tribunal inferior sea revisada por uno superior.",
+        "La obligación de que cada caso sea visto por dos jueces a la vez.",
+        "La existencia de dos tribunales supremos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El principio de doble instancia se define como el derecho de los ciudadanos a que la sentencia dictada por un tribunal sea revisada por un tribunal de rango superior. Fundamento: Página 9."
+    },
+    {
+      "question": "¿Cuál es la función principal que la Constitución encarga al Rey?",
+      "options": [
+        "Ejercer el poder ejecutivo.",
+        "Aprobar las leyes.",
+        "La Jefatura del Estado y la representación de España en el exterior.",
+        "Presidir el Tribunal Supremo."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El artículo 56.1 de la C.E. atribuye al Rey la Jefatura del Estado, la más alta representación de España en las relaciones internacionales y el papel de árbitro de las instituciones. Fundamento: Página 9, sección 8."
+    },
+    {
+      "question": "Los actos del Rey, para ser válidos, deben ser refrendados por otra autoridad del Estado. ¿Qué significa esto?",
+      "options": [
+        "Que el Rey no tiene responsabilidad por sus actos oficiales, que es asumida por quien los refrenda.",
+        "Que el Rey debe consultar a la ciudadanía antes de cada acto.",
+        "Que todos sus actos deben ser aprobados por el Tribunal Constitucional.",
+        "Que el Rey tiene la última palabra y no necesita autorización."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explicación: El refrendo implica que los actos del Rey no tienen valor si no cuentan con la firma de otra autoridad (Presidente del Gobierno, Ministros, etc.), quien asume la responsabilidad por dicho acto. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "¿Quién nombra a los doce miembros del Tribunal Constitucional?",
+      "options": [
+        "Son elegidos directamente por los ciudadanos en las elecciones.",
+        "El Rey, a propuesta del Congreso, Senado, Gobierno y CGPJ.",
+        "El Presidente del Gobierno exclusivamente.",
+        "El Pleno del Tribunal Supremo."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Los doce magistrados son nombrados por el Rey, pero a propuesta de otros órganos: cuatro por el Congreso, cuatro por el Senado, dos por el Gobierno y dos por el Consejo General del Poder Judicial. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una competencia del Tribunal Constitucional?",
+      "options": [
+        "Investigar delitos penales.",
+        "Resolver recursos de inconstitucionalidad.",
+        "Juzgar reclamaciones de salarios de trabajadores.",
+        "Nombrar a los presidentes de las Comunidades Autónomas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Entre las competencias del Tribunal Constitucional se encuentra la resolución de los recursos de inconstitucionalidad (contra leyes), los recursos de amparo y los conflictos de competencias. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "El Defensor del Pueblo es un alto comisionado de:",
+      "options": [
+        "El Gobierno.",
+        "El Rey.",
+        "Las Cortes Generales.",
+        "El Consejo General del Poder Judicial."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El artículo 54 de la C.E. define al Defensor del Pueblo como un alto comisionado de las Cortes Generales, designado para la defensa de los derechos del Título I de la Constitución. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "¿Cuál es la función principal del Defensor del Pueblo?",
+      "options": [
+        "Dictar sentencias en última instancia.",
+        "Controlar la actividad de la Administración en defensa de los derechos de los ciudadanos.",
+        "Elaborar los Presupuestos Generales del Estado.",
+        "Presidir el Consejo de Ministros en ausencia del presidente."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Su función principal es controlar la actividad de la Administración y supervisar que respete los derechos fundamentales de los ciudadanos comprendidos en el Título I de la Constitución. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "¿Cuál es la función del Consejo General del Poder Judicial (CGPJ)?",
+      "options": [
+        "Ser el máximo órgano judicial y dictar sentencias.",
+        "Ser el órgano de gobierno de los jueces para garantizar su independencia.",
+        "Redactar las leyes que regulan los procedimientos judiciales.",
+        "Ejercer la acusación pública en los procesos penales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El CGPJ es el órgano de gobierno de los jueces y su principal misión es velar por la garantía de la independencia judicial. No es un órgano jurisdiccional. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "¿Cómo se compone el Consejo General del Poder Judicial?",
+      "options": [
+        "Por el Presidente del Gobierno y todos los ministros.",
+        "Por un presidente y veinte vocales nombrados por el Congreso y el Senado.",
+        "Por todos los presidentes de los Tribunales Superiores de Justicia.",
+        "Es un órgano elegido directamente por los jueces sin intervención parlamentaria."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El CGPJ está formado por su presidente (que también lo es del Tribunal Supremo) y veinte vocales, de los cuales doce son jueces y ocho son juristas, todos ellos nombrados por las Cortes. Fundamento: Página 10, sección 8."
+    }
+  ]
+}

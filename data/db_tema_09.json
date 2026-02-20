@@ -1,0 +1,335 @@
+{
+  "title": "La administración local: el municipio (Tema 9)",
+  "items": [
+    {
+      "question": "Según el texto, ¿cuál es el último nivel de la organización territorial del Estado y el más cercano a los ciudadanos?",
+      "options": [
+        "La provincia",
+        "La comunidad autónoma",
+        "La Administración local",
+        "La comarca"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El documento define la Administración local como el último nivel de la organización territorial del Estado y la más cercana a los ciudadanos. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "Además de la Constitución, ¿cuál es la norma reguladora más importante de la administración local mencionada en el texto?",
+      "options": [
+        "La Ley Orgánica del Régimen Electoral General (LOREG).",
+        "El Estatuto de los Trabajadores.",
+        "La Ley de Bases de Régimen Local (LBRL).",
+        "El Código Civil."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se especifica que, junto a la Constitución, la norma reguladora más importante es la Ley 7/1985, de 2 de abril, de Bases de Régimen Local. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "Las competencias de las entidades locales que provienen del Estado o de la comunidad autónoma se denominan:",
+      "options": [
+        "Competencias propias",
+        "Competencias originarias",
+        "Competencias delegadas",
+        "Competencias exclusivas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto distingue entre competencias propias (atribuidas por ley) y delegadas (que provienen del Estado o de la comunidad autónoma). Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "¿Cuál es la entidad local básica de la organización territorial del Estado?",
+      "options": [
+        "La provincia",
+        "El municipio",
+        "La comarca",
+        "El área metropolitana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El municipio es definido explícitamente como la entidad local básica de la organización territorial del Estado. Fundamento: Página 5, sección 3.1."
+    },
+    {
+      "question": "¿Cómo se denomina el ámbito geográfico en el que un ayuntamiento ejerce sus competencias?",
+      "options": [
+        "Distrito municipal",
+        "Término municipal",
+        "Partido judicial",
+        "Área de influencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El territorio, uno de los elementos del municipio, se define como el ámbito geográfico de sus competencias y se llama término municipal. Fundamento: Página 5, sección 3.1."
+    },
+    {
+      "question": "¿Qué registro es obligatorio para los residentes habituales de un municipio, independientemente de su nacionalidad?",
+      "options": [
+        "El Censo Electoral",
+        "El Registro Civil",
+        "El Catastro",
+        "El Padrón Municipal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: La población de un municipio está formada por las personas inscritas en el Padrón Municipal, que es un registro obligatorio para los residentes habituales. Fundamento: Página 5, sección 3.1."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una competencia del alcalde?",
+      "options": [
+        "Aprobar los presupuestos municipales.",
+        "Determinar los tributos del municipio.",
+        "Dirigir el gobierno y la administración municipal.",
+        "Aprobar los planes urbanísticos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto enumera entre las competencias del alcalde la de dirigir el gobierno y la administración municipal. Las otras opciones son competencias del Pleno. Fundamento: Página 6, sección 5.1."
+    },
+    {
+      "question": "¿Quién nombra a los tenientes de alcalde?",
+      "options": [
+        "El Pleno del ayuntamiento por mayoría simple.",
+        "El alcalde.",
+        "Son elegidos directamente por los vecinos.",
+        "El concejal con más antigüedad en el cargo."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Los tenientes de alcalde son nombrados por el alcalde de entre los miembros de la Junta de Gobierno Local o, si no existe, de entre los concejales. Fundamento: Página 6, sección 5.1."
+    },
+    {
+      "question": "El Pleno del ayuntamiento está integrado por:",
+      "options": [
+        "El alcalde y los tenientes de alcalde exclusivamente.",
+        "Todos los concejales y es presidido por el alcalde.",
+        "Los concejales del partido con mayoría y el alcalde.",
+        "Representantes de las asociaciones de vecinos y el alcalde."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se define el Pleno como el órgano integrado por todos los concejales y presidido por el alcalde. Fundamento: Página 6, sección 5.1."
+    },
+    {
+      "question": "¿Cuál de estas funciones corresponde al Pleno y no al alcalde?",
+      "options": [
+        "Dictar bandos.",
+        "Ser el jefe de la policía local.",
+        "Representar al ayuntamiento.",
+        "Aprobar las ordenanzas municipales."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Entre las competencias del Pleno se encuentra la de aprobar el reglamento orgánico y las ordenanzas municipales. Las demás son competencias del alcalde. Fundamento: Páginas 6 y 7, sección 5.1."
+    },
+    {
+      "question": "¿En qué municipios es obligatoria la existencia de la Junta de Gobierno Local?",
+      "options": [
+        "En todos los municipios sin excepción.",
+        "En los municipios de más de 5.000 habitantes.",
+        "Únicamente en las capitales de provincia.",
+        "En aquellos con menos de 1.000 habitantes."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El documento especifica que la Junta de Gobierno Local es un órgano obligatorio en municipios con una población superior a los 5.000 habitantes. Fundamento: Página 7, sección 5.1."
+    },
+    {
+      "question": "El número de miembros de la Junta de Gobierno Local no puede superar:",
+      "options": [
+        "La mitad del número legal de concejales.",
+        "Un tercio del número legal de concejales.",
+        "Un cuarto del número legal de concejales.",
+        "El número de concejales del partido del alcalde."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La ley establece que el número de miembros de la Junta de Gobierno Local no puede ser superior a un tercio del número legal de concejales. Fundamento: Página 7, sección 5.1."
+    },
+    {
+      "question": "¿Qué órgano municipal se encarga de examinar las cuentas municipales antes de que las apruebe el Pleno?",
+      "options": [
+        "La Junta de Gobierno Local.",
+        "La Comisión Especial de Cuentas.",
+        "El Consejo Sectorial de Economía.",
+        "La Asesoría Jurídica."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La Comisión Especial de Cuentas, que es obligatoria para todos los municipios, se encarga de examinar las cuentas antes de su aprobación plenaria. Fundamento: Página 7, sección 5.2."
+    },
+    {
+      "question": "¿Qué son los Consejos Sectoriales?",
+      "options": [
+        "Órganos que sustituyen al Pleno en municipios pequeños.",
+        "Órganos para la participación de ciudadanos y asociaciones en asuntos municipales.",
+        "Comisiones encargadas de la gestión de los impuestos.",
+        "Juntas de distrito en municipios de gran población."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Los Consejos Sectoriales se definen como órganos para la participación de los ciudadanos y de las asociaciones del municipio, con la misión de informar y proponer acciones. Fundamento: Página 7, sección 5.2."
+    },
+    {
+      "question": "¿Quiénes pueden ser electores y elegibles en las elecciones municipales en España?",
+      "options": [
+        "Solo los ciudadanos con nacionalidad española.",
+        "Solo los residentes que hayan nacido en el municipio.",
+        "Todos los residentes, incluidos los ciudadanos de la Unión Europea.",
+        "Únicamente los mayores de 21 años con propiedades en el municipio."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se indica que pueden ser electores y elegibles todos los residentes, incluyendo extranjeros de países que lo permitan a los españoles y todos los ciudadanos de la UE. Fundamento: Página 8, sección 6."
+    },
+    {
+      "question": "¿Cuántos concejales corresponden a un municipio con una población de 1.500 residentes?",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Según la tabla proporcionada, el tramo de 1.001 a 2.000 residentes corresponde a la elección de 9 concejales. Fundamento: Página 8, figura 5."
+    },
+    {
+      "question": "¿Cuántos concejales se eligen en un municipio con 250 residentes?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La tabla muestra que a los municipios con una población de 101 a 250 residentes les corresponden 5 concejales. Fundamento: Página 8, figura 5."
+    },
+    {
+      "question": "En un municipio de 75.000 habitantes, ¿cuántos concejales se eligen?",
+      "options": [
+        "21",
+        "17",
+        "25",
+        "13"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: De acuerdo con la escala de la figura 5, el tramo de 50.001 a 100.000 habitantes elige a 25 concejales. Fundamento: Página 8, figura 5."
+    },
+    {
+      "question": "¿Qué régimen especial de gobierno no utiliza la escala general para determinar el número de concejales?",
+      "options": [
+        "El de municipio de gran población.",
+        "El de concejo abierto.",
+        "El de capital de provincia.",
+        "El de municipio turístico."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto especifica que la escala para la elección de concejales no se aplica a los municipios que funcionan en régimen de concejo abierto. Fundamento: Página 9, sección 6.1."
+    },
+    {
+      "question": "En el régimen de concejo abierto, ¿quién elige directamente al alcalde?",
+      "options": [
+        "La asamblea de concejales.",
+        "Los vecinos, por sistema mayoritario.",
+        "El Pleno de la Diputación Provincial.",
+        "Se elige por sorteo entre los cabezas de lista."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: En estos municipios, el alcalde es elegido directamente por los vecinos por el sistema mayoritario. Fundamento: Página 9, sección 6.1."
+    },
+    {
+      "question": "En el régimen de concejo abierto, el gobierno y la administración se componen del alcalde y...",
+      "options": [
+        "Una Junta de Gobierno Local reducida.",
+        "Los tres concejales más votados.",
+        "Una asamblea de todos los electores.",
+        "Un consejo de representantes de barrios."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se indica que el alcalde gobierna con una asamblea de todos los electores del municipio. Fundamento: Página 9, sección 6.1."
+    },
+    {
+      "question": "¿Qué sistema de votación especial utilizan los municipios de menos de 250 habitantes que no son de concejo abierto?",
+      "options": [
+        "Sistema de doble vuelta.",
+        "Sistema de listas cerradas y bloqueadas.",
+        "Sistema de listas abiertas.",
+        "Sistema mayoritario uninominal."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto menciona que los municipios con menos de 250 habitantes que no funcionan en concejo abierto utilizan un sistema de listas abiertas. Fundamento: Página 9, sección 6.1."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un criterio para ser considerado 'municipio de gran población'?",
+      "options": [
+        "Tener más de 50.000 habitantes y ser un centro turístico.",
+        "Tener más de 100.000 habitantes en cualquier caso.",
+        "Ser capital de provincia con más de 175.000 habitantes.",
+        "Cualquier municipio con más de 200.000 habitantes."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se enumera como uno de los supuestos para ser municipio de gran población ser capital de provincia y superar los 175.000 habitantes. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "Un municipio que es capital de provincia, capital autonómica o sede de instituciones autonómicas, ¿es considerado de gran población?",
+      "options": [
+        "Sí, automáticamente.",
+        "No, necesita además tener más de 250.000 habitantes.",
+        "Solo si lo aprueba el Gobierno central.",
+        "Únicamente si tiene más de 75.000 habitantes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explicación: El texto establece que los municipios que sean capitales de provincia, capitales autonómicas o sedes de instituciones autonómicas son considerados de gran población. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "En los municipios de gran población, ¿qué órgano debe existir obligatoriamente para representar y defender al ayuntamiento ante los tribunales?",
+      "options": [
+        "Un Consejo Jurídico Consultivo.",
+        "Una asesoría jurídica.",
+        "La Comisión Especial de Cuentas.",
+        "Un Defensor del Ciudadano."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se indica que estos municipios cuentan obligatoriamente con una asesoría jurídica que los representa y defiende ante los tribunales. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "¿Quién aprueba la condición de 'municipio de gran población' para aquellos de más de 75.000 habitantes con circunstancias especiales?",
+      "options": [
+        "El Gobierno de España.",
+        "Las Cortes Generales.",
+        "El propio ayuntamiento por mayoría absoluta.",
+        "La Asamblea Legislativa de la comunidad autónoma."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Para los municipios de más de 75.000 habitantes con circunstancias especiales (y los que son capitales), se requiere solicitud del ayuntamiento y aprobación de la Asamblea Legislativa autonómica. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "Los municipios de gran población se organizan territorialmente de forma obligatoria en:",
+      "options": [
+        "Comarcas",
+        "Barrios",
+        "Distritos",
+        "Mancomunidades"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se especifica que los municipios de gran población se organizan territorialmente en distritos creados por el pleno y presididos por un concejal. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "La alteración de términos municipales o la creación de nuevos municipios se regula en:",
+      "options": [
+        "La Ley de Bases de Régimen Local exclusivamente.",
+        "La legislación de las respectivas comunidades autónomas.",
+        "Una Ley Orgánica aprobada por las Cortes Generales.",
+        "El reglamento de la Diputación Provincial."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto indica que la alteración de términos municipales, así como la creación y supresión de municipios, se establecerá en la legislación de las comunidades autónomas. Fundamento: Página 5, sección 3.1."
+    },
+    {
+      "question": "¿Qué órgano municipal es obligatorio en todos los municipios sin excepción?",
+      "options": [
+        "La Junta de Gobierno Local.",
+        "La Comisión Especial de Cuentas.",
+        "La Comisión Especial de Sugerencias y Reclamaciones.",
+        "Las Juntas Municipales de Distrito."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto menciona que la Comisión Especial de Cuentas es obligatoria para todos los municipios. Otros órganos como la Junta de Gobierno Local dependen de la población. Fundamento: Página 7, sección 5.2."
+    },
+    {
+      "question": "En la elección del alcalde, si tras la votación entre concejales se produce un empate, ¿cómo se decide quién ocupa el cargo?",
+      "options": [
+        "Gana el candidato de mayor edad.",
+        "Se realiza una segunda vuelta electoral en el municipio.",
+        "Se resuelve por sorteo.",
+        "El cargo queda vacante hasta nuevo acuerdo."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: En el cuadro 'Sabías que...', se especifica que si hay empate en la elección de alcalde, se resuelve por sorteo, según la Ley Orgánica 5/1985. Fundamento: Página 8."
+    }
+  ]
+}

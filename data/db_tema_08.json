@@ -1,0 +1,335 @@
+{
+  "title": "Las comunidades autónomas (Tema 8)",
+  "items": [
+    {
+      "question": "¿Cuál de los siguientes es un principio constitucional de la organización territorial de España?",
+      "options": [
+        "La prohibición de la libre circulación de bienes entre comunidades.",
+        "La existencia de privilegios económicos para ciertas regiones.",
+        "La unidad de España y la autonomía de las nacionalidades y regiones.",
+        "La subordinación de la Constitución a los Estatutos de Autonomía."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto enumera como primer principio constitucional la unidad de España y el derecho a la autonomía de las nacionalidades y regiones que la integran. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "Según el texto, ¿qué norma está subordinada a la Constitución en el modelo del Estado de las autonomías?",
+      "options": [
+        "Las leyes orgánicas del Estado.",
+        "Los Estatutos de Autonomía.",
+        "Las directivas europeas.",
+        "Los tratados internacionales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se establece que hay una única Constitución y diferentes Estatutos de autonomía, aprobados por leyes orgánicas, que están subordinados a esta. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "¿Cuántas vías de acceso a la autonomía establece la Constitución?",
+      "options": [
+        "Una única vía común para todas.",
+        "Dos: la vía rápida y la vía lenta.",
+        "Tres: común o lenta, plena o rápida y especial.",
+        "Cuatro: provincial, insular, regional y nacional."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El documento especifica que la Constitución establece tres vías de acceso a la autonomía: común o lenta, plena o rápida y especial. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "En la distribución de competencias, ¿cuáles son exclusivas del Estado?",
+      "options": [
+        "La ordenación del territorio y el urbanismo.",
+        "La asistencia social y la sanidad.",
+        "La organización de sus propias instituciones autonómicas.",
+        "Las relaciones internacionales, la defensa o la moneda."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El texto cita como ejemplos de competencias exclusivas del Estado, sobre las que ejerce potestades legislativa y ejecutiva, las relaciones internacionales, la defensa o la moneda. Fundamento: Página 5, sección 3."
+    },
+    {
+      "question": "¿Qué son las competencias concurrentes?",
+      "options": [
+        "Materias donde solo legisla y ejecuta el Estado.",
+        "Materias donde el Estado dicta la legislación básica y la comunidad autónoma la desarrolla y ejecuta.",
+        "Competencias que solo pueden ser transferidas mediante ley de armonización.",
+        "Materias donde la comunidad autónoma tiene potestad legislativa y ejecutiva de forma exclusiva."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se definen las competencias concurrentes como aquellas en las que ambas administraciones participan, dictando el Estado la legislación básica y la comunidad autónoma desarrollándola, ejecutándola e inspeccionándola. Fundamento: Página 5, sección 3."
+    },
+    {
+      "question": "¿Qué ocurre si la Constitución no atribuye una competencia específica al Estado?",
+      "options": [
+        "La competencia queda sin regular.",
+        "La comunidad autónoma puede asumirla si la incluye en su Estatuto de Autonomía.",
+        "Se necesita un referéndum para decidir quién la ejerce.",
+        "Automáticamente pasa a ser competencia de los municipios."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto indica que si una competencia no es atribuida expresamente al Estado por la Constitución, la comunidad autónoma puede ejercerla si la incluye en su respectivo Estatuto de Autonomía. Fundamento: Página 5, sección 3."
+    },
+    {
+      "question": "La competencia sobre puertos que no realizan actividades comerciales, ¿puede ser asumida por las comunidades autónomas?",
+      "options": [
+        "No, todos los puertos son competencia exclusiva del Estado.",
+        "Sí, es una competencia que las comunidades autónomas pueden asumir.",
+        "Solo si se trata de puertos deportivos de menos de 100 amarres.",
+        "Únicamente si el Estado lo delega mediante una ley marco."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se menciona la gestión de los puertos en los que no se realicen actividades comerciales como un ejemplo de competencia que pueden asumir las comunidades autónomas en su ámbito territorial. Fundamento: Página 5, sección 3."
+    },
+    {
+      "question": "¿Cuál es la norma institucional básica de una comunidad autónoma?",
+      "options": [
+        "La Constitución Española.",
+        "Su Estatuto de Autonomía.",
+        "La ley electoral autonómica.",
+        "El reglamento de la Asamblea Legislativa."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se define al Estatuto de Autonomía como la norma institucional básica de una comunidad autónoma. Fundamento: Página 6, sección 5."
+    },
+    {
+      "question": "¿Mediante qué tipo de ley se aprueban y reforman los Estatutos de Autonomía?",
+      "options": [
+        "Ley ordinaria.",
+        "Real Decreto-ley.",
+        "Ley orgánica.",
+        "Ley de bases."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Los Estatutos de Autonomía forman parte del ordenamiento jurídico del Estado y se aprueban y reforman por ley orgánica. Fundamento: Página 6, sección 5."
+    },
+    {
+      "question": "¿Qué comunidad autónoma siguió la vía rápida del artículo 151.1 C.E. para su acceso a la autonomía?",
+      "options": [
+        "Comunidad de Madrid.",
+        "Navarra.",
+        "Andalucía.",
+        "Castilla y León."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto cita explícitamente a Andalucía como la comunidad que siguió la vía rápida del artículo 151.1 de la Constitución. Fundamento: Página 6, sección 5."
+    },
+    {
+      "question": "¿Cuál de estas comunidades accedió a la autonomía por la vía especial?",
+      "options": [
+        "Cataluña.",
+        "País Vasco.",
+        "Galicia.",
+        "Comunidad de Madrid."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El documento señala que la Comunidad de Madrid, junto con Ceuta y Melilla, es un caso de acceso a la autonomía por la vía especial. Fundamento: Página 6, sección 5."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un contenido obligatorio de los Estatutos de Autonomía?",
+      "options": [
+        "La denominación de la comunidad y su territorio.",
+        "El procedimiento de reforma del Estatuto.",
+        "La lista de todos los municipios que la integran.",
+        "Las competencias que asume la comunidad."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto enumera los contenidos obligatorios, que incluyen la denominación, territorio, instituciones, competencias y procedimiento de reforma, pero no la lista de municipios. Fundamento: Página 7."
+    },
+    {
+      "question": "¿Qué sistema electoral se utiliza para elegir las Asambleas Legislativas autonómicas?",
+      "options": [
+        "Un sistema mayoritario de vuelta única.",
+        "Un sistema proporcional.",
+        "Un sistema mixto de representación directa y proporcional.",
+        "Un sistema de elección indirecta a través de los ayuntamientos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se establece que los órganos legislativos autonómicos deben elegirse por sufragio universal, conforme a un sistema proporcional. Fundamento: Página 7, sección 6.1."
+    },
+    {
+      "question": "Generalmente, ¿cuál es la circunscripción electoral en las elecciones autonómicas?",
+      "options": [
+        "El municipio.",
+        "El partido judicial.",
+        "La provincia.",
+        "La comunidad autónoma como circunscripción única."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El documento indica que la circunscripción electoral es la provincia, con la excepción de Asturias. Fundamento: Página 7, sección 6.1."
+    },
+    {
+      "question": "Las leyes autonómicas elaboradas por las Asambleas Legislativas, ¿qué rango ocupan?",
+      "options": [
+        "Un rango inferior a las leyes ordinarias del Estado.",
+        "El mismo rango que las leyes ordinarias del Estado.",
+        "Un rango superior a las leyes orgánicas del Estado.",
+        "Un rango equivalente al de los reglamentos estatales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se afirma que las leyes autonómicas ocupan el mismo rango que las leyes ordinarias del Estado, y su aplicación se rige por el principio de competencia. Fundamento: Página 7, sección 6.1."
+    },
+    {
+      "question": "Además de legislar, ¿qué otra función importante tienen las Asambleas Legislativas?",
+      "options": [
+        "Nombrar a los jueces del Tribunal Supremo.",
+        "Dirigir la política exterior de la comunidad.",
+        "Aprobar los presupuestos de la comunidad autónoma.",
+        "Gestionar la recaudación de impuestos estatales."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Entre las funciones destacadas de las Asambleas se encuentra la de aprobar los presupuestos de la comunidad autónoma. Fundamento: Página 8."
+    },
+    {
+      "question": "¿Quién elige al presidente del Consejo de Gobierno de una comunidad autónoma?",
+      "options": [
+        "El Rey, a propuesta del Gobierno central.",
+        "Los ciudadanos por elección directa.",
+        "La Asamblea Legislativa de entre sus miembros.",
+        "Los consejeros del propio Consejo de Gobierno."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto especifica que todos los Estatutos prevén que la Asamblea elegirá al presidente de la comunidad autónoma de entre sus miembros. Fundamento: Página 8, sección 6.2."
+    },
+    {
+      "question": "¿Qué órgano ejerce la potestad reglamentaria en materias competencia de la comunidad autónoma?",
+      "options": [
+        "La Asamblea Legislativa.",
+        "El Tribunal Superior de Justicia.",
+        "El Consejo de Gobierno.",
+        "El Defensor del Pueblo autonómico."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Una de las funciones más importantes del Consejo de Gobierno es el ejercicio de la potestad reglamentaria en materias de competencia autonómica. Fundamento: Página 8, sección 6.2."
+    },
+    {
+      "question": "El control sobre los Consejos de Gobierno se ejerce a través de la cuestión de confianza y la:",
+      "options": [
+        "Moción de censura.",
+        "Iniciativa legislativa popular.",
+        "Disolución de la Asamblea.",
+        "Interpelación directa del Gobierno central."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explicación: El documento indica que los Consejos de Gobierno están sometidos al control de sus asambleas a través de la cuestión de confianza y de la moción de censura. Fundamento: Página 8, sección 6.2."
+    },
+    {
+      "question": "¿A qué institución pertenece el Tribunal Superior de Justicia de una comunidad autónoma?",
+      "options": [
+        "Es un órgano propio y exclusivo de la comunidad autónoma.",
+        "Es un órgano del Estado.",
+        "Depende directamente de la Asamblea Legislativa.",
+        "Es un órgano consultivo del Consejo de Gobierno."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto aclara que los Tribunales Superiores de Justicia son órganos del Estado, no de cada comunidad autónoma, porque la jurisdicción es única en todo el territorio nacional. Fundamento: Página 8, sección 6.3."
+    },
+    {
+      "question": "En la pirámide judicial, ¿dónde se sitúa el Tribunal Superior de Justicia?",
+      "options": [
+        "Por encima del Tribunal Supremo.",
+        "Al mismo nivel que el Tribunal Constitucional.",
+        "Por debajo del Tribunal Supremo.",
+        "Fuera de la estructura judicial ordinaria."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se establece que la organización judicial culmina en este ámbito territorial, situándose el Tribunal Superior de Justicia por debajo del Tribunal Supremo en la jerarquía judicial. Fundamento: Página 8, sección 6.3."
+    },
+    {
+      "question": "La figura autonómica análoga al Defensor del Pueblo nacional recibe nombres como 'Justicia' o 'Procurador del Común'. ¿Cuál es su función?",
+      "options": [
+        "Controlar las finanzas de la comunidad.",
+        "Asesorar jurídicamente al Consejo de Gobierno.",
+        "Defender los derechos y libertades de los ciudadanos frente a la Administración.",
+        "Presidir la Asamblea Legislativa."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Defensor del Pueblo autonómico es una figura encargada de defender los derechos y libertades de los ciudadanos de una comunidad frente a la actuación de la Administración. Fundamento: Página 9, sección 8."
+    },
+    {
+      "question": "¿Qué institución autonómica tiene funciones similares al Consejo de Estado a nivel nacional?",
+      "options": [
+        "El Consejo Económico y Social autonómico.",
+        "El Tribunal de Cuentas autonómico.",
+        "El Consejo consultivo.",
+        "El Tribunal Superior de Justicia."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se describe al Consejo consultivo como el órgano supremo de consulta de la comunidad, con funciones similares al Consejo de Estado. Fundamento: Página 9, sección 8."
+    },
+    {
+      "question": "¿Cuál es la función del Tribunal de Cuentas autonómico?",
+      "options": [
+        "Juzgar los delitos de los miembros del Consejo de Gobierno.",
+        "Ser el máximo órgano de control financiero de la comunidad.",
+        "Resolver conflictos de competencias con el Estado.",
+        "Recaudar los impuestos propios de la comunidad."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Es el máximo órgano de control financiero de las comunidades autónomas que lo han incorporado, actuando en coordinación con el Tribunal de Cuentas del Estado. Fundamento: Página 9, sección 8."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una fuente de recursos para las comunidades autónomas?",
+      "options": [
+        "La emisión de moneda propia.",
+        "Las multas impuestas por la Unión Europea.",
+        "Los impuestos cedidos por el Estado.",
+        "Los aranceles del comercio exterior."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto cita los 'Impuestos cedidos por el Estado, recargos sobre impuestos del Estado y participación en otros ingresos del Estado' como una de las fuentes de financiación. Fundamento: Página 10, sección 9."
+    },
+    {
+      "question": "¿Qué es el Fondo de Compensación Interterritorial?",
+      "options": [
+        "Un fondo para pagar la deuda de las comunidades.",
+        "Un mecanismo para corregir desequilibrios económicos entre comunidades.",
+        "Un presupuesto para financiar las instituciones estatales en las autonomías.",
+        "Una reserva para emergencias como catástrofes naturales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El documento define el Fondo como un mecanismo de corrección de los desequilibrios económicos entre las diferentes comunidades autónomas. Fundamento: Página 10, sección 9."
+    },
+    {
+      "question": "¿Qué comunidades autónomas gestionan los impuestos del Estado en su territorio y aportan un 'cupo'?",
+      "options": [
+        "Canarias y Ceuta y Melilla.",
+        "Andalucía y Cataluña.",
+        "País Vasco y Navarra.",
+        "Galicia y Comunidad de Madrid."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se especifica que País Vasco y Navarra, a través del 'concierto' y el 'convenio' respectivamente, regulan estos impuestos y aportan un 'cupo' para los gastos del Estado. Fundamento: Página 10, sección 9."
+    },
+    {
+      "question": "Las ciudades de Ceuta y Melilla tienen un régimen de financiación propio que implica, por ejemplo, la no aplicación del:",
+      "options": [
+        "Impuesto sobre la Renta de las Personas Físicas (IRPF).",
+        "Impuesto sobre el Valor Añadido (IVA).",
+        "Impuesto de Sociedades.",
+        "Impuesto sobre Bienes Inmuebles (IBI)."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto señala que Canarias y Ceuta y Melilla tienen un régimen propio por su situación geográfica y, como ejemplo, no aplican el IVA. Fundamento: Página 10, sección 9."
+    },
+    {
+      "question": "¿Qué fórmula electoral se menciona en el texto para el reparto de escaños en las asambleas autonómicas?",
+      "options": [
+        "El sistema Hare.",
+        "La fórmula D'Hont.",
+        "El método Sainte-Laguë.",
+        "El cociente Droop."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El documento indica que para la elección de las asambleas autonómicas se aplica la fórmula D'Hont. Fundamento: Página 7, sección 6.1."
+    },
+    {
+      "question": "Las Asambleas Legislativas pueden designar a una parte de los miembros de una de las cámaras de las Cortes Generales. ¿De qué cámara se trata?",
+      "options": [
+        "El Congreso de los Diputados.",
+        "El Senado.",
+        "Ambas cámaras, en proporción.",
+        "Ninguna, es una función del Gobierno central."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Una de las funciones de las Asambleas es elegir a los senadores autonómicos, que representarán a la comunidad en el Senado. Fundamento: Página 8."
+    }
+  ]
+}

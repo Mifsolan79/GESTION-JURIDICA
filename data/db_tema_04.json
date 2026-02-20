@@ -1,0 +1,335 @@
+{
+  "title": "Documentación e información jurídica (Tema 04)",
+  "items": [
+    {
+      "question": "¿Qué garantiza la publicación de las normas jurídicas según la Constitución?",
+      "options": [
+        "Que las normas sean breves y concisas.",
+        "La posibilidad de que los destinatarios conozcan su contenido.",
+        "Que solo los poderes públicos puedan acceder a ellas.",
+        "Que las normas entren en vigor antes de ser publicadas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La publicación de las leyes, garantizada por la Constitución, asegura la posibilidad de que sus destinatarios (ciudadanos, empresas, etc.) tengan acceso a ellas y conozcan su contenido. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "¿Cuál es el portal oficial y gratuito para consultar todo el derecho de la Unión Europea?",
+      "options": [
+        "BOE.es",
+        "CENDOJ",
+        "EUR-Lex",
+        "CURIA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El portal EUR-Lex es el servicio gratuito oficial que permite consultar toda la legislación y documentación jurídica de la Unión Europea. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "¿Cómo se llama el boletín electrónico de la Unión Europea que tiene pleno valor jurídico?",
+      "options": [
+        "Boletín Oficial del Estado (BOE)",
+        "Diario Oficial de la Unión Europea (DOUE)",
+        "Boletín Oficial del Registro Mercantil (BORME)",
+        "Boletín Oficial de las Cortes Generales (BOCG)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El Diario Oficial de la Unión Europea (DO o DOUE) es el boletín electrónico que desde 2013 tiene pleno valor jurídico para la publicación de la normativa comunitaria. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "¿Qué significan las series 'L' y 'C' en las que se agrupa la información del DOUE?",
+      "options": [
+        "Leyes y Costumbres",
+        "Legislación y Comunicaciones",
+        "Leyes y Correcciones",
+        "Local y Comunitario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La información en el Diario Oficial de la Unión Europea se organiza en dos series principales: la serie 'L' para la legislación y la serie 'C' para comunicaciones e informaciones. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "¿Qué organismo en España se encarga de la edición y publicación del Boletín Oficial del Estado?",
+      "options": [
+        "El Consejo General del Poder Judicial (CGPJ)",
+        "El Ministerio de Justicia",
+        "La Agencia Estatal Boletín Oficial del Estado (AEBOE)",
+        "El Congreso de los Diputados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La Agencia Estatal Boletín Oficial del Estado (AEBOE) es la entidad encomendada para gestionar la edición, publicación, impresión y distribución del BOE y otras publicaciones oficiales. Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "Además del BOE, ¿qué otro diario oficial importante publica la AEBOE?",
+      "options": [
+        "El Diario Oficial de la Generalitat de Catalunya.",
+        "El Boletín Oficial de la Provincia de Madrid.",
+        "El Boletín del Ministerio de Justicia.",
+        "El Boletín Oficial del Registro Mercantil (BORME)."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: La página web de la AEBOE permite el acceso completo a dos diarios oficiales principales: el Boletín Oficial del Estado (BOE) y el Boletín Oficial del Registro Mercantil (BORME). Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "¿Qué es el CENDOJ?",
+      "options": [
+        "Una base de datos de legislación autonómica.",
+        "El Centro de Documentación Jurídica del Consejo General del Poder Judicial.",
+        "Una colección de códigos electrónicos universitarios.",
+        "El portal para consultar la doctrina de la Fiscalía."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: CENDOJ es el Centro de Documentación Jurídica del Consejo General del Poder Judicial, a través del cual se puede acceder a la jurisprudencia de los tribunales españoles. Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "¿Qué servicio de la AEBOE permite consultar anuncios de notificación asociados a un NIF concreto?",
+      "options": [
+        "La Biblioteca Jurídica Digital",
+        "Los Códigos Electrónicos",
+        "El Tablón Edictal Único (TEU)",
+        "La colección histórica del Diario Oficial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Tablón Edictal Único (TEU) es el servicio que permite la consulta de anuncios de notificación publicados para un NIF específico, previa identificación electrónica. Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "¿Desde qué año se publica el BOE exclusivamente en formato electrónico?",
+      "options": [
+        "1978",
+        "2002",
+        "2009",
+        "2013"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Boletín Oficial del Estado (BOE) se publica únicamente en formato electrónico desde el año 2009, sustituyendo a la versión en papel que existía hasta entonces. Fundamento: Página 6, sección 3."
+    },
+    {
+      "question": "¿En qué sección del BOE se publican los Tratados internacionales y las leyes estatales y autonómicas?",
+      "options": [
+        "Sección I. Disposiciones generales",
+        "Sección II. Autoridades y personal",
+        "Sección III. Otras disposiciones",
+        "Sección IV. Administración de Justicia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explicación: La Sección I, titulada 'Disposiciones generales', es donde se publican las normas de mayor rango como Tratados, leyes y otras disposiciones generales del Estado y las CCAA. Fundamento: Página 6, sección 3."
+    },
+    {
+      "question": "Los convenios colectivos de carácter general, subvenciones y becas se publican en:",
+      "options": [
+        "La Sección I del BOE.",
+        "La Sección II del BOE.",
+        "La Sección III del BOE.",
+        "La Sección V del BOE."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La Sección III, 'Otras disposiciones', recoge todas aquellas publicaciones que no tienen carácter general, como es el caso de subvenciones, becas o convenios colectivos. Fundamento: Página 6, sección 3."
+    },
+    {
+      "question": "Dentro del sumario de cada boletín, ¿qué criterio determina el orden de las normas publicadas en cada sección?",
+      "options": [
+        "El orden alfabético del título de la norma.",
+        "La fecha de aprobación de la norma.",
+        "La jerarquía del órgano del Estado que dicta la disposición.",
+        "El número de artículos que contiene la norma."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El contenido del sumario se ordena según la jerarquía del órgano que emite la disposición, y este mismo criterio determina el orden de las normas dentro de cada sección. Fundamento: Página 6, sección 3."
+    },
+    {
+      "question": "Los boletines oficiales de la mayoría de las Comunidades Autónomas se denominan 'Boletín Oficial', pero en algunas como Cataluña o Galicia se llaman:",
+      "options": [
+        "Gaceta Autonómica",
+        "Registro Oficial",
+        "Diario Oficial",
+        "Publicación Autonómica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto especifica que en Castilla-La Mancha, Cataluña, Extremadura, Galicia y Comunidad Valenciana, el boletín oficial autonómico recibe el nombre de 'Diario Oficial'. Fundamento: Página 7, sección 5."
+    },
+    {
+      "question": "Aunque una ley autonómica se publique en el BOE, ¿qué publicación suele determinar su entrada en vigor?",
+      "options": [
+        "La publicación en el Diario Oficial de la Unión Europea.",
+        "La publicación en el boletín autonómico.",
+        "La publicación en el Boletín Oficial de la Provincia.",
+        "La publicación en el Boletín Oficial de las Cortes Generales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Generalmente, se establece que la vigencia de una norma autonómica viene determinada por su publicación en el boletín oficial de la propia Comunidad Autónoma. Fundamento: Página 7, sección 5."
+    },
+    {
+      "question": "¿En qué Comunidades Autónomas el boletín autonómico cumple también la función de boletín provincial?",
+      "options": [
+        "En todas las que tienen más de una provincia.",
+        "En las que son uniprovinciales.",
+        "En ninguna, siempre hay un boletín provincial separado.",
+        "Solo en Andalucía y Castilla y León."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: En las Comunidades Autónomas uniprovinciales (como Madrid, Murcia, etc.), el boletín autonómico asume también las funciones del diario oficial provincial. Fundamento: Página 7, sección 5."
+    },
+    {
+      "question": "¿De qué se encargan las Diputaciones Provinciales en relación con los boletines provinciales?",
+      "options": [
+        "De redactar las leyes que se publican en ellos.",
+        "De su edición, distribución y la gestión de las tasas por anuncios.",
+        "De vetar las publicaciones que no consideren oportunas.",
+        "De enviarlos al Tribunal Constitucional para su validación."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Las Diputaciones Provinciales son responsables de la gestión de los boletines provinciales, lo que incluye su edición, distribución y la regulación de tasas por la inserción de anuncios. Fundamento: Página 7, sección 5."
+    },
+    {
+      "question": "¿Qué información principal recoge el Boletín Oficial del Registro Mercantil (BORME)?",
+      "options": [
+        "La actividad parlamentaria del Congreso y el Senado.",
+        "Información jurídica sobre empresarios y empresas inscritas en el Registro Mercantil.",
+        "Sentencias del Tribunal Europeo de Derechos Humanos.",
+        "Leyes y reglamentos de las Comunidades Autónomas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El BORME recoge la información jurídica que debe hacerse pública sobre empresarios y sociedades mercantiles, como su constitución, nombramientos, etc. Fundamento: Página 8, sección 5."
+    },
+    {
+      "question": "El Boletín Oficial de las Cortes Generales (BOCG) publica información relativa a:",
+      "options": [
+        "Nombramientos de funcionarios del Estado.",
+        "La actividad parlamentaria.",
+        "Anuncios de los juzgados y tribunales.",
+        "Resoluciones de la Dirección General de Seguridad Jurídica."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El BOCG es la publicación oficial de las Cortes Generales y contiene información sobre su actividad parlamentaria, con secciones para el Congreso y el Senado. Fundamento: Página 8, sección 5."
+    },
+    {
+      "question": "¿Qué es una base de datos jurídica, según la definición del documento?",
+      "options": [
+        "Un archivo físico de todos los boletines oficiales impresos.",
+        "Un servicio de alertas por correo electrónico sobre nueva legislación.",
+        "Un repertorio de normativa y jurisprudencia con la información indexada.",
+        "La página web oficial de un ministerio."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Las bases de datos se definen como repertorios de normativa, jurisprudencia y doctrina donde la información está indexada para facilitar su consulta y manejo. Fundamento: Página 8, sección 6."
+    },
+    {
+      "question": "¿A través de qué portal se puede acceder a las sentencias y resoluciones de los órganos judiciales españoles?",
+      "options": [
+        "EUR-Lex",
+        "CURIA",
+        "La web del Ministerio de Justicia (BMJ)",
+        "El Centro de Documentación Judicial (CENDOJ)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: La web del CENDOJ, dependiente del Consejo General del Poder Judicial, es el portal oficial para localizar sentencias y resoluciones de los tribunales españoles. Fundamento: Página 8, sección 6."
+    },
+    {
+      "question": "¿Cuál es el portal para acceder a la jurisprudencia de los tribunales europeos?",
+      "options": [
+        "CENDOJ",
+        "CURIA",
+        "BOE.es",
+        "EUR-Lex"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Para acceder a la jurisprudencia europea, el texto menciona específicamente el portal 'CURIA'. Fundamento: Página 8, sección 6."
+    },
+    {
+      "question": "Thomson Reuters (Aranzadi), Laleydigital360 y Vlex son ejemplos de:",
+      "options": [
+        "Boletines oficiales autonómicos.",
+        "Organismos públicos de la Unión Europea.",
+        "Bases de datos jurídicas de pago ofrecidas por editoriales.",
+        "Servicios gratuitos de la Agencia Estatal Boletín Oficial del Estado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Estas son mencionadas como ejemplos de bases de datos de editoriales jurídicas prestigiosas, que ofrecen productos de pago para profesionales del Derecho. Fundamento: Página 8, sección 6."
+    },
+    {
+      "question": "¿Qué significa la opción 'Ver texto consolidado' en la web del BOE?",
+      "options": [
+        "Muestra únicamente la primera versión de la ley, sin ninguna modificación.",
+        "Muestra la ley traducida a todos los idiomas oficiales de la UE.",
+        "Muestra el texto actual de la norma, incluyendo todas las reformas que ha tenido.",
+        "Muestra un resumen de la ley con sus puntos más importantes."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La opción 'Ver texto consolidado' permite acceder al texto vigente de una norma, con todas las modificaciones y reformas que ha sufrido desde su aprobación inicial ya integradas. Fundamento: Página 9, sección 7 (Desenlace)."
+    },
+    {
+      "question": "El servicio 'Mi BOE' de la Agencia Estatal Boletín Oficial del Estado es:",
+      "options": [
+        "Una base de datos de jurisprudencia de pago.",
+        "Un servicio de suscripción gratuita para recibir alertas por correo electrónico.",
+        "El boletín oficial exclusivo para el personal de la Administración.",
+        "Un diccionario de términos jurídicos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: 'Mi BOE' es un servicio de suscripción gratuita que permite configurar alertas para recibir por correo electrónico la información publicada en el boletín que sea de interés para el usuario. Fundamento: Página 9, sección 8."
+    },
+    {
+      "question": "Para usar el servicio de alertas de anuncios de notificación de 'Mi BOE', ¿qué se requiere?",
+      "options": [
+        "Pagar una suscripción anual.",
+        "Ser un profesional del Derecho colegiado.",
+        "Una identificación electrónica con los servicios de Cl@ve.",
+        "Tener una cuenta en una red social como Twitter o Facebook."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Para configurar las alertas sobre anuncios de notificación y acceder al TEU, se requiere una identificación electrónica a través de los servicios de Cl@ve. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "Desde el 1 de octubre de 2023, ¿cómo se publica el Diario Oficial de la Unión Europea (DOUE)?",
+      "options": [
+        "Como una recopilación mensual de actos con un sumario.",
+        "Únicamente en formato papel.",
+        "Se publica cada acto individualmente como un Diario Oficial auténtico en PDF.",
+        "Se ha dejado de publicar y ha sido sustituido por EUR-Lex."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto indica que desde el 1 de octubre de 2023, el DOUE cambió su formato y ahora cada acto se publica de forma individual en formato PDF, dejando de ser una recopilación. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "¿Qué tipo de publicaciones ofrece la Biblioteca Jurídica Digital de la AEBOE?",
+      "options": [
+        "Únicamente sentencias del Tribunal Supremo.",
+        "Solo novelas de temática jurídica.",
+        "Un amplio catálogo de publicaciones jurídicas gratuitas para descargar como libros y códigos.",
+        "Suscripciones de pago a revistas especializadas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La Biblioteca Jurídica Digital, accesible desde la web de la AEBOE, ofrece un catálogo de publicaciones gratuitas que incluye libros jurídicos, códigos electrónicos, anuarios, etc. Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "¿Qué tipo de contenido se puede encontrar en la Sección V del BOE?",
+      "options": [
+        "Leyes orgánicas y ordinarias.",
+        "Nombramientos de funcionarios.",
+        "Convenios colectivos de carácter general.",
+        "Contratos, anuncios oficiales y anuncios particulares."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: La Sección V del BOE está dedicada a 'Anuncios' y en ella se publican contratos del sector público, anuncios oficiales y anuncios de particulares que deban publicarse por mandato legal. Fundamento: Página 6, sección 3."
+    },
+    {
+      "question": "¿Qué permite la herramienta del Diccionario Jurídico de la RAE integrada en la web del BOE?",
+      "options": [
+        "Traducir las normas a otros idiomas.",
+        "Consultar el significado de conceptos jurídicos haciendo doble clic en una palabra.",
+        "Ver un historial de todas las búsquedas realizadas.",
+        "Generar un resumen automático de la norma consultada."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Al activar el icono 'DEJ', se puede consultar el significado de términos jurídicos directamente en la página del BOE haciendo doble clic sobre la palabra deseada. Fundamento: Página 9, sección 7 (Desenlace)."
+    },
+    {
+      "question": "Además de la legislación, ¿a qué otro tipo de información jurídica da acceso el portal EUR-Lex?",
+      "options": [
+        "Únicamente a los boletines oficiales de los Estados miembros.",
+        "A las sentencias de los tribunales europeos.",
+        "Solo a los proyectos de ley que están en tramitación.",
+        "A la doctrina de las fiscalías de cada país miembro."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El portal EUR-Lex no solo contiene legislación, sino que también da acceso a la jurisprudencia, permitiendo consultar las sentencias de los tribunales europeos como el Tribunal de Justicia. Fundamento: Página 7, sección 4 (Desenlace)."
+    }
+  ]
+}

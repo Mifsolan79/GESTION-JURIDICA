@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Examen - Gestión Jurídica</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <aside id="dashboard">
+        <div class="card">
+            <div class="ring">
+                <svg viewBox="0 0 80 80">
+                    <circle cx="40" cy="40" r="35" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="8">
+                    </circle>
+                    <circle cx="40" cy="40" r="35" fill="none" stroke="var(--gold)" stroke-width="8"
+                        stroke-dasharray="220" stroke-dashoffset="220" stroke-linecap="round"
+                        style="transition: stroke-dashoffset 0.5s ease;"></circle>
+                </svg>
+                <div class="label">0%</div>
+            </div>
+        </div>
+
+        <div class="card stat-grid">
+            <div class="badge ok">✅ <span id="count-ok">0</span></div>
+            <div class="badge ko">❌ <span id="count-ko">0</span></div>
+            <div class="badge sk">⚠️ <span id="count-sk">0</span></div>
+            <div class="badge sc">📝 <span id="count-sc">0/30</span></div>
+        </div>
+
+        <div class="card">
+            <div class="muted">Navegación</div>
+            <div class="navigator" id="navigator"></div>
+        </div>
+
+        <div class="card" style="margin-top:auto">
+            <button onclick="location.href='index.html'" class="btn-amber" style="width:100%">Volver al Menú</button>
+        </div>
+    </aside>
+
+    <main>
+        <div id="quiz-app">
+            <div id="quiz-container">
+                <h1 id="quiz-title">Examen de Gestión Jurídica</h1>
+
+                <div id="question-container">
+                    <div id="question-text">Cargando pregunta...</div>
+                    <div id="options-container"></div>
+                </div>
+
+                <div id="feedback-container" class="hidden"></div>
+
+                <div class="row" style="margin-top: 24px;">
+                    <button id="prev-btn" onclick="prevQuestion()" disabled>Anterior</button>
+                    <button id="next-btn" onclick="nextQuestion()">Siguiente</button>
+                    <button id="finish-btn" onclick="finishQuiz()" class="hidden btn-red">Finalizar Examen</button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Final Results Overlay -->
+    <div id="final-overlay" class="hidden">
+        <div id="final-card">
+            <div id="score-container">
+                <h2 id="final-score-text" style="font-size: 2.5rem; margin-bottom: 10px;">Nota: 0 / 10</h2>
+                <p id="final-stats-text" class="muted">Correctas: 0 | Incorrectas: 0 | Saltadas: 0</p>
+                <div class="row" style="justify-content: center; margin-top: 20px; gap: 15px;">
+                    <button onclick="location.reload()" class="btn-blue">Repetir Examen</button>
+                    <button onclick="location.href='index.html'" class="btn-amber">Ir al Menú</button>
+                    <button onclick="closeOverlay()" class="btn-notebook">Ver Errores</button>
+                </div>
+            </div>
+
+            <div class="final-section ok" style="margin-top: 20px;">
+                <div class="final-section-header">
+                    Resumen del Examen
+                </div>
+                <div id="summary-body" class="final-section-body"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+
+</html>

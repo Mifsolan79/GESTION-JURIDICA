@@ -1,0 +1,335 @@
+{
+  "title": "Elaboración y aprobación de las normas jurídicas (Tema 03)",
+  "items": [
+    {
+      "question": "¿Cómo se denomina la iniciativa legislativa que proviene del Gobierno?",
+      "options": [
+        "Proposición de ley",
+        "Proyecto de ley",
+        "Iniciativa popular",
+        "Enmienda a la totalidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Cuando la iniciativa para la elaboración de una ley proviene del Gobierno, se denomina 'proyecto de ley'. Este es aprobado por el Consejo de Ministros. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "¿Qué nombre reciben las iniciativas legislativas que no provienen del Gobierno?",
+      "options": [
+        "Proyectos de ley",
+        "Reales Decretos",
+        "Propuestas normativas",
+        "Proposiciones de ley"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Las iniciativas legislativas del Congreso, Senado, Asambleas de CCAA o ciudadanos se denominan 'proposiciones de ley'. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "¿Cuántas firmas se requieren para que un grupo de ciudadanos pueda presentar una proposición de ley?",
+      "options": [
+        "100.000 firmas",
+        "250.000 firmas",
+        "500.000 firmas",
+        "1.000.000 de firmas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La iniciativa legislativa popular requiere el aval de 500.000 firmas para poder presentar una proposición de ley ante la Mesa del Congreso. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "El adjetivo 'Reales' delante de un Decreto Legislativo o Decreto Ley indica que la norma ha sido dictada por:",
+      "options": [
+        "Las Cortes Generales",
+        "El Rey a título personal",
+        "El Gobierno de una Comunidad Autónoma",
+        "El Gobierno del Estado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El adjetivo 'Reales' permite diferenciar las normas con rango de ley dictadas por el Gobierno del Estado de aquellas que puedan dictar los Gobiernos de las Comunidades Autónomas. Fundamento: Página 4, sección 2.2."
+    },
+    {
+      "question": "¿Qué es el procedimiento legislativo común?",
+      "options": [
+        "El trámite exclusivo para la aprobación de los Presupuestos Generales del Estado.",
+        "El conjunto de trámites para aprobar leyes, ya sean orgánicas u ordinarias.",
+        "El proceso de convalidación de un Real Decreto Ley en el Congreso.",
+        "La elaboración de reglamentos por parte de la Administración."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El procedimiento legislativo común es el conjunto de trámites que deben realizarse en las Cortes Generales para la aprobación tanto de leyes orgánicas como de leyes ordinarias. Fundamento: Página 5, sección 2.3."
+    },
+    {
+      "question": "Una vez un texto de ley es aprobado en el Congreso, ¿a qué cámara se envía para continuar su tramitación?",
+      "options": [
+        "No se envía a ninguna otra cámara, se publica directamente.",
+        "Al Tribunal Constitucional.",
+        "Al Senado.",
+        "A la Asamblea Legislativa de la C. Autónoma correspondiente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Completada la tramitación en el Congreso, el texto aprobado se remite al Senado, que puede modificarlo, aprobarlo o rechazarlo (vetarlo). Fundamento: Página 5, sección 2.3."
+    },
+    {
+      "question": "¿Qué mayoría necesita el Senado para aprobar un veto a un proyecto de ley?",
+      "options": [
+        "Mayoría simple",
+        "Mayoría de dos tercios",
+        "Mayoría absoluta",
+        "Unanimidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El derecho de veto del Senado debe ser aprobado por mayoría absoluta de sus miembros. Fundamento: Página 5, sección 2.3."
+    },
+    {
+      "question": "¿Cómo puede el Congreso levantar un veto del Senado?",
+      "options": [
+        "Únicamente con una nueva votación por mayoría absoluta.",
+        "Por mayoría absoluta, o por mayoría simple si han pasado dos meses.",
+        "No puede levantarlo, el veto del Senado es definitivo.",
+        "Mediante una orden del Presidente del Gobierno."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El Congreso puede levantar el veto del Senado por mayoría absoluta en una primera votación, o por mayoría simple si deja transcurrir dos meses desde la votación anterior. Fundamento: Página 5, sección 2.3."
+    },
+    {
+      "question": "¿Qué ocurre si una proposición de ley orgánica no obtiene mayoría absoluta en la primera votación en el Congreso?",
+      "options": [
+        "Se aprueba automáticamente como ley ordinaria.",
+        "El texto se modifica y se vuelve a votar.",
+        "Se archiva directamente sin más trámite.",
+        "Pasa al Senado para que decida."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Si en la primera votación una ley orgánica no consigue la mayoría absoluta, el texto se somete a modificaciones y se realiza una nueva votación. Si tampoco la obtiene, queda rechazado. Fundamento: Página 5, sección 2.3."
+    },
+    {
+      "question": "Un Real Decreto Ley elaborado por el Gobierno debe ser sometido al Congreso en un plazo de:",
+      "options": [
+        "15 días para su publicación.",
+        "30 días para su convalidación o rechazo.",
+        "60 días para su debate.",
+        "No requiere la intervención del Congreso."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Los Reales Decretos Leyes deben ser enviados al Congreso en el plazo de 30 días desde su promulgación para que este decida si lo convalida, lo rechaza o lo tramita como proyecto de ley. Fundamento: Página 5, sección 2.4."
+    },
+    {
+      "question": "La elaboración de un Real Decreto Legislativo por parte del Gobierno requiere previamente:",
+      "options": [
+        "Una situación de extraordinaria y urgente necesidad.",
+        "Una delegación expresa de las Cortes Generales.",
+        "La aprobación en referéndum por el pueblo español.",
+        "La firma de al menos 500.000 ciudadanos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El Gobierno solo puede redactar Reales Decretos Legislativos cuando recibe un encargo expreso (delegación) por parte de las Cortes, que le indica la materia a regular y el plazo. Fundamento: Página 5, sección 2.4."
+    },
+    {
+      "question": "¿Mediante qué tipo de normas se otorga la delegación legislativa al Gobierno para que elabore un Decreto Legislativo?",
+      "options": [
+        "A través de una Orden Ministerial o una Circular.",
+        "A través de un Real Decreto Ley.",
+        "A través de una ley de bases o una ley ordinaria.",
+        "A través de una sentencia del Tribunal Constitucional."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La delegación legislativa de las Cortes al Gobierno se otorga mediante una ley de bases (para formar textos articulados) o una ley ordinaria (para refundir textos). Fundamento: Página 5, sección 2.4."
+    },
+    {
+      "question": "Una vez aprobada una ley por las Cortes, ¿quién la sanciona, promulga y ordena su publicación?",
+      "options": [
+        "El Presidente del Gobierno.",
+        "El Presidente del Congreso de los Diputados.",
+        "El Rey.",
+        "El Presidente del Tribunal Constitucional."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La Constitución establece que el Jefe del Estado, el Rey, es quien debe realizar los trámites finales de sancionar, promulgar y ordenar la publicación de las leyes aprobadas. Fundamento: Página 6, sección 2.5."
+    },
+    {
+      "question": "¿En qué plazo debe el Rey firmar una ley aprobada por las Cortes Generales?",
+      "options": [
+        "En un plazo de 15 días.",
+        "En un plazo de 20 días.",
+        "En un plazo de 30 días.",
+        "No hay un plazo establecido."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explicación: El Rey debe realizar el acto único de firma (sanción, promulgación y orden de publicación) en el plazo de quince días desde la aprobación de la norma por las Cortes. Fundamento: Página 6, sección 2.5."
+    },
+    {
+      "question": "Según el Código Civil, si una ley no especifica su fecha de entrada en vigor, ¿cuándo lo hace?",
+      "options": [
+        "Al día siguiente de su publicación en el BOE.",
+        "A los 15 días de su publicación en el BOE.",
+        "A los 20 días de su publicación en el BOE.",
+        "El 1 de enero del año siguiente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El artículo 2 del Código Civil establece que, si no se dispone otra cosa, las leyes entrarán en vigor a los veinte días de su completa publicación en el Boletín Oficial del Estado. Fundamento: Página 6, sección 2.5."
+    },
+    {
+      "question": "¿A qué poder del Estado corresponde la función ejecutiva, es decir, hacer que las leyes se cumplan?",
+      "options": [
+        "Al poder legislativo (las Cortes Generales).",
+        "Al poder judicial (jueces y tribunales).",
+        "Al poder ejecutivo (el Gobierno).",
+        "Al Tribunal Constitucional."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La función ejecutiva, que consiste en hacer cumplir las leyes, corresponde al Gobierno, y está sometida a la Constitución y a las propias leyes. Fundamento: Página 7, sección 4."
+    },
+    {
+      "question": "¿Cómo realiza principalmente el Gobierno su función ejecutiva?",
+      "options": [
+        "Modificando las leyes aprobadas por las Cortes.",
+        "Desarrollando el contenido de las leyes con normas de rango inferior (reglamentos).",
+        "Sometiendo cada ley a referéndum popular.",
+        "Vetando las decisiones del poder judicial."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El Gobierno ejerce su función ejecutiva desarrollando las leyes mediante normas reglamentarias (como Reales Decretos) que completan la regulación general y disponiendo los medios necesarios para su aplicación. Fundamento: Página 7, sección 4."
+    },
+    {
+      "question": "¿A quién corresponde el control sobre la aplicación de las leyes en España?",
+      "options": [
+        "Al poder ejecutivo.",
+        "Al poder legislativo.",
+        "Al poder judicial.",
+        "A los ciudadanos mediante iniciativa popular."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El control sobre la aplicación y cumplimiento de las leyes corresponde al poder judicial, formado por los juzgados y tribunales. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "¿Cuál es la función principal del Tribunal Constitucional?",
+      "options": [
+        "Aprobar las leyes orgánicas.",
+        "Ser la última instancia en todos los procesos judiciales.",
+        "Interpretar la Constitución y controlar que los poderes públicos y las leyes la respeten.",
+        "Nombrar a los ministros del Gobierno."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Tribunal Constitucional es el intérprete supremo de la Constitución y ejerce el control sobre la constitucionalidad de las leyes y la actuación de los poderes públicos. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "¿Cuál es el órgano legislativo en una Comunidad Autónoma?",
+      "options": [
+        "El Consejo de Gobierno.",
+        "El Tribunal Superior de Justicia.",
+        "El Presidente de la Comunidad Autónoma.",
+        "La Asamblea Legislativa."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El órgano que tiene la potestad de elaborar y aprobar las leyes en una Comunidad Autónoma es su Asamblea Legislativa, que es unicameral. Fundamento: Página 8, sección 5."
+    },
+    {
+      "question": "¿Quién ejecuta las leyes en el ámbito de una Comunidad Autónoma?",
+      "options": [
+        "El Delegado del Gobierno.",
+        "La Asamblea Legislativa.",
+        "Su Consejo de Gobierno (o Gobierno, Junta, etc.).",
+        "El Tribunal Superior de Justicia."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El órgano ejecutivo en una Comunidad Autónoma, con funciones equivalentes a las del Gobierno del Estado pero en su territorio, es su Consejo de Gobierno. Fundamento: Página 8, sección 5."
+    },
+    {
+      "question": "¿Qué órgano judicial se sitúa en la cúspide de la organización judicial en el territorio de una Comunidad Autónoma?",
+      "options": [
+        "La Audiencia Provincial.",
+        "El Tribunal Supremo.",
+        "El Tribunal Constitucional.",
+        "El Tribunal Superior de Justicia."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El Tribunal Superior de Justicia es el órgano judicial que culmina la organización judicial en el ámbito territorial de una Comunidad Autónoma, por debajo del Tribunal Supremo. Fundamento: Página 8, sección 5."
+    },
+    {
+      "question": "¿Quién firma y promulga las leyes autonómicas?",
+      "options": [
+        "El Rey.",
+        "El Presidente de la Comunidad Autónoma.",
+        "El Presidente de la Asamblea Legislativa.",
+        "El Presidente del Tribunal Supremo."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: A diferencia de las leyes estatales, las leyes autonómicas son firmadas y promulgadas por el presidente de la respectiva comunidad autónoma, quien también ordena su publicación. Fundamento: Página 8, sección 5."
+    },
+    {
+      "question": "¿Dónde se publican las leyes autonómicas para su entrada en vigor?",
+      "options": [
+        "Exclusivamente en el Boletín Oficial del Estado.",
+        "En el Diario Oficial de la Unión Europea.",
+        "En el Boletín Oficial de la Comunidad Autónoma.",
+        "En el tablón de anuncios de la Asamblea Legislativa."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El presidente de la comunidad autónoma ordena la publicación de la ley autonómica en el Boletín Oficial de la Comunidad Autónoma correspondiente. Fundamento: Página 8, sección 5."
+    },
+    {
+      "question": "¿Qué son las normas con rango inferior a ley?",
+      "options": [
+        "Las leyes orgánicas y ordinarias.",
+        "Los Reales Decretos Leyes.",
+        "Los reglamentos.",
+        "Los Estatutos de Autonomía."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Las normas con rango inferior a ley son los reglamentos, que emanan de la potestad reglamentaria de la Administración pública (central, autonómica o local). Fundamento: Página 9, sección 7."
+    },
+    {
+      "question": "Una de las principales limitaciones de los reglamentos es que:",
+      "options": [
+        "No pueden ser dictados por el Gobierno.",
+        "Deben ser aprobados por mayoría absoluta en el Congreso.",
+        "No pueden regular materias que están reservadas a las leyes.",
+        "Tienen un rango superior a los Tratados Internacionales."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Al ser de rango inferior, los reglamentos no pueden entrar a regular materias que la Constitución reserva para ser reguladas por una ley. Además, están sometidos a todas las normas de rango superior. Fundamento: Página 9, sección 7."
+    },
+    {
+      "question": "¿Según qué criterio se ordenan jerárquicamente los reglamentos del Estado?",
+      "options": [
+        "Por la fecha de su publicación.",
+        "Por el número de artículos que contienen.",
+        "Por la jerarquía del órgano de la Administración que los ha dictado.",
+        "Por la materia que regulan, siendo más importantes los económicos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La jerarquía de los reglamentos estatales depende del órgano que los aprueba, comenzando por el Presidente del Gobierno en la posición más alta. Fundamento: Página 9, sección 7."
+    },
+    {
+      "question": "Un Real Decreto 139/2020 dictado por el Ministerio de Política Territorial es un ejemplo de:",
+      "options": [
+        "Ley orgánica.",
+        "Norma con rango de ley.",
+        "Reglamento.",
+        "Ley autonómica."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Un Real Decreto es un tipo de reglamento. En este caso, al ser dictado por un ministerio en nombre del Consejo de Ministros, es una norma con rango inferior a la ley. Fundamento: Página 9, sección 7."
+    },
+    {
+      "question": "Una 'Orden DEF/2071/2015' dictada por el Ministerio de Defensa es un ejemplo de:",
+      "options": [
+        "Reglamento de una Comunidad Autónoma.",
+        "Real Decreto Ley.",
+        "Reglamento del Estado de tipo Orden Ministerial.",
+        "Ley de bases."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto indica que las normas dictadas por un Ministerio concreto se llaman Órdenes Ministeriales y son un tipo de reglamento estatal. Fundamento: Página 9, sección 7."
+    },
+    {
+      "question": "¿Cómo se denominan los reglamentos en el ámbito de las Comunidades Autónomas?",
+      "options": [
+        "Reales Decretos u Órdenes Reales.",
+        "Decretos u Órdenes.",
+        "Leyes autonómicas o Estatutos.",
+        "Bandos o Circulares."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Los reglamentos autonómicos son aprobados por los órganos de la administración autonómica y se denominan Decretos (si los aprueba el Consejo de Gobierno o Presidente) u Órdenes (si los aprueba un Consejero). Fundamento: Página 9, sección 7."
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "title": "La Administración General del Estado en el exterior (Tema 7)",
+  "items": [
+    {
+      "question": "¿Qué órgano del gobierno español es el encargado de dirigir la política exterior?",
+      "options": [
+        "El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación",
+        "Las Cortes Generales",
+        "El Gobierno",
+        "El Consejo de Estado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto establece que el Gobierno es el encargado de dirigir la política exterior, según lo estipulado en el artículo 97 de la Constitución Española. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "¿Cuál se considera el órgano principal del servicio exterior del Estado?",
+      "options": [
+        "Las oficinas consulares",
+        "Las misiones diplomáticas permanentes o embajadas",
+        "Las representaciones permanentes ante organizaciones internacionales",
+        "Las misiones diplomáticas especiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El documento señala explícitamente que las misiones diplomáticas permanentes ante otros Estados, también conocidas como embajadas, son el órgano principal del servicio exterior. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "¿Cuál es la función principal de las oficinas consulares en el exterior?",
+      "options": [
+        "Negociar tratados con el Estado receptor",
+        "Representar temporalmente a España en cumbres internacionales",
+        "La atención directa y tramitación de documentos para ciudadanos españoles",
+        "Fomentar la amistad y las relaciones políticas entre países"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se especifica que las oficinas consulares están encargadas de la atención directa y la tramitación de documentos de los ciudadanos españoles en el país receptor. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "¿Cómo se define al Consejo de Estado en el documento?",
+      "options": [
+        "El supremo órgano de control financiero del Gobierno",
+        "El supremo órgano consultivo del Gobierno",
+        "El principal órgano de la Administración institucional",
+        "El órgano que dirige la política exterior"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto lo describe como el supremo órgano consultivo del Gobierno, regulado por ley orgánica. Fundamento: Página 5, sección 3.1."
+    },
+    {
+      "question": "Según el texto, ¿los dictámenes emitidos por el Consejo de Estado son generalmente vinculantes?",
+      "options": [
+        "Sí, siempre son de obligado cumplimiento para el Gobierno.",
+        "No, salvo que la ley lo disponga expresamente, no son vinculantes.",
+        "Solo son vinculantes cuando los solicita el presidente de una Comunidad Autónoma.",
+        "Solo son vinculantes en materias socio-económicas y laborales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El documento aclara que sus dictámenes, salvo que una ley lo diga expresamente, no son vinculantes. Fundamento: Página 5, sección 3.1."
+    },
+    {
+      "question": "¿Qué tipo de consejeros del Consejo de Estado son miembros vitalicios y pueden incorporarse en cualquier momento?",
+      "options": [
+        "Los consejeros permanentes",
+        "Los consejeros electivos",
+        "Los expresidentes del Gobierno, que son consejeros natos",
+        "Los ministros en activo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Dentro de la categoría de consejeros natos, se especifica que los expresidentes del Gobierno son miembros vitalicios del Consejo. Fundamento: Página 5, sección 3.1."
+    },
+    {
+      "question": "¿En qué materias asesora principalmente el Consejo Económico y Social (CES)?",
+      "options": [
+        "En cuestiones jurídicas y elaboración de leyes",
+        "En la fiscalización de las cuentas públicas",
+        "En materias socio-económicas y laborales",
+        "En la protección de los intereses económicos de España en el exterior"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El CES asesora al Gobierno en asuntos sobre materias socio-económicas y laborales, ya sea por iniciativa propia o por consulta. Fundamento: Página 5, sección 3.2."
+    },
+    {
+      "question": "El Consejo Económico y Social (CES) está formado por tres grupos de veinte consejeros cada uno. ¿Qué sectores representan?",
+      "options": [
+        "Sindicatos, partidos políticos y expertos del Gobierno",
+        "Organizaciones sindicales, asociaciones empresariales y un tercer grupo mixto (agrario, pesca, consumidores, etc.)",
+        "Funcionarios, juristas y representantes de las Comunidades Autónomas",
+        "Empresas públicas, organismos autónomos y ministerios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La composición del CES es de 20 consejeros de sindicatos, 20 de asociaciones empresariales y 20 representantes de otros sectores como el agrario, pesquero, consumidores, cooperativas y expertos. Fundamento: Página 5, sección 3.2."
+    },
+    {
+      "question": "¿Qué órgano realiza el control interno de la actividad económico-financiera de la Administración?",
+      "options": [
+        "El Tribunal de Cuentas",
+        "Las Cortes Generales",
+        "El Consejo de Estado",
+        "La Intervención General de la Administración del Estado (IGAE)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El texto indica que el control interno lo realiza la IGAE, un órgano administrativo que depende del Ministerio de Hacienda. Fundamento: Página 6, sección 5.1."
+    },
+    {
+      "question": "¿De quién depende el Tribunal de Cuentas, el órgano encargado del control externo de las cuentas del Estado?",
+      "options": [
+        "Del Ministerio de Hacienda",
+        "Del Gobierno",
+        "De las Cortes Generales",
+        "Del Fiscal General del Estado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se especifica que el Tribunal de Cuentas depende de las Cortes Generales y ejerce sus funciones por delegación de estas. Fundamento: Página 6, sección 5.2."
+    },
+    {
+      "question": "¿Cuál es una de las funciones del Tribunal de Cuentas además de fiscalizar las cuentas públicas?",
+      "options": [
+        "Dirigir y gestionar la contabilidad pública",
+        "Asesorar al Gobierno en la elaboración de leyes",
+        "Enjuiciar la responsabilidad contable de quienes manejan fondos públicos",
+        "Controlar la gestión de fondos europeos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Tribunal de Cuentas tiene dos secciones, una de fiscalización y otra de enjuiciamiento, que se encarga de juzgar la responsabilidad contable de las personas que gestionan fondos públicos. Fundamento: Página 7, sección 5.2."
+    },
+    {
+      "question": "¿Cómo se denomina al medio por el que una Administración crea un organismo público para gestionar una materia concreta?",
+      "options": [
+        "Administración consultiva",
+        "Control financiero externo",
+        "Descentralización funcional",
+        "Supervisión ministerial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto define la descentralización funcional como el medio por el cual una Administración crea un organismo público que se encarga de la gestión de una materia concreta. Fundamento: Página 7, sección 6."
+    },
+    {
+      "question": "¿Qué tipo de actividades realizan los organismos autónomos?",
+      "options": [
+        "Actividades de producción de bienes para el mercado con ánimo de lucro",
+        "Actividades de regulación externa de sectores económicos",
+        "Actividades administrativas como fomento, prestación de servicios públicos o producción de bienes de interés público",
+        "Actividades de naturaleza exclusivamente mercantil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Los organismos autónomos se crean para la realización de actividades administrativas, de fomento, de prestación o gestión de servicios públicos o de producción de bienes de interés público. Fundamento: Página 7, sección 6.1."
+    },
+    {
+      "question": "El Instituto Nacional de Estadística (INE) y la Biblioteca Nacional son ejemplos de:",
+      "options": [
+        "Entidades públicas empresariales",
+        "Sociedades mercantiles estatales",
+        "Organismos autónomos",
+        "Autoridades administrativas independientes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El documento cita expresamente al INE y la Biblioteca Nacional como ejemplos de organismos públicos, dentro de la sección que describe a los organismos autónomos. Fundamento: Página 8, sección 6.1."
+    },
+    {
+      "question": "¿Qué característica principal diferencia a las entidades públicas empresariales de los organismos autónomos?",
+      "options": [
+        "No tienen personalidad jurídica propia",
+        "Se financian mayoritariamente con ingresos de mercado",
+        "Su personal se rige exclusivamente por el Derecho Administrativo",
+        "Dependen directamente de las Cortes Generales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La principal diferencia radica en que las entidades públicas empresariales se financian mayoritariamente con ingresos de mercado, a diferencia de los organismos autónomos que dependen más de los Presupuestos Generales del Estado. Fundamento: Página 8, sección 6.2."
+    },
+    {
+      "question": "ADIF Alta Velocidad y la Fábrica Nacional de la Moneda y Timbre son ejemplos de:",
+      "options": [
+        "Sociedades mercantiles estatales",
+        "Organismos autónomos",
+        "Agencias estatales",
+        "Entidades públicas empresariales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El texto menciona a ADIF Alta Velocidad y la Fábrica Nacional de la Moneda y Timbre como ejemplos de entidades públicas empresariales. Fundamento: Página 8, sección 6.2."
+    },
+    {
+      "question": "En materia laboral y de personal, ¿qué derecho rige principalmente a las entidades públicas empresariales?",
+      "options": [
+        "El Derecho Administrativo, como a los funcionarios",
+        "El Derecho Privado",
+        "El Derecho Mercantil",
+        "Un régimen especial dictado por el Ministerio de Hacienda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Su regulación corresponde al Derecho Privado, por ejemplo, en materia laboral, aunque se apliquen normas de Derecho Administrativo en otras áreas como contratos. Fundamento: Página 8, sección 6.2."
+    },
+    {
+      "question": "¿Qué requisito debe cumplirse para que una entidad sea considerada una sociedad mercantil estatal?",
+      "options": [
+        "Que su capital social sea 100% propiedad de la Administración",
+        "Que más del 50% de su capital social sea propiedad de la Administración",
+        "Que adopte la forma de sociedad limitada",
+        "Que se financie exclusivamente con los Presupuestos Generales del Estado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se considera una sociedad mercantil estatal si más del 50% del capital social de la entidad es propiedad de la Administración General del Estado o de alguna de sus entidades. Fundamento: Página 8, sección 6.3."
+    },
+    {
+      "question": "El personal que trabaja en las sociedades mercantiles estatales se rige por el:",
+      "options": [
+        "Derecho Laboral",
+        "Derecho Administrativo",
+        "Régimen de los funcionarios públicos",
+        "Derecho Civil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explicación: El documento indica que el estatuto del personal que trabaja en estas sociedades se rige por el Derecho Laboral. Fundamento: Página 8, sección 6.3."
+    },
+    {
+      "question": "Loterías y Apuestas del Estado y el Grupo Correos son ejemplos de:",
+      "options": [
+        "Organismos autónomos",
+        "Entidades públicas empresariales",
+        "Sociedades mercantiles estatales",
+        "Agencias estatales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto cita a Loterías y Apuestas del Estado y al Grupo Correos como ejemplos de sociedades mercantiles estatales. Fundamento: Página 8, sección 6.3."
+    },
+    {
+      "question": "¿A qué ministerio corresponde la tutela de una sociedad mercantil estatal si el Consejo de Ministros no designa uno específico?",
+      "options": [
+        "Al Ministerio de Economía",
+        "Al Ministerio que la ha creado",
+        "Al Ministerio de Hacienda",
+        "A la Presidencia del Gobierno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se establece que si el Consejo de Ministros no atribuye la tutela a un Ministerio concreto, esta le corresponde al Ministerio de Hacienda. Fundamento: Página 8, sección 6.3."
+    },
+    {
+      "question": "La AEMET (meteorología) y la AESA (seguridad aérea) son ejemplos de:",
+      "options": [
+        "Fundaciones del sector público",
+        "Agencias estatales",
+        "Autoridades administrativas independientes",
+        "Entes públicos atípicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El documento lista AEMET y AESA como ejemplos de agencias estatales, un tipo de entidad pública facultada para ejercer potestades administrativas. Fundamento: Página 9, sección 8."
+    },
+    {
+      "question": "¿Qué caracteriza a las fundaciones del sector público estatal?",
+      "options": [
+        "Que adoptan la forma de sociedad anónima",
+        "Que se financian mayoritariamente con ingresos de mercado",
+        "Que su patrimonio está integrado mayoritariamente por bienes o derechos públicos",
+        "Que ejercen funciones de regulación y supervisión externa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se definen como fundaciones constituidas por entes públicos cuyo patrimonio está integrado mayoritariamente por bienes o derechos públicos, o cuyo control de patronato es público. Fundamento: Página 9, sección 8."
+    },
+    {
+      "question": "La Fundación Biodiversidad y la Fundación AENA son ejemplos de:",
+      "options": [
+        "Agencias estatales",
+        "Autoridades administrativas independientes",
+        "Fundaciones del sector público estatal",
+        "Sociedades mercantiles estatales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto proporciona a la Fundación Biodiversidad y la Fundación AENA como ejemplos de fundaciones del sector público estatal. Fundamento: Página 9, sección 8."
+    },
+    {
+      "question": "¿Qué tipo de entidades tienen atribuidas facultades de regulación y supervisión externas sobre sectores determinados?",
+      "options": [
+        "Las agencias estatales",
+        "Las entidades públicas empresariales",
+        "Los organismos autónomos",
+        "Las autoridades administrativas independientes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Se definen las autoridades administrativas independientes como entidades a las que se les atribuyen facultades de regulación y supervisión externas sobre sectores o actividades determinadas. Fundamento: Página 9, sección 8."
+    },
+    {
+      "question": "La Comisión Nacional del Mercado de Valores y el Consejo de Seguridad Nuclear son ejemplos de:",
+      "options": [
+        "Autoridades administrativas independientes",
+        "Fundaciones del sector público estatal",
+        "Entes públicos atípicos",
+        "Agencias estatales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explicación: El documento cita a la Comisión Nacional del Mercado de Valores y al Consejo de Seguridad Nuclear como ejemplos de autoridades administrativas independientes. Fundamento: Página 9, sección 8."
+    },
+    {
+      "question": "¿A qué categoría de organismo público pertenece la Universidad Nacional de Educación a Distancia (UNED)?",
+      "options": [
+        "Agencia estatal",
+        "Universidad pública no transferida",
+        "Fundación del sector público estatal",
+        "Ente público atípico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se clasifica a la UNED como una universidad pública cuya gestión no ha sido transferida a las Comunidades Autónomas. Fundamento: Página 9, sección 8."
+    },
+    {
+      "question": "¿Cómo se denominan los organismos que no encajan en ninguna de las otras categorías y se rigen en primer lugar por su norma de creación?",
+      "options": [
+        "Organismos autónomos",
+        "Agencias estatales",
+        "Entes públicos atípicos",
+        "Autoridades administrativas independientes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: En esta categoría se incluyen entidades que no encajan en los otros tipos, y su característica principal es que se rigen, en primer lugar, por la norma que los creó. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "La Agencia Estatal de Administración Tributaria (AEAT) y el Instituto Cervantes son ejemplos de:",
+      "options": [
+        "Organismos autónomos",
+        "Sociedades mercantiles estatales",
+        "Agencias estatales de régimen general",
+        "Entes públicos atípicos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El documento menciona a la AEAT y al Instituto Cervantes como ejemplos de entes públicos atípicos, que no encajan en otras clasificaciones. Fundamento: Página 10, sección 8."
+    },
+    {
+      "question": "Según el texto, el Museo Nacional del Prado es un ejemplo de:",
+      "options": [
+        "Fundación del sector público estatal",
+        "Organismo autónomo",
+        "Ente público atípico",
+        "Sociedad mercantil estatal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Museo Nacional del Prado es citado como un ejemplo de ente público atípico, junto con la AEAT o el Instituto Cervantes. Fundamento: Página 10, sección 8."
+    }
+  ]
+}

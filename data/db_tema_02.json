@@ -1,0 +1,335 @@
+{
+  "title": "Jerarquía normativa. Normas civiles y mercantiles (Tema 02)",
+  "items": [
+    {
+      "question": "¿Qué es el ordenamiento jurídico según el documento?",
+      "options": [
+        "El conjunto de leyes aprobadas únicamente por el Estado.",
+        "Las normas no escritas, como la costumbre y los principios generales del Derecho.",
+        "El conjunto de normas y principios vigentes en un país en un momento determinado.",
+        "Exclusivamente las normas que provienen de la Unión Europea."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Se define el ordenamiento jurídico como el conjunto de todas las normas y principios que están en vigor en un país, incluyendo las de la UE, del Estado, de las CCAA y de las entidades locales. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "¿Qué principio fundamental ordena el conjunto de normas en España?",
+      "options": [
+        "El principio de especialidad.",
+        "El principio de publicidad de las normas.",
+        "El principio de jerarquía normativa.",
+        "El principio de irretroactividad."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto establece que el conjunto de normas se organiza a través del principio de jerarquía normativa, recogido en el artículo 9.3 de la Constitución Española. Fundamento: Página 4, sección 2.1."
+    },
+    {
+      "question": "Según el principio de jerarquía normativa, ¿qué sucede si una norma de rango inferior contradice a una de rango superior?",
+      "options": [
+        "La norma de rango superior queda anulada.",
+        "Se aplica la norma que sea más beneficiosa para el ciudadano.",
+        "La norma de rango inferior no puede contradecir lo que dispone la de rango superior.",
+        "Ambas normas se aplican de forma simultánea."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Uno de los efectos del principio de jerarquía es que una norma de rango inferior no puede ir en contra de lo establecido por otra de rango superior. Fundamento: Página 4, sección 2.2."
+    },
+    {
+      "question": "Si dos normas del mismo rango regulan una misma cuestión, ¿cuál de ellas se aplica?",
+      "options": [
+        "La más antigua.",
+        "La más moderna.",
+        "La que dicte el órgano de mayor posición.",
+        "La norma general sobre la especial."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: En caso de conflicto entre dos normas del mismo rango, siempre se aplicará la que sea posterior en el tiempo, es decir, la más moderna. Fundamento: Página 4, sección 2.2."
+    },
+    {
+      "question": "Cuando una ley general y una ley especial regulan la misma materia, ¿cuál prevalece?",
+      "options": [
+        "La ley general, por tener un alcance más amplio.",
+        "Ninguna, ambas quedan sin efecto.",
+        "La ley especial, por estar más desarrollada.",
+        "La que haya sido publicada primero en el BOE."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto indica que entre una norma general y una especial, prevalece siempre la ley especial, ya que está más desarrollada y profundiza más en la materia. Fundamento: Página 4, sección 2.2."
+    },
+    {
+      "question": "¿Qué norma ocupa la posición más alta en la pirámide de la jerarquía normativa española?",
+      "options": [
+        "Los Tratados Internacionales.",
+        "Las Leyes Orgánicas.",
+        "La Constitución.",
+        "Los Reglamentos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La Constitución se encuentra en la cúspide de la pirámide jerárquica y todas las demás normas están subordinadas a ella. Fundamento: Página 5."
+    },
+    {
+      "question": "En caso de conflicto, ¿qué relación de primacía existe entre una norma de la Unión Europea y una norma interna española?",
+      "options": [
+        "Siempre prima la norma española.",
+        "Las normas de la Unión Europea priman sobre cualquier otra norma interna.",
+        "Se aplica la norma que sea más antigua.",
+        "No pueden entrar en conflicto porque regulan materias distintas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Las normas de la Unión Europea son de aplicación directa y priman sobre cualquier otra norma, incluso si una norma comunitaria fuera contraria a la Constitución, prevalecería la comunitaria. Fundamento: Página 5."
+    },
+    {
+      "question": "¿Qué característica se describe como 'rígida' en la Constitución Española?",
+      "options": [
+        "Que tiene un gran número de artículos.",
+        "Que establece un procedimiento de reforma muy complejo.",
+        "Que su preámbulo tiene carácter obligatorio.",
+        "Que no reconoce la autonomía de las nacionalidades."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se considera que la Constitución es rígida porque el procedimiento para su reforma es muy complejo, especialmente para ciertos apartados como los derechos fundamentales. Fundamento: Página 6, sección 4.1."
+    },
+    {
+      "question": "¿Qué forma política del Estado establece la Constitución Española?",
+      "options": [
+        "República presidencialista.",
+        "Monarquía absoluta.",
+        "Monarquía parlamentaria.",
+        "Estado federal."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La Constitución establece la monarquía parlamentaria como la forma política del Estado, donde el Rey es el Jefe del Estado pero el poder ejecutivo recae en el Gobierno. Fundamento: Página 6, sección 4.1."
+    },
+    {
+      "question": "El principio de división de poderes en España atribuye el poder legislativo a:",
+      "options": [
+        "El Gobierno.",
+        "Los jueces y los Tribunales.",
+        "El Jefe del Estado.",
+        "Las Cortes Generales."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El poder legislativo, encargado de elaborar las leyes, corresponde a las Cortes Generales. El Gobierno tiene el poder ejecutivo y los jueces y Tribunales el poder judicial. Fundamento: Página 6, sección 4.1."
+    },
+    {
+      "question": "¿Qué requisito es indispensable para que los tratados internacionales formen parte del ordenamiento jurídico español?",
+      "options": [
+        "Ser aprobados por mayoría absoluta en el Congreso.",
+        "Ser publicados en el Boletín Oficial del Estado (BOE).",
+        "Ser ratificados mediante referéndum popular.",
+        "No contradecir ninguna ley ordinaria."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Los tratados internacionales, una vez celebrados válidamente, deben ser publicados oficialmente en el BOE para pasar a formar parte del ordenamiento jurídico español. Fundamento: Página 7, sección 4.2."
+    },
+    {
+      "question": "¿Qué tipo de ley se requiere para atribuir a una organización internacional competencias derivadas de la Constitución?",
+      "options": [
+        "Ley ordinaria.",
+        "Ley de bases.",
+        "Ley orgánica.",
+        "Ley marco."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto especifica que la atribución de competencias constitucionales a una organización internacional debe realizarse mediante una ley orgánica. Fundamento: Página 7, sección 4.2."
+    },
+    {
+      "question": "Las leyes que desarrollan los derechos fundamentales y las libertades públicas se denominan:",
+      "options": [
+        "Leyes ordinarias.",
+        "Leyes de transferencia.",
+        "Leyes marco.",
+        "Leyes orgánicas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Las leyes orgánicas son aquellas que, entre otras materias, regulan el desarrollo de los derechos fundamentales y las libertades públicas. Fundamento: Página 7, sección 4.3."
+    },
+    {
+      "question": "¿Qué mayoría se necesita en el Congreso para aprobar una ley orgánica?",
+      "options": [
+        "Mayoría simple (más votos a favor que en contra de los presentes).",
+        "Mayoría de dos tercios de la cámara.",
+        "Unanimidad de todos los diputados.",
+        "Mayoría absoluta (la mitad más uno del total de diputados)."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: La aprobación de una ley orgánica requiere una mayoría absoluta en el Congreso, que corresponde a la mitad más uno del total de diputados (176 sobre 350). Fundamento: Página 7, sección 4.3."
+    },
+    {
+      "question": "¿Qué son las leyes ordinarias?",
+      "options": [
+        "Las que aprueban los Estatutos de Autonomía.",
+        "Todas las aprobadas por las Cortes que no son leyes orgánicas.",
+        "Las que dicta el Gobierno en caso de urgente necesidad.",
+        "Las que transfieren competencias del Estado a las CCAA."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Las leyes ordinarias se definen por exclusión: son todas aquellas aprobadas por las Cortes Generales que no tienen el carácter de ley orgánica. Fundamento: Página 7, sección 4.3."
+    },
+    {
+      "question": "¿Cómo se denominan las normas con rango de ley que dicta el Gobierno por delegación de las Cortes?",
+      "options": [
+        "Decretos leyes.",
+        "Reglamentos.",
+        "Decretos Legislativos.",
+        "Leyes de bases."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Los Decretos Legislativos son normas con rango de ley dictadas por el Gobierno gracias a una delegación expresa de las Cortes Generales. Fundamento: Página 8, sección 4.4."
+    },
+    {
+      "question": "¿En qué circunstancia puede el Gobierno dictar Decretos leyes?",
+      "options": [
+        "Para desarrollar los derechos fundamentales.",
+        "En cualquier momento, para legislar sobre materias de su competencia.",
+        "En caso de extraordinaria y urgente necesidad.",
+        "Para refundir varios textos legales en uno solo, previa delegación."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La Constitución permite al Gobierno dictar Decretos leyes únicamente en situaciones consideradas de extraordinaria y urgente necesidad. Fundamento: Página 8, sección 4.4."
+    },
+    {
+      "question": "¿Cuál es la finalidad principal de los Reglamentos dictados por el Gobierno?",
+      "options": [
+        "Modificar o derogar Leyes Orgánicas.",
+        "Aprobar los Estatutos de Autonomía.",
+        "Regular los derechos fundamentales de los ciudadanos.",
+        "Desarrollar o completar el contenido de las leyes."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Los reglamentos son normas de rango inferior a la ley que dicta el Gobierno para desarrollar, aclarar o completar el contenido de las leyes preexistentes. Fundamento: Página 8, sección 4.5."
+    },
+    {
+      "question": "Un reglamento aprobado por el Consejo de Ministros se denomina:",
+      "options": [
+        "Orden Ministerial.",
+        "Real Decreto.",
+        "Circular.",
+        "Resolución."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Los reglamentos aprobados por el Presidente del Gobierno o por el Consejo de Ministros adoptan la forma de Reales Decretos. Fundamento: Página 8, sección 4.5."
+    },
+    {
+      "question": "¿Cuál es la norma básica de una Comunidad Autónoma?",
+      "options": [
+        "La ley ordinaria autonómica.",
+        "Un reglamento autonómico.",
+        "El Estatuto de Autonomía.",
+        "La Constitución Española."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Estatuto de Autonomía es la norma institucional básica de cada Comunidad Autónoma. Fundamento: Página 9."
+    },
+    {
+      "question": "¿Mediante qué tipo de ley se aprueba un Estatuto de Autonomía?",
+      "options": [
+        "Ley ordinaria estatal.",
+        "Ley orgánica.",
+        "Decreto ley.",
+        "Reglamento del Estado."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Aunque es la norma básica de una Comunidad Autónoma, su aprobación final se realiza en las Cortes Generales mediante una ley orgánica. Fundamento: Página 9."
+    },
+    {
+      "question": "¿Qué tipo de normas pueden dictar las entidades locales como los ayuntamientos?",
+      "options": [
+        "Leyes orgánicas locales.",
+        "Leyes ordinarias municipales.",
+        "Decretos leyes provinciales.",
+        "Ordenanzas y reglamentos."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Las entidades locales no tienen potestad para dictar leyes. Sus normas principales son las ordenanzas (que regulan la actividad del municipio) y los reglamentos (que regulan su funcionamiento interno). Fundamento: Página 9."
+    },
+    {
+      "question": "¿Quién tiene la potestad para dictar los 'bandos' a nivel local?",
+      "options": [
+        "El pleno del ayuntamiento.",
+        "El pleno de la diputación.",
+        "Los alcaldes.",
+        "La asamblea autonómica."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Los bandos, que regulan cuestiones menores, son dictados por los alcaldes. Fundamento: Página 9."
+    },
+    {
+      "question": "¿Cuál es la norma fundamental del Derecho Civil?",
+      "options": [
+        "El Código de Comercio.",
+        "La Ley de Sociedades de Capital.",
+        "El Código Civil.",
+        "El Estatuto de los Trabajadores."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto indica que la norma fundamental del Derecho Civil es el Código Civil. Fundamento: Página 10, sección 7."
+    },
+    {
+      "question": "¿Qué disciplina del Derecho Privado regula específicamente las actividades comerciales o industriales?",
+      "options": [
+        "Derecho Civil.",
+        "Derecho Procesal.",
+        "Derecho Administrativo.",
+        "Derecho Mercantil."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El Derecho Mercantil es la rama más específica que regula las actividades comerciales o industriales de personas físicas o jurídicas. Fundamento: Página 10, sección 7."
+    },
+    {
+      "question": "Según el texto, la compraventa de un inmueble (como una nave industrial) se considera siempre:",
+      "options": [
+        "Mercantil.",
+        "Civil.",
+        "Depende de si el comprador es empresario.",
+        "Depende del valor del inmueble."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Se establece claramente que la compraventa de bienes inmuebles siempre tendrá carácter civil y se regirá por el Código Civil. Fundamento: Página 10, sección 7."
+    },
+    {
+      "question": "¿Cuál es el criterio principal para determinar si la compraventa de un bien mueble es mercantil?",
+      "options": [
+        "Que el vendedor sea un comerciante.",
+        "Que el pago se realice al contado.",
+        "El ánimo del comprador de revender el producto para obtener una ganancia.",
+        "Que el producto sea de fabricación nacional."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Para los bienes muebles, el criterio clave es la intención del comprador: si adquiere los productos para revenderlos y obtener un beneficio, la compraventa es mercantil. Fundamento: Página 10, sección 7."
+    },
+    {
+      "question": "Si una persona, aunque no sea comerciante, compra bienes muebles con la intención de revenderlos, ¿la compraventa es civil o mercantil?",
+      "options": [
+        "Civil, porque no es comerciante.",
+        "Mercantil, por la intención de reventa.",
+        "Depende del valor de los bienes.",
+        "Siempre es civil para personas físicas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto aclara que, si una persona física compra bienes muebles para revenderlos, la operación será mercantil, independientemente de que sea o no comerciante o empresario. Fundamento: Página 10, sección 7."
+    },
+    {
+      "question": "La compra de bienes destinados al consumo propio se considera siempre:",
+      "options": [
+        "De carácter mercantil.",
+        "De carácter civil.",
+        "Depende de si la compra se hace a un empresario.",
+        "Una actividad no regulada por el derecho."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La compra de bienes para el consumo propio o por encargo para el consumo de otra persona es siempre de carácter civil. Fundamento: Página 10, sección 7."
+    },
+    {
+      "question": "Si un empresario que fabrica colchones compra máquinas de corte para su fábrica, ¿la compraventa es civil o mercantil?",
+      "options": [
+        "Civil, porque las máquinas no son para revender.",
+        "Mercantil, porque los bienes son para su actividad comercial.",
+        "Civil, porque el vendedor de las máquinas es una persona física.",
+        "Mercantil, solo si el pago es a plazos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La compra de bienes por un empresario para su actividad comercial, incluso si no son para reventa (como maquinaria), se considera una compraventa mercantil. Fundamento: Página 10, sección 7."
+    }
+  ]
+}

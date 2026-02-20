@@ -1,0 +1,335 @@
+{
+  "title": "Concepto, clases y fuentes del Derecho (Tema 01)",
+  "items": [
+    {
+      "question": "¿Cuál es la principal finalidad del derecho según el texto?",
+      "options": [
+        "Establecer un registro de los usos sociales y morales de una comunidad.",
+        "Regular la convivencia humana a través de normas y principios.",
+        "Documentar las relaciones económicas entre empresas.",
+        "Imponer sanciones subjetivas basadas en la conciencia individual."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto define el derecho como el conjunto de normas y principios destinados a regular la convivencia humana, que pueden ser impuestas por la fuerza si es necesario. Fundamento: Página 4, sección 2."
+    },
+    {
+      "question": "Según la tabla comparativa, ¿qué característica diferencia a las normas jurídicas de las normas sociales y morales?",
+      "options": [
+        "Las normas jurídicas son individuales y dependen de la cultura de cada persona.",
+        "Las normas jurídicas son unilaterales, es decir, solo imponen deberes.",
+        "Las normas jurídicas son bilaterales, ya que imponen obligaciones y otorgan derechos.",
+        "Las normas jurídicas son voluntarias y su cumplimiento depende de la voluntad de la persona."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La tabla indica que una característica clave de las normas jurídicas es que son bilaterales (imponen obligaciones y otorgan derechos), en contraste con las normas sociales y morales, que son unilaterales (solamente imponen deberes). Fundamento: Página 4, Tabla 1."
+    },
+    {
+      "question": "¿Cómo se describe la sanción en las normas jurídicas en comparación con las normas sociales?",
+      "options": [
+        "La sanción es subjetiva y variable según la conciencia de la persona.",
+        "No existe ningún tipo de sanción.",
+        "La sanción es objetiva, está determinada en una norma y es impuesta por los jueces.",
+        "La sanción es decidida por el creador de la norma, que es la misma persona obligada."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: A diferencia de la sanción subjetiva de las normas sociales, la sanción de las normas jurídicas es objetiva, ya que está predeterminada en una norma y la imponen los jueces. Fundamento: Página 4, Tabla 1."
+    },
+    {
+      "question": "¿Qué término describe la característica de las normas jurídicas que indica que el creador de la norma y su destinatario son distintos?",
+      "options": [
+        "Autónoma",
+        "Heterónoma",
+        "Bilateral",
+        "Colectiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Las normas jurídicas son heterónomas porque quien las crea (el legislador) es una entidad distinta de quien está obligado a cumplirlas (el destinatario). Fundamento: Página 4, Tabla 1."
+    },
+    {
+      "question": "¿Cuál es el elemento fundamental que caracteriza a las relaciones de Derecho Público?",
+      "options": [
+        "Un vínculo de colaboración entre las partes, que actúan en igualdad.",
+        "La intervención de dos particulares sin presencia de la Administración.",
+        "Una relación de subordinación donde una Administración Pública ejerce su autoridad.",
+        "La ausencia de normas escritas, basándose únicamente en la costumbre."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Derecho Público se define por una relación de subordinación, donde una Administración Pública ejerce su autoridad sobre la otra parte. Fundamento: Página 5, sección 2.1."
+    },
+    {
+      "question": "Si un ayuntamiento firma un contrato de alquiler de un local, actuando sin ejercer su autoridad, ¿a qué tipo de derecho pertenece esta relación?",
+      "options": [
+        "Derecho Público, porque interviene un ente público.",
+        "Derecho Administrativo exclusivamente.",
+        "Derecho Privado, porque falta el elemento de subordinación.",
+        "Derecho Penal, porque involucra una propiedad."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Aunque una de las partes es un ente público, si no ejerce su autoridad y actúa en un plano de igualdad (como en un alquiler), la relación se rige por el Derecho Privado. Fundamento: Página 5, sección 2.1."
+    },
+    {
+      "question": "¿Qué rama del Derecho Público regula la organización de la Administración y sus relaciones con los particulares?",
+      "options": [
+        "Derecho Penal",
+        "Derecho Civil",
+        "Derecho Administrativo",
+        "Derecho Mercantil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El Derecho Administrativo es la rama del Derecho Público que se encarga de regular la organización y funcionamiento de la Administración y sus relaciones con los ciudadanos. Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "¿Cuál de las siguientes ramas del derecho pertenece al Derecho Privado?",
+      "options": [
+        "Derecho Fiscal",
+        "Derecho Procesal",
+        "Derecho Penal",
+        "Derecho Mercantil"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: El Derecho Mercantil, que regula la actividad de los empresarios, es una rama del Derecho Privado. Las otras opciones son ramas del Derecho Público. Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "¿Qué rama del derecho determina las conductas que son consideradas delitos y las sanciones correspondientes?",
+      "options": [
+        "Derecho Civil",
+        "Derecho Penal",
+        "Derecho Laboral",
+        "Derecho Administrativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El Derecho Penal es la rama del Derecho Público que define los delitos y establece las penas para quienes los cometen. Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "El Derecho Laboral se considera un derecho mixto porque:",
+      "options": [
+        "Solo regula las relaciones entre empresas.",
+        "Contiene tanto normas públicas como privadas.",
+        "Es una sub-rama del Derecho Civil.",
+        "No tiene sanciones objetivas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El Derecho Laboral es considerado mixto porque integra normas de carácter público (como el Estatuto de los Trabajadores) y normas de carácter privado (como los convenios colectivos). Fundamento: Página 5, sección 2.2."
+    },
+    {
+      "question": "¿A qué pregunta responden las fuentes materiales del derecho?",
+      "options": [
+        "¿Cómo se aplican las normas?",
+        "¿De dónde surge el derecho o quién lo crea?",
+        "¿Cuáles son las sanciones por incumplimiento?",
+        "¿En qué forma se manifiestan las normas?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Las fuentes materiales explican el origen del derecho, identificando a las entidades, instituciones o grupos sociales con capacidad para crear normas jurídicas. Responden a la pregunta '¿Quién?'. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "Además del Estado y las Comunidades Autónomas, ¿qué otra entidad se menciona como creadora de normas de aplicación directa en España?",
+      "options": [
+        "Los ayuntamientos de forma exclusiva.",
+        "Las asociaciones de vecinos.",
+        "La Unión Europea.",
+        "Los tribunales inferiores."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto indica que organismos internacionales como la Unión Europea (Parlamento, Comisión, Consejo) crean normas jurídicas que son de aplicación directa en los Estados miembros. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "¿Qué se requiere para que los ciudadanos puedan proponer la aprobación de leyes al Parlamento mediante la iniciativa legislativa popular?",
+      "options": [
+        "La aprobación previa del Tribunal Supremo.",
+        "La presentación de 500.000 firmas y el cumplimiento de ciertos requisitos.",
+        "Un acuerdo entre sindicatos y asociaciones de empresarios.",
+        "La publicación de la propuesta en el Boletín Oficial del Estado."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: La Constitución española recoge la iniciativa legislativa popular, que permite a los ciudadanos proponer leyes al Parlamento si presentan 500.000 firmas y cumplen con otros requisitos. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "Los convenios colectivos, pactados entre asociaciones de empresarios y sindicatos, son un ejemplo de:",
+      "options": [
+        "Fuente formal indirecta.",
+        "Jurisprudencia.",
+        "Principio general del derecho.",
+        "Fuente material del derecho."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Las negociaciones entre empresarios y sindicatos para pactar un convenio colectivo son un ejemplo de fuente material, ya que es un grupo social que crea normas (con valor normativo) para trabajadores y empresas. Fundamento: Página 7, sección 4.1."
+    },
+    {
+      "question": "Según el artículo 1 del Código Civil, ¿cuáles son las fuentes formales directas del derecho?",
+      "options": [
+        "La ley, la jurisprudencia y los tratados internacionales.",
+        "La ley, la costumbre y los principios generales del derecho.",
+        "Únicamente la ley y la Constitución.",
+        "La costumbre, la jurisprudencia y los convenios colectivos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto cita el artículo 1 del Código Civil para establecer que las fuentes formales directas son la ley, la costumbre y los principios generales del derecho. Fundamento: Página 8, sección 4.2.1."
+    },
+    {
+      "question": "¿Qué es la costumbre como fuente del derecho?",
+      "options": [
+        "Una norma escrita dictada por el Gobierno.",
+        "La interpretación constante del Tribunal Supremo.",
+        "Una norma no escrita que surge de una conducta habitual y reiterada.",
+        "Un tratado internacional publicado en el Boletín Oficial del Estado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La costumbre se define como una norma no escrita que nace de una conducta habitual, reiterada y mantenida en el tiempo. Fundamento: Página 8, sección 4.2.1."
+    },
+    {
+      "question": "¿En qué situación se aplica la costumbre como fuente del derecho?",
+      "options": [
+        "En primer lugar, por encima de cualquier ley.",
+        "Únicamente cuando lo decide un juez, sin importar si existe una ley.",
+        "Cuando no existe una ley aplicable al caso y no es contraria a la moral o al orden público.",
+        "Siempre que sea aprobada por las Cortes Generales."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La costumbre rige en defecto de ley aplicable, es decir, solo se utiliza cuando no hay una ley que regule el caso. Además, debe probarse y no puede ser contraria a la moral o al orden público. Fundamento: Página 8, sección 4.2.1."
+    },
+    {
+      "question": "¿Cuándo se aplican los principios generales del derecho?",
+      "options": [
+        "Como primera opción antes que la ley y la costumbre.",
+        "Solo en el ámbito del Derecho Penal.",
+        "En cualquier caso, a discreción de las partes.",
+        "Cuando no hay ley o costumbre que pueda resolver la relación jurídica."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: Los principios generales del derecho son la última fuente a la que se acude, aplicándose en defecto de ley o costumbre. Fundamento: Página 8, sección 4.2.1."
+    },
+    {
+      "question": "¿Qué es la jurisprudencia?",
+      "options": [
+        "Una ley escrita aprobada por las Asambleas Legislativas de las Comunidades Autónomas.",
+        "Un tipo de costumbre que no necesita ser probada.",
+        "La interpretación constante y uniforme del Tribunal Supremo al aplicar las fuentes del derecho.",
+        "La propuesta de ley que realizan los ciudadanos a través de la iniciativa legislativa popular."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La jurisprudencia es considerada una fuente formal indirecta y se define como la doctrina que de modo reiterado establece el Tribunal Supremo al interpretar y aplicar la ley, la costumbre y los principios generales del derecho. Fundamento: Página 8, sección 4.2.2."
+    },
+    {
+      "question": "¿Qué requisito es necesario para que las normas de un tratado internacional formen parte del ordenamiento jurídico español?",
+      "options": [
+        "Su aprobación en referéndum.",
+        "Su publicación en el Boletín Oficial del Estado.",
+        "La creación de una ley específica que lo transcriba.",
+        "La validación por parte del Tribunal Supremo."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Para que un tratado internacional se incorpore plenamente a nuestro ordenamiento jurídico y sea considerado una fuente, se exige su publicación oficial en el Boletín Oficial del Estado (BOE). Fundamento: Página 8, sección 4.2.2."
+    },
+    {
+      "question": "Dentro de las fuentes formales, la costumbre y los principios generales del derecho se consideran:",
+      "options": [
+        "Fuentes primarias, de aplicación directa.",
+        "Fuentes secundarias o complementarias.",
+        "Las únicas fuentes del Derecho Laboral.",
+        "Fuentes superiores a la ley."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto clasifica las fuentes en primarias (como las leyes y tratados) y secundarias o complementarias, indicando que la costumbre y los principios generales del derecho pertenecen a esta última categoría. Fundamento: Página 8, sección 4.2.2."
+    },
+    {
+      "question": "¿Cuál es el orden de aplicación de las fuentes directas del derecho según el Código Civil?",
+      "options": [
+        "Primero la costumbre, luego los principios generales y finalmente la ley.",
+        "Se puede elegir libremente cuál aplicar en cada caso.",
+        "Primero la ley, luego la costumbre y, por último, los principios generales del derecho.",
+        "Primero los principios generales del derecho, luego la ley y por último la costumbre."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El orden en que se citan las fuentes directas en el Código Civil es jerárquico. Se debe aplicar primero la ley; si no hay ley aplicable, se recurre a la costumbre; y si tampoco hay costumbre, se aplican los principios generales del derecho. Fundamento: Página 9."
+    },
+    {
+      "question": "¿Qué norma jurídica se sitúa por encima de todas las demás leyes en el ordenamiento jurídico español?",
+      "options": [
+        "El Código Civil.",
+        "Un Tratado Internacional.",
+        "La Constitución.",
+        "Una ley dictada por el Gobierno."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: El texto establece claramente que la Constitución se sitúa en la cúspide del ordenamiento jurídico, por encima de todas las demás leyes. Fundamento: Página 9."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una de las funciones esenciales del derecho en la sociedad?",
+      "options": [
+        "Fomentar la subjetividad en las sanciones.",
+        "Establecer mecanismos de resolución pacífica de conflictos.",
+        "Limitar la participación de los ciudadanos en los procedimientos judiciales.",
+        "Permitir el ejercicio ilimitado del poder político."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: Una de las funciones más importantes del derecho es establecer mecanismos para resolver de forma pacífica los conflictos que surgen entre los miembros de una sociedad. Fundamento: Página 10."
+    },
+    {
+      "question": "¿De qué manera el derecho legitima y limita el ejercicio del poder político?",
+      "options": [
+        "Eliminando todos los mecanismos de control sobre el poder.",
+        "A través de mecanismos como la participación ciudadana en la creación de normas.",
+        "Concentrando todo el poder en un único órgano.",
+        "Prohibiendo la existencia de tribunales de justicia."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El derecho limita el poder político a través de mecanismos de participación ciudadana, como la iniciativa legislativa, y de control del poder. Fundamento: Página 10."
+    },
+    {
+      "question": "¿Qué función cumple el derecho en las relaciones económicas y mercantiles?",
+      "options": [
+        "Crear inseguridad para fomentar la competencia.",
+        "Eliminar la necesidad de contratos.",
+        "Dar seguridad jurídica a las transacciones comerciales.",
+        "Hacer que todas las transacciones sean gratuitas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: Una función clave del derecho es facilitar las relaciones económicas y mercantiles al proporcionar un marco de seguridad jurídica para las transacciones. Fundamento: Página 10."
+    },
+    {
+      "question": "En la representación tradicional de la Justicia, ¿qué simboliza la venda en los ojos?",
+      "options": [
+        "El poder sancionador del derecho.",
+        "La igualdad de derechos de las partes.",
+        "La imparcialidad a la hora de valorar las conductas.",
+        "La necesidad de que la justicia sea rápida."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Explicación: La venda en los ojos es un símbolo de la imparcialidad, que es una de las características esenciales que debe tener la Justicia para cumplir sus funciones correctamente. Fundamento: Página 10."
+    },
+    {
+      "question": "¿Qué simboliza la espada en la representación de la Justicia?",
+      "options": [
+        "El poder sancionador del derecho para hacer cumplir las normas.",
+        "La igualdad entre las partes en conflicto.",
+        "La imparcialidad al dictar sentencia.",
+        "La protección de los derechos de los ciudadanos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explicación: La espada simboliza el poder coercitivo y sancionador del derecho, su capacidad para hacer cumplir las normas por la fuerza si es necesario. Fundamento: Página 10."
+    },
+    {
+      "question": "La balanza, como símbolo de la Justicia, representa:",
+      "options": [
+        "La rapidez de los procedimientos judiciales.",
+        "La imparcialidad al valorar las pruebas.",
+        "El poder del Estado para imponer normas.",
+        "La igualdad de derechos de las partes en conflicto."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicación: La balanza es el símbolo que representa la ponderación y la igualdad de derechos entre las partes que se enfrentan en un conflicto. Fundamento: Página 10."
+    },
+    {
+      "question": "¿Qué órganos del Estado tienen competencia para dictar leyes según el texto?",
+      "options": [
+        "Únicamente el Tribunal Supremo.",
+        "Las Cortes Generales, el Gobierno (en supuestos concretos) y las Asambleas Legislativas de las CCAA.",
+        "Solamente el Congreso, sin intervención del Senado.",
+        "Los ayuntamientos y las diputaciones provinciales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Explicación: El texto especifica que los órganos con competencia para dictar leyes son las Cortes Generales (Congreso y Senado), el Gobierno (bajo control y en casos específicos) y las Asambleas Legislativas de las Comunidades Autónomas. Fundamento: Página 8, sección 4.2.1."
+    }
+  ]
+}
