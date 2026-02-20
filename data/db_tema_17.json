@@ -1,0 +1,353 @@
+{
+    "title": "Formas jurídicas de una empresa (Tema 17)",
+    "items": [
+        {
+            "question": "¿Cuál es la principal diferencia entre un empresario individual y una sociedad mercantil?",
+            "options": [
+                "El empresario individual actúa como persona física y responde con todo su patrimonio; la sociedad tiene personalidad jurídica propia.",
+                "El empresario individual tributa por el Impuesto de Sociedades y la sociedad por IRPF.",
+                "No existe diferencia, ambos tienen la misma responsabilidad legal.",
+                "El empresario individual necesita escritura pública y la sociedad no."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El empresario individual actúa como persona física con responsabilidad ilimitada, mientras la sociedad tiene personalidad jurídica propia y diferenciada. Fundamento: Página 4, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué tipo de responsabilidad tiene el empresario individual por las deudas de su empresa?",
+            "options": [
+                "Responsabilidad limitada al capital aportado al inicio de la actividad.",
+                "Responsabilidad ilimitada con todo su patrimonio personal presente y futuro.",
+                "Responsabilidad compartida con los demás autónomos de su sector.",
+                "No tiene responsabilidad, las deudas quedan extinguidas automáticamente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El empresario individual responde de las deudas con todo su patrimonio personal sin limitación. Fundamento: Página 4, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿A qué impuesto está sujeto el empresario individual?",
+            "options": [
+                "Al Impuesto de Sociedades como cualquier persona jurídica.",
+                "Al IVA y a ningún otro impuesto directo adicional.",
+                "Al Impuesto sobre la Renta de las Personas Físicas (IRPF).",
+                "Al Impuesto de Transmisiones Patrimoniales exclusivamente."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El empresario individual tributa por el IRPF. Fundamento: Página 4, sección 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué ventaja especial ofrece la figura del 'emprendedor de responsabilidad limitada'?",
+            "options": [
+                "No tiene que pagar ningún tipo de impuesto durante los primeros 5 años.",
+                "No necesita darse de alta en la Seguridad Social por cuenta propia.",
+                "Está exento de inscripción en el Registro Mercantil en todo caso.",
+                "Puede proteger su vivienda habitual de las deudas empresariales bajo ciertos requisitos."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: El emprendedor de responsabilidad limitada puede proteger su vivienda habitual frente a las deudas derivadas de su actividad empresarial. Fundamento: Página 5, sección 3.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué es una comunidad de bienes?",
+            "options": [
+                "Una sociedad con personalidad jurídica propia inscrita en el Registro Mercantil.",
+                "Un patrimonio común perteneciente a varias personas proindiviso que desarrollan actividad empresarial.",
+                "Una cooperativa de crédito regulada por el Banco de España.",
+                "Un acuerdo verbal entre vecinos para el uso compartido de zonas comunes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La comunidad de bienes es un patrimonio común proindiviso perteneciente a varias personas que pueden ejercer actividad empresarial. Fundamento: Página 5, sección 4.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuál es el número mínimo de socios en una sociedad colectiva?",
+            "options": [
+                "Uno solo, siempre que sea una persona jurídica.",
+                "Dos socios como mínimo.",
+                "Tres socios, de los cuales uno debe ser extranjero.",
+                "Cinco socios como exige la legislación mercantil."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La sociedad colectiva requiere un mínimo de 2 socios. Fundamento: Página 6, sección 5.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué tipo de responsabilidad tienen los socios colectivos de una sociedad colectiva?",
+            "options": [
+                "Responsabilidad limitada al capital social aportado inicialmente.",
+                "Solo responden con los beneficios obtenidos durante el ejercicio fiscal.",
+                "Responsabilidad personal, solidaria e ilimitada por las deudas sociales.",
+                "No tienen ninguna responsabilidad porque la tiene la sociedad."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los socios colectivos responden de forma personal, solidaria e ilimitada por las deudas de la sociedad. Fundamento: Página 6, sección 5.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué diferencia a los socios comanditarios de los socios colectivos en una sociedad comanditaria?",
+            "options": [
+                "Los comanditarios gestionan la sociedad y los colectivos solo aportan capital.",
+                "Los comanditarios tienen responsabilidad ilimitada y los colectivos limitada.",
+                "No existe diferencia, ambos tienen el mismo régimen jurídico y responsabilidad.",
+                "Los comanditarios solo aportan capital con responsabilidad limitada, y los colectivos tienen responsabilidad ilimitada."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Los socios comanditarios solo aportan capital con responsabilidad limitada, mientras que los colectivos responden de forma ilimitada y gestionan la sociedad. Fundamento: Página 7, sección 6.",
+            "position": "D"
+        },
+        {
+            "question": "¿Cuál es el capital social mínimo para constituir una sociedad anónima (S.A.)?",
+            "options": [
+                "60.000 euros, dividido en acciones.",
+                "3.000 euros, dividido en participaciones.",
+                "1 euro simbólico desde la Ley 18/2022.",
+                "No existe capital mínimo para las sociedades anónimas."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El capital social mínimo de una S.A. es de 60.000 euros, dividido en acciones. Fundamento: Página 7, sección 7.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué porcentaje mínimo del valor de las acciones debe desembolsarse en el momento de la constitución de una S.A.?",
+            "options": [
+                "El 10% del valor nominal de las acciones suscritas.",
+                "El 100% obligatoriamente o la sociedad no se constituye.",
+                "El 25% del valor nominal de las acciones suscritas.",
+                "No es necesario ningún desembolso previo a la constitución."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Las socias deben desembolsar al menos un 25% del valor de las acciones suscritas en la constitución. Fundamento: Página 9, caso práctico 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Cuál es el capital social mínimo de una sociedad de responsabilidad limitada (S.L.) tras la Ley 18/2022?",
+            "options": [
+                "60.000 euros divididos en participaciones sociales.",
+                "30.000 euros como mínimo para todo tipo de actividad empresarial.",
+                "Un mínimo de 1 euro, sin máximo legal establecido.",
+                "No se exige capital social mínimo para ninguna sociedad en España."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Tras la Ley 18/2022, el capital mínimo de una S.L. es de 1 euro. Fundamento: Página 8, sección 7.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué tipo de responsabilidad tienen los socios de una sociedad limitada?",
+            "options": [
+                "Responsabilidad personal, solidaria e ilimitada.",
+                "Responsabilidad limitada al capital aportado.",
+                "Responsabilidad subsidiaria hasta el triple del capital social.",
+                "Sin responsabilidad de ningún tipo por las deudas sociales."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los socios de una S.L. tienen responsabilidad limitada al capital aportado. Fundamento: Página 8, sección 7.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuáles son los órganos sociales de una sociedad limitada?",
+            "options": [
+                "Junta general de accionistas y un consejo de administración de al menos 5 miembros.",
+                "Un único administrador designado por la Administración pública.",
+                "La junta general de socios y uno o varios administradores.",
+                "Una asamblea de trabajadores y un comité de empresa exclusivamente."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los órganos sociales de una S.L. son la junta general de socios y uno o varios administradores. Fundamento: Página 9, Tabla 5.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué libros son obligatorios para una sociedad limitada?",
+            "options": [
+                "Solo el libro diario y el libro de caja.",
+                "Inventario, cuentas anuales, diario, actas y registro de socios.",
+                "Únicamente el libro de actas de las reuniones del consejo.",
+                "Solo las cuentas anuales depositadas en el Registro Civil."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los libros obligatorios son: inventario, cuentas anuales, diario, actas y registro de socios. Fundamento: Página 9, Tabla 5.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué requisito sobre la denominación social exige la ley para una S.L.?",
+            "options": [
+                "Debe ser un nombre de fantasía aprobado por el Ministerio de Economía.",
+                "Debe incluir las siglas 'S.L.' o 'S.R.L.' y ser libre (no usada por otra sociedad).",
+                "Puede ser igual a la de cualquier otra sociedad ya inscrita.",
+                "Solo puede formarse con el nombre y apellidos de todos los socios."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La denominación social debe ser libre, no usada por otra sociedad, e incluir 'S.L.' o 'S.R.L.'. Fundamento: Página 9, Tabla 5.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué caracteriza a una sociedad laboral?",
+            "options": [
+                "Que la mayoría del capital social pertenece a los trabajadores con contrato indefinido.",
+                "Que está formada exclusivamente por funcionarios públicos.",
+                "Que no puede contratar trabajadores ajenos a la sociedad.",
+                "Que todos los socios deben ser menores de 30 años."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: En las sociedades laborales, la mayoría del capital social está en manos de trabajadores con relación laboral indefinida. Fundamento: Página 10, sección 9.1.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuál es el número mínimo de socios para constituir una sociedad laboral?",
+            "options": [
+                "Un solo socio trabajador es suficiente.",
+                "Un mínimo de 5 socios siempre.",
+                "Un mínimo de 2 socios.",
+                "Un mínimo de 10 socios trabajadores."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El número mínimo de socios para constituir una sociedad laboral es de 2. Fundamento: Página 10, sección 9.1.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué porcentaje del capital puede tener un solo socio en una sociedad laboral?",
+            "options": [
+                "Hasta un 50% del capital social total.",
+                "No más del 10% del capital social en ningún caso.",
+                "No hay límite, puede poseer el 100% del capital.",
+                "Ningún socio puede tener más de un tercio del capital, salvo excepciones legales."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Ningún socio puede tener más de un tercio del capital, salvo las excepciones que determina la ley. Fundamento: Página 10, sección 9.1.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué reserva especial deben constituir las sociedades laborales?",
+            "options": [
+                "Una reserva del 25% del beneficio neto para inversiones en I+D.",
+                "Una reserva especial del 10% del beneficio líquido del ejercicio.",
+                "Una reserva del 50% para el fondo de maniobra de la empresa.",
+                "No tienen obligación de constituir ningún tipo de reserva especial."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Las sociedades laborales deben constituir una reserva especial del 10% del beneficio líquido del ejercicio. Fundamento: Página 10, sección 9.1.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué define a una cooperativa según la Ley 27/1999?",
+            "options": [
+                "Una asociación de personas con libre adhesión y baja voluntaria que realizan actividad empresarial con funcionamiento democrático.",
+                "Una empresa pública gestionada directamente por el Estado.",
+                "Una sociedad de capital formada exclusivamente por inversores institucionales.",
+                "Una sucursal de una empresa multinacional con sede en el extranjero."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La cooperativa es una sociedad constituida por personas que se asocian en régimen de libre adhesión y baja voluntaria para la realización de actividades empresariales con funcionamiento democrático. Fundamento: Página 10, sección 9.2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuántos socios mínimos se requieren para una cooperativa de primer grado?",
+            "options": [
+                "Diez socios como mínimo legal obligatorio.",
+                "Un mínimo de 3 socios.",
+                "Dos socios, igual que una sociedad limitada laboral.",
+                "No se establece un mínimo, puede ser un solo socio cooperativista."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Las cooperativas de primer grado deben tener un mínimo de 3 socios. Fundamento: Página 10, sección 9.2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Por qué impuesto tributan las sociedades cooperativas?",
+            "options": [
+                "Por el IRPF como las personas físicas autónomas.",
+                "No tributan por estar exentas de todo impuesto directo.",
+                "Por el Impuesto de Sociedades, con un régimen fiscal especial.",
+                "Por el Impuesto de Patrimonio exclusivamente."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Las cooperativas tributan por el Impuesto de Sociedades conforme al régimen especial establecido en la Ley 20/1990. Fundamento: Página 10, sección 9.2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué tipo de cooperativa pueden constituir los alumnos según el caso práctico del tema?",
+            "options": [
+                "Una cooperativa financiera regulada por el CNMV.",
+                "Una cooperativa de consumo dirigida a la venta al público menor.",
+                "Una cooperativa agraria para la explotación de terrenos rústicos.",
+                "Una Cooperativa de Trabajo Asociado para producir en común bienes o servicios."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Los alumnos pueden constituir una Cooperativa de Trabajo Asociado para producir bienes o servicios en común. Fundamento: Página 11, resolución caso práctico.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué bonificación fiscal disfrutan las cooperativas especialmente protegidas?",
+            "options": [
+                "Exención total del Impuesto de Sociedades de forma permanente.",
+                "Una bonificación del 50% en la cuota íntegra del Impuesto de Sociedades.",
+                "Una reducción del 10% en la base imponible del IVA de sus operaciones.",
+                "Un aplazamiento automático del 30% de la deuda tributaria anual."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Las cooperativas especialmente protegidas disfrutan de una bonificación del 50% en la cuota íntegra del Impuesto de Sociedades. Fundamento: Página 11, resolución caso práctico.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué ley regula las relaciones entre socios en las sociedades anónimas y limitadas?",
+            "options": [
+                "La Ley 39/2015 del Procedimiento Administrativo Común.",
+                "La Ley Orgánica del Poder Judicial de 1985.",
+                "La Ley de Contratos del Sector Público 9/2017.",
+                "El Real Decreto Legislativo 1/2010, de la Ley de Sociedades de Capital."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: El RDL 1/2010 aprueba el texto refundido de la Ley de Sociedades de Capital que regula S.A. y S.L. Fundamento: Página 7, sección 7.",
+            "position": "D"
+        },
+        {
+            "question": "¿Pueden las acciones de una S.A. tener restricciones a su libre transmisión?",
+            "options": [
+                "Sí, pero solo si se recoge en los estatutos y afecta solo a las acciones nominativas.",
+                "No, las acciones de una S.A. son siempre de libre transmisión sin restricción.",
+                "Solo si lo autoriza el Registro Mercantil mediante resolución motivada.",
+                "Las acciones de una S.A. no pueden ser nominativas en ningún caso."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Las restricciones a la libre transmisión deben recogerse en los estatutos y solo afectan a las acciones nominativas. Fundamento: Página 9, caso práctico 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Por qué ley se rigen subsidiariamente las sociedades laborales?",
+            "options": [
+                "Por la Ley de Suspensión de Pagos de 1922.",
+                "Por la Ley 9/2017 de Contratos del Sector Público.",
+                "Por el RDL 1/2010 (Ley de Sociedades de Capital).",
+                "Por la Ley General Tributaria 58/2003."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Las sociedades laborales se rigen por la Ley 44/2015 y, subsidiariamente, por el RDL 1/2010 de Sociedades de Capital. Fundamento: Página 10, sección 9.1.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué capital mínimo se exige para una Sociedad Anónima Laboral (S.A.L.)?",
+            "options": [
+                "60.000 euros, como en cualquier sociedad anónima.",
+                "3.000 euros como la sociedad limitada laboral.",
+                "1 euro desde la reforma de la Ley 18/2022.",
+                "No se exige capital mínimo para las sociedades laborales."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El capital social mínimo de una S.A.L. es de 60.000 euros (igual que una S.A. ordinaria). Fundamento: Página 10, sección 9.1.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué siglas debe incluir en su denominación social una sociedad limitada laboral?",
+            "options": [
+                "'S.A.' o 'Sociedad Anónima' exclusivamente.",
+                "'S.Coop.' o 'Sociedad Cooperativa'.",
+                "'S.R.L.L.' o 'S.L.L.' (Sociedad de Responsabilidad Limitada Laboral).",
+                "'S.Com.' o 'Sociedad Comanditaria'."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: En la denominación social debe aparecer 'Sociedad Limitada Laboral' o sus abreviaturas 'S.R.L.L.' o 'S.L.L.'. Fundamento: Página 10, sección 9.1.",
+            "position": "D"
+        }
+    ]
+}

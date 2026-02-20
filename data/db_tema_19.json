@@ -1,0 +1,341 @@
+{
+    "title": "Trámites de constitución e inicio de actividad (Tema 19)",
+    "items": [
+        {
+            "question": "¿Qué supone la constitución de una empresa desde el punto de vista jurídico?",
+            "options": [
+                "Realizar los pasos necesarios para dotar a la empresa de personalidad jurídica.",
+                "Registrarla en la Bolsa de Valores para que cotice públicamente.",
+                "Obtener un permiso municipal para la apertura de un local comercial.",
+                "Firmar un contrato de trabajo con los futuros empleados de la empresa."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Constituir una empresa es realizar los pasos para dotarla de personalidad jurídica. Fundamento: Página 4, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué personas jurídicas adquieren personalidad jurídica desde su nacimiento?",
+            "options": [
+                "Las sociedades mercantiles cuando depositan el capital en el banco.",
+                "Ninguna persona jurídica tiene personalidad desde el nacimiento; todas necesitan trámites.",
+                "Las personas físicas, no las jurídicas, tienen personalidad desde su nacimiento.",
+                "Las cooperativas de segundo grado automáticamente al constituirse."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Las personas físicas tienen personalidad jurídica desde su nacimiento; las personas jurídicas necesitan realizar trámites constitutivos. Fundamento: Página 4, sección 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Es obligatoria la inscripción del empresario individual en el Registro Mercantil?",
+            "options": [
+                "Sí, es obligatoria para todos los empresarios individuales sin excepción.",
+                "La inscripción es potestativa (voluntaria), salvo para los dedicados a la explotación de buques mercantes.",
+                "Solo es obligatoria si factura más de 100.000 euros anuales.",
+                "No existe la posibilidad de inscripción para los empresarios individuales."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La inscripción del empresario individual es potestativa, salvo para los que explotan buques mercantes, que están obligados. Fundamento: Página 4, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué debe hacer obligatoriamente el emprendedor de responsabilidad limitada para proteger su vivienda?",
+            "options": [
+                "Publicar un anuncio en prensa local durante 15 días consecutivos.",
+                "Solicitar una autorización especial del Ministerio de Vivienda.",
+                "Otorgar un acta notarial con los datos de su vivienda habitual e inscribirse en el Registro Mercantil.",
+                "Hipotecar la vivienda a favor de la Seguridad Social obligatoriamente."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El emprendedor de responsabilidad limitada debe otorgar acta notarial con datos de su vivienda e inscribirse en el Registro Mercantil. Fundamento: Página 4, sección 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Cuáles son las clases de denominaciones sociales según el Reglamento del Registro Mercantil?",
+            "options": [
+                "Denominación subjetiva (o razón social) y denominación objetiva.",
+                "Denominación fiscal y denominación contable.",
+                "Denominación judicial y denominación administrativa.",
+                "Denominación nacional y denominación internacional."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Las clases son: denominación subjetiva (razón social, con nombre de socios) y denominación objetiva (relacionada con la actividad o de fantasía). Fundamento: Página 4, sección 2.1.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué es una denominación social objetiva 'de fantasía'?",
+            "options": [
+                "Un nombre inventado sin relación directa con la actividad de la empresa.",
+                "Un nombre formado obligatoriamente por el apellido de todos los socios.",
+                "Un nombre que incluye el número de CIF de la empresa.",
+                "Un nombre aprobado exclusivamente por el Ministerio de Cultura."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La denominación objetiva puede ser de fantasía, es decir, un nombre inventado sin relación con la actividad. Fundamento: Página 4, sección 2.1.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué debe incluir obligatoriamente la denominación social según la ley?",
+            "options": [
+                "El número de identificación fiscal de todos los socios.",
+                "La indicación de la forma social o su abreviatura (S.A., S.L., etc.).",
+                "La dirección completa del domicilio de la sede electrónica.",
+                "El año de fundación y el sector económico de la empresa."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La denominación social debe incluir la indicación de la forma social o su abreviatura. Fundamento: Página 4, sección 2.1.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué es la certificación negativa del Registro Mercantil Central?",
+            "options": [
+                "Un documento que certifica que la denominación social elegida no está siendo utilizada por otra sociedad.",
+                "Un certificado que acredita la buena conducta fiscal del empresario.",
+                "Una declaración del registro de que la empresa ha sido dada de baja.",
+                "Un informe técnico sobre la viabilidad económica de la empresa."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Es un documento que certifica que la denominación social elegida no coincide con otra ya registrada. Fundamento: Página 5, sección 2.2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Ante quién se otorga la escritura pública de constitución de una sociedad mercantil?",
+            "options": [
+                "Ante el juez de primera instancia del domicilio social.",
+                "Ante un inspector de Hacienda acreditado.",
+                "Ante notario público, con la presencia de todos los socios.",
+                "Ante el alcalde del municipio donde se establezca la sede social."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: La escritura pública se otorga ante notario con la presencia de todos los socios. Fundamento: Página 5, sección 2.3.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué contienen los estatutos sociales de una empresa?",
+            "options": [
+                "Exclusivamente la relación de bienes inmuebles propiedad de la sociedad.",
+                "Las reglas de funcionamiento de la sociedad y el pacto entre los socios.",
+                "El organigrama del departamento de recursos humanos de la empresa.",
+                "La lista de las deudas pendientes de pago con los proveedores."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los estatutos establecen el funcionamiento de la sociedad y son el pacto entre socios para determinar las relaciones entre sí y con la sociedad. Fundamento: Página 6, sección 4.1.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué impuesto debe liquidarse al constituir una sociedad mercantil?",
+            "options": [
+                "El Impuesto sobre la Renta de las Personas Físicas (IRPF).",
+                "El Impuesto sobre el Valor Añadido (IVA) ordinario.",
+                "El Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados (operaciones societarias).",
+                "El Impuesto sobre Bienes Inmuebles (IBI) del ayuntamiento."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Al constituir una sociedad hay que liquidar el Impuesto sobre Operaciones Societarias (modalidad del ITP y AJD). Fundamento: Página 7, sección 4.2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Dónde debe inscribirse una sociedad mercantil para adquirir plena personalidad jurídica?",
+            "options": [
+                "En la Oficina de Empleo de la localidad.",
+                "En el Registro de la Propiedad Industrial.",
+                "En el Registro Civil del municipio.",
+                "En el Registro Mercantil de la provincia donde tenga su domicilio social."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Las sociedades deben inscribirse en el Registro Mercantil para adquirir personalidad jurídica plena. Fundamento: Página 7, sección 4.3.",
+            "position": "D"
+        },
+        {
+            "question": "¿Cuáles son los trámites fiscales necesarios para iniciar la actividad empresarial?",
+            "options": [
+                "Solo la presentación del Impuesto sobre Sociedades del primer ejercicio.",
+                "La obtención del NIF, la declaración censal de alta (modelos 036 o 037) y el alta en el IAE si procede.",
+                "Exclusivamente la apertura de una cuenta bancaria a nombre de la sociedad.",
+                "Ninguno; los trámites fiscales se realizan al final del primer ejercicio económico."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los trámites fiscales incluyen obtener el NIF, presentar la declaración censal y darse de alta en el IAE. Fundamento: Página 8, sección 5.1.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué trámites laborales debe realizar una empresa al iniciar su actividad?",
+            "options": [
+                "Solo contratar a un mínimo de 5 trabajadores antes de comenzar.",
+                "Inscripción de la empresa en la Seguridad Social, afiliación y alta de los trabajadores y comunicación de apertura del centro de trabajo.",
+                "Obtener un permiso especial del Ministerio de Trabajo para cada empleado.",
+                "Registrar a todos los trabajadores en el Ayuntamiento del municipio."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los trámites laborales incluyen inscripción en la SS, afiliación y alta de trabajadores, y comunicación de apertura del centro de trabajo. Fundamento: Página 8, sección 5.2.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué régimen de la Seguridad Social le corresponde al empresario individual autónomo?",
+            "options": [
+                "Régimen General de la Seguridad Social como trabajador por cuenta ajena.",
+                "RETA (Régimen Especial de Trabajadores Autónomos).",
+                "Régimen Especial de la Minería del Carbón.",
+                "Mutualidad de funcionarios del Estado (MUFACE)."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Al empresario individual le corresponde el RETA (Régimen Especial de Trabajadores Autónomos). Fundamento: Página 8, sección 5.2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Para qué sirve la declaración censal de alta (modelos 036 o 037)?",
+            "options": [
+                "Para inscribir a la empresa en el Registro de la Propiedad Inmobiliaria.",
+                "Para comunicar a la Agencia Tributaria el inicio de la actividad económica y las obligaciones fiscales.",
+                "Para solicitar una subvención pública al inicio de la actividad.",
+                "Para darse de alta como demandante de empleo en el SEPE."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Las declaraciones censales 036/037 comunican a la AEAT el inicio de la actividad y las obligaciones fiscales del empresario. Fundamento: Página 8, sección 5.1.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué trámite debe realizarse en el Ayuntamiento para la apertura de un establecimiento?",
+            "options": [
+                "La solicitud de la denominación social de la empresa.",
+                "La solicitud de la licencia de actividad o declaración responsable según la normativa local.",
+                "La inscripción de la escritura pública en el Registro Mercantil.",
+                "La liquidación del Impuesto sobre Sociedades del ejercicio."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Para iniciar la actividad puede ser necesaria una licencia de actividad o declaración responsable del Ayuntamiento. Fundamento: Página 9, sección 7.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué entidad proporciona servicios gratuitos de asesoramiento para la creación de empresas?",
+            "options": [
+                "Los bancos comerciales mediante sus gestorías internas.",
+                "Las Ventanillas Únicas Empresariales (VUE) y los Puntos de Atención al Emprendedor (PAE).",
+                "Los tribunales de primera instancia del municipio.",
+                "Exclusivamente los colegios profesionales de abogados y economistas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Las VUE y los PAE prestan servicios de manera gratuita para la creación de empresas. Fundamento: Página 5.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué limitación tiene la denominación social respecto a los socios y la actividad?",
+            "options": [
+                "Puede inducir a error sobre los socios o las actividades de la empresa.",
+                "Solo debe ser aprobada por los accionistas minoritarios en junta extraordinaria.",
+                "No puede llevar a error sobre los socios que forman la sociedad ni sobre sus actividades.",
+                "Debe incluir obligatoriamente el NIF de todos los socios fundadores."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: La denominación no puede inducir a error sobre los socios que forman la sociedad ni sobre las actividades que desarrolla. Fundamento: Página 4, sección 2.1.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué sistema permite crear empresas de forma telemática a través de internet?",
+            "options": [
+                "ANCERT, a través de las notarías que ofrecen gestiones telemáticas para la creación de empresas.",
+                "El portal de transparencia del Gobierno central.",
+                "El sistema de notificaciones electrónicas DEH del Ministerio del Interior.",
+                "El Tribunal de Cuentas mediante su sede electrónica oficial."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: A través de ANCERT, en la Notaría se pueden realizar gestiones telemáticas relacionadas con la creación de empresas. Fundamento: Página 4.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuál es la diferencia entre una denominación subjetiva y una objetiva?",
+            "options": [
+                "La subjetiva incluye el nombre de los socios; la objetiva se refiere a la actividad o es de fantasía.",
+                "La subjetiva es ilegal y la objetiva es la única permitida.",
+                "No existe diferencia, solo cambia la forma de inscripción en el Registro.",
+                "La subjetiva se usa para S.A. y la objetiva exclusivamente para cooperativas."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La subjetiva (razón social) se forma con el nombre de los socios; la objetiva se relaciona con la actividad o es de fantasía. Fundamento: Página 4, sección 2.1.",
+            "position": "A"
+        },
+        {
+            "question": "¿Quién puede redactar los estatutos sociales de una nueva empresa?",
+            "options": [
+                "Solo un abogado colegiado con más de 10 años de experiencia.",
+                "Exclusivamente el notario ante quien se otorga la escritura.",
+                "Los propios socios, aunque es conveniente contar con asesoramiento especializado.",
+                "El registrador mercantil como parte de sus funciones obligatorias."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los estatutos pueden redactarlos los socios, aunque es conveniente contar con asesoramiento especializado. Fundamento: Página 9, caso práctico 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿En qué momento las personas jurídicas adquieren plena personalidad jurídica?",
+            "options": [
+                "Cuando presentan la declaración censal de alta en la AEAT.",
+                "Cuando sus trabajadores están afiliados a la Seguridad Social.",
+                "Cuando contratan un seguro de responsabilidad civil obligatorio.",
+                "Cuando se inscriben en el Registro Mercantil correspondiente con la escritura pública."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Las personas jurídicas adquieren plena personalidad jurídica tras realizar los trámites constitutivos, culminando con la inscripción en el Registro Mercantil. Fundamento: Página 4 y 7, secciones 2 y 4.3.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué requisito se exige sobre el capital social al constituir una sociedad anónima?",
+            "options": [
+                "No se exige un capital mínimo para las sociedades anónimas.",
+                "Debe suscribirse totalmente y desembolsarse al menos un 25% en el momento de la constitución.",
+                "Solo se debe desembolsar el 5% del capital nominal de las acciones.",
+                "El capital puede suscribirse en un plazo de 10 años posterior a la constitución."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El capital de una S.A. debe suscribirse totalmente y desembolsarse al menos el 25% en el momento de la constitución. Fundamento: Páginas 7-8.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué organismo público se encarga de asignar el NIF a las empresas?",
+            "options": [
+                "El Ayuntamiento del municipio donde se establezca la empresa.",
+                "El Instituto Nacional de Estadística (INE).",
+                "La Agencia Estatal de Administración Tributaria (AEAT).",
+                "La Dirección General de los Registros y del Notariado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: La AEAT se encarga de asignar el NIF a las empresas como parte de los trámites fiscales de inicio de actividad. Fundamento: Página 8, sección 5.1.",
+            "position": "C"
+        },
+        {
+            "question": "¿Ante qué organismo se comunica la apertura de un centro de trabajo como trámite laboral?",
+            "options": [
+                "Ante la autoridad laboral competente de la comunidad autónoma.",
+                "Ante el Registro Mercantil de la provincia.",
+                "Ante el notario que autorizó la escritura de constitución.",
+                "Ante el Registro de la Propiedad Municipal."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La comunicación de apertura del centro de trabajo se realiza ante la autoridad laboral competente. Fundamento: Página 8, sección 5.2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué diferencia al 'nombre comercial' de la 'denominación social'?",
+            "options": [
+                "No hay diferencia, son exactamente lo mismo según la legislación.",
+                "El nombre comercial identifica a la empresa en el mercado; la denominación social la identifica jurídicamente en el tráfico mercantil.",
+                "La denominación social se usa solo para fines publicitarios.",
+                "El nombre comercial es obligatorio y la denominación social es opcional."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El nombre comercial identifica a la empresa ante el público; la denominación social la identifica jurídicamente en el tráfico mercantil. Fundamento: Página 3-4, introducción.",
+            "position": "D"
+        },
+        {
+            "question": "¿Cuál de estos NO es un trámite de constitución de una sociedad mercantil?",
+            "options": [
+                "Elegir la denominación social y obtener la certificación negativa.",
+                "Otorgar la escritura pública ante notario.",
+                "Inscribir la empresa en el Registro Mercantil.",
+                "Contratar un servicio de vigilancia privada para la sede social."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Contratar vigilancia privada no es un trámite de constitución. Los trámites incluyen denominación, escritura, estatutos, impuestos e inscripción registral. Fundamento: Páginas 4-7, secciones 2-4.",
+            "position": "D"
+        }
+    ]
+}

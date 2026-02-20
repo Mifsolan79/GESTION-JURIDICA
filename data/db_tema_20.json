@@ -1,0 +1,353 @@
+{
+    "title": "Contratación privada en la empresa (Tema 20)",
+    "items": [
+        {
+            "question": "¿Qué es un contrato privado según el Derecho español?",
+            "options": [
+                "Un acuerdo entre dos o más partes por el que se obligan a dar, hacer o no hacer algo, creando obligaciones entre ellas.",
+                "Un mandato judicial de obligado cumplimiento dictado por un tribunal.",
+                "Un acto administrativo dictado por la Administración pública a un particular.",
+                "Una ley aprobada por el Parlamento que regula las relaciones civiles."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El contrato es un acuerdo entre dos o más partes por el que se obligan a dar, hacer o no hacer algo. Fundamento: Página 4, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuáles son los elementos esenciales de un contrato privado?",
+            "options": [
+                "La firma ante notario y el registro en el Registro de la Propiedad.",
+                "El consentimiento de las partes, el objeto cierto y la causa de la obligación.",
+                "El sello del Estado y la publicación en el BOE.",
+                "La intervención de un abogado y un procurador de los tribunales."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los elementos esenciales son: consentimiento, objeto y causa. Sin todos ellos el contrato es nulo. Fundamento: Página 4, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué sucede si falta alguno de los elementos esenciales del contrato?",
+            "options": [
+                "El contrato es perfectamente válido y eficaz.",
+                "El contrato necesita ser ratificado ante notario para surtir efectos.",
+                "El contrato es nulo y no produce ningún efecto jurídico.",
+                "El contrato se convierte en un acto administrativo unilateral."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Si falta algún elemento esencial (consentimiento, objeto o causa), el contrato es nulo. Fundamento: Página 4, sección 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué distingue un contrato civil de un contrato mercantil?",
+            "options": [
+                "El contrato civil es siempre gratuito y el mercantil siempre oneroso.",
+                "El contrato mercantil interviene al menos una de las partes como empresario o comerciante y tiene ánimo de lucro.",
+                "No existe diferencia; ambos se rigen por las mismas normas jurídicas.",
+                "El contrato civil solo se firma entre personas físicas y el mercantil solo entre personas jurídicas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: En el contrato mercantil al menos una de las partes es empresario o comerciante y existe ánimo de lucro. Fundamento: Página 4, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué principio rige la contratación privada en el Derecho español?",
+            "options": [
+                "El principio de jerarquía normativa entre las partes del contrato.",
+                "El principio de territorialidad, por el que solo se puede contratar dentro del mismo municipio.",
+                "El principio de autonomía de la voluntad: las partes pueden pactar lo que deseen, dentro de los límites de la ley.",
+                "El principio de reserva de ley orgánica para todos los contratos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: En la contratación privada rige el principio de autonomía de la voluntad. Fundamento: Página 4, sección 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué es un contrato de compraventa mercantil?",
+            "options": [
+                "Un contrato por el que un particular vende un bien a un amigo sin ánimo de lucro.",
+                "Un contrato por el que un empresario adquiere bienes muebles para revenderlos con ánimo de lucro.",
+                "Un contrato de préstamo hipotecario sobre una vivienda habitual.",
+                "Un contrato de donación de productos entre dos empresas familiares."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La compraventa mercantil es aquella en la que un empresario compra bienes muebles para revenderlos con ánimo de lucro. Fundamento: Página 5, sección 3.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuáles son las obligaciones del vendedor en un contrato de compraventa?",
+            "options": [
+                "Exclusivamente conservar la cosa vendida hasta el momento de la entrega.",
+                "Entregar la cosa vendida y responder por los defectos ocultos (saneamiento).",
+                "Solicitar financiación bancaria en nombre del comprador.",
+                "Registrar el contrato en el Registro Mercantil central."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El vendedor está obligado a entregar la cosa vendida y a responder por los defectos ocultos. Fundamento: Página 5, sección 3.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuáles son las obligaciones del comprador en un contrato de compraventa?",
+            "options": [
+                "Solo aceptar la mercancía y almacenarla gratuitamente durante un año.",
+                "Pagar el precio en el lugar y tiempo convenidos y recibir la mercancía comprada.",
+                "Publicar la compra en un diario provincial de su elección.",
+                "Obtener un certificado del Ayuntamiento antes de recibir la mercancía."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El comprador debe pagar el precio convenido y recibir la mercancía. Fundamento: Página 5, sección 3.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué es un contrato de suministro en el ámbito mercantil?",
+            "options": [
+                "Un contrato de obra pública para la construcción de infraestructuras.",
+                "Un contrato por el que un proveedor se obliga a realizar entregas periódicas de bienes a cambio de un precio.",
+                "Un contrato laboral de prestación de servicios profesionales.",
+                "Un contrato de seguros para cubrir riesgos de daños o responsabilidad."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El contrato de suministro obliga al proveedor a entregar periódicamente bienes o productos a cambio de un precio. Fundamento: Página 6, sección 4.",
+            "position": "D"
+        },
+        {
+            "question": "¿Cuáles son los elementos personales de un contrato de transporte de mercancías?",
+            "options": [
+                "El cargador (remitente), el porteador (transportista) y el destinatario (consignatario).",
+                "El juez, el notario y el registrador mercantil.",
+                "El vendedor, el comprador y el mediador bancario.",
+                "El asegurador, el asegurado y el beneficiario de la póliza."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Los elementos personales del transporte son el cargador, el porteador y el destinatario. Fundamento: Página 6, sección 5.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué documento acredita el contrato de transporte de mercancías?",
+            "options": [
+                "La factura del proveedor del combustible utilizado.",
+                "La carta de porte.",
+                "El albarán de entrega firmado por el cliente final.",
+                "El pagaré bancario emitido por el cargador."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La carta de porte es el documento que acredita el contrato de transporte de mercancías. Fundamento: Página 6, sección 5.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué es un contrato de seguro?",
+            "options": [
+                "Una promesa unilateral de un banco de prestar dinero a un particular.",
+                "Un contrato por el que el asegurador se obliga, a cambio de una prima, a indemnizar al asegurado por los daños sufridos.",
+                "Un pacto verbal entre dos vecinos sobre la vigilancia de sus propiedades.",
+                "Un contrato de trabajo de un vigilante de seguridad privado."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El contrato de seguro obliga al asegurador a indemnizar al asegurado por los daños cubiertos a cambio de una prima. Fundamento: Página 7, sección 6.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué documento formaliza el contrato de seguro?",
+            "options": [
+                "Una sentencia judicial firme del juzgado mercantil.",
+                "Un contrato verbal sin necesidad de documento escrito.",
+                "La póliza de seguro.",
+                "Una escritura pública ante notario obligatoriamente."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El contrato de seguro se formaliza mediante la póliza de seguro. Fundamento: Página 7, sección 6.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué es la 'prima' en un contrato de seguro?",
+            "options": [
+                "La cantidad máxima que pagará el asegurador al producirse un siniestro.",
+                "El precio que paga el asegurado a cambio de la cobertura del riesgo.",
+                "El beneficio económico del intermediario de seguros por su mediación.",
+                "La franquicia o parte del daño que asume el propio asegurado."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La prima es el precio que paga el asegurado a cambio de que el asegurador cubra el riesgo. Fundamento: Página 7, sección 6.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuáles son las partes de un contrato de seguro?",
+            "options": [
+                "El cargador, el porteador y el consignatario.",
+                "El vendedor, el comprador y el mediador bancario.",
+                "El asegurador, el tomador del seguro, el asegurado y el beneficiario.",
+                "El franquiciador, el franquiciado y el usuario final del servicio."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Las partes son: asegurador, tomador del seguro, asegurado y beneficiario. Fundamento: Página 7, sección 6.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué es un contrato de leasing (arrendamiento financiero)?",
+            "options": [
+                "Un contrato de alquiler de vivienda habitual con opción de permanencia.",
+                "Un contrato por el que una entidad financiera adquiere un bien y lo cede a una empresa a cambio de cuotas periódicas con opción de compra al final.",
+                "Un contrato de préstamo personal sin garantía real ni opción de compra.",
+                "Un contrato de seguro que cubre el riesgo de impago de un préstamo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El leasing es un contrato por el que una entidad adquiere un bien y lo cede a una empresa mediante cuotas periódicas con opción de compra al final. Fundamento: Página 8, sección 7.",
+            "position": "D"
+        },
+        {
+            "question": "¿Cuáles son las partes de un contrato de leasing?",
+            "options": [
+                "El arrendador (entidad de leasing), el arrendatario (empresa) y, opcionalmente, el proveedor del bien.",
+                "El asegurador, el asegurado y el corredor de seguros.",
+                "El franquiciador, el franquiciado y el consumidor final.",
+                "El cargador, el porteador y el destinatario de la mercancía."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Las partes son el arrendador (entidad de leasing), el arrendatario (empresa) y el proveedor del bien. Fundamento: Página 8, sección 7.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué diferencia al leasing del renting?",
+            "options": [
+                "No existe diferencia, son exactamente el mismo tipo de contrato.",
+                "El leasing incluye opción de compra al final; el renting es un alquiler a largo plazo sin opción de compra habitual.",
+                "El renting incluye opción de compra y el leasing nunca la incluye.",
+                "El leasing solo se aplica a bienes inmuebles y el renting solo a vehículos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El leasing incluye opción de compra al final; el renting es un alquiler a largo plazo generalmente sin opción de compra. Fundamento: Página 8, sección 7.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué es un contrato de franquicia?",
+            "options": [
+                "Un contrato mercantil por el que el franquiciador cede al franquiciado el derecho a explotar su marca, sistema de negocio y know-how a cambio de unas contraprestaciones.",
+                "Una donación de la marca comercial a un empleado jubilado.",
+                "Un contrato laboral entre un trabajador y una empresa de trabajo temporal.",
+                "Un contrato público de concesión de obras de infraestructuras."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: En la franquicia, el franquiciador cede su marca, sistema de negocio y know-how a cambio de contraprestaciones económicas. Fundamento: Página 9, sección 8.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué contraprestación económica suele pagar el franquiciado al franquiciador?",
+            "options": [
+                "Solo el coste de la materia prima utilizada en la producción.",
+                "Las cotizaciones a la Seguridad Social del personal del franquiciador.",
+                "Un canon de entrada (fee inicial) y royalties periódicos sobre las ventas.",
+                "Una cuota fija mensual de afiliación al sindicato sectorial."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El franquiciado suele pagar un canon de entrada y royalties periódicos al franquiciador. Fundamento: Página 9, sección 8.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué es un contrato de factoring?",
+            "options": [
+                "Un contrato de seguro de crédito comercial a favor del deudor.",
+                "Un contrato laboral para la contratación de personal en factorías industriales.",
+                "Un contrato por el que una empresa cede sus créditos comerciales a una entidad financiera, que se encarga de su gestión y cobro.",
+                "Un contrato de obra pública para la construcción de una factoría."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El factoring es la cesión de créditos comerciales a una entidad financiera que gestiona su cobro. Fundamento: Página 9, sección 9.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué ventaja obtiene la empresa que contrata un servicio de factoring?",
+            "options": [
+                "Obtiene financiación anticipada de sus facturas y elimina el riesgo de impago (en factoring sin recurso).",
+                "Aumenta automáticamente su volumen de ventas anuales en un 20%.",
+                "Queda exenta de pagar impuestos durante todo el ejercicio fiscal.",
+                "Recibe una subvención pública directa de la Administración central."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El factoring anticipa el cobro de las facturas y, si es sin recurso, transfiere el riesgo de impago a la entidad financiera. Fundamento: Página 9, sección 9.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué es un contrato de confirming?",
+            "options": [
+                "Un contrato de mediación laboral para resolver conflictos entre empresa y trabajadores.",
+                "Un servicio por el que una entidad financiera gestiona el pago a los proveedores de una empresa, ofreciéndoles la posibilidad de cobro anticipado.",
+                "Un contrato de auditoría externa obligatoria para empresas cotizadas.",
+                "Un seguro de responsabilidad civil que cubre daños a terceros."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El confirming es un servicio financiero que gestiona los pagos a proveedores y les ofrece la posibilidad de anticipo. Fundamento: Página 10, sección 10.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué tipo de contrato es el contrato estimatorio (o de consignación)?",
+            "options": [
+                "Un contrato por el que el propietario entrega bienes a un comerciante para que los venda, devolviendo lo no vendido o pagando su precio.",
+                "Un contrato de seguros sobre bienes estimados por un perito.",
+                "Un contrato de transporte de mercancías de gran volumen.",
+                "Un contrato hipotecario para la compra de un inmueble comercial."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: En el estimatorio o consignación, el propietario entrega bienes a un comerciante para que los venda, devolviendo lo no vendido. Fundamento: Página 6, sección 4.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué debe hacer el comprador si detecta vicios ocultos en la mercancía tras la compraventa mercantil?",
+            "options": [
+                "Denunciarlo ante los tribunales de lo Social en el plazo de un año.",
+                "Devolver la mercancía al vendedor dentro del plazo legal establecido para el saneamiento.",
+                "Destruir la mercancía y adquirir otra sin avisar al vendedor.",
+                "Reutilizar la mercancía defectuosa sin reclamación posible."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El comprador tiene derecho al saneamiento por vicios ocultos y puede devolver la mercancía al vendedor dentro del plazo legal. Fundamento: Página 5, sección 3.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuál es la principal obligación del porteador (transportista) en el contrato de transporte?",
+            "options": [
+                "Fabricar la mercancía que va a transportar por encargo del cargador.",
+                "Trasladar la mercancía al lugar de destino en las condiciones pactadas.",
+                "Vender la mercancía durante el trayecto al mejor postor.",
+                "Asegurar la mercancía obligatoriamente por su cuenta y riesgo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La principal obligación del porteador es trasladar la mercancía al destino en las condiciones pactadas. Fundamento: Página 6, sección 5.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué ley regula el contrato de seguro en España?",
+            "options": [
+                "La Ley 50/1980, de Contrato de Seguro.",
+                "La Ley 9/2017 de Contratos del Sector Público.",
+                "El Código Civil español de 1889 exclusivamente.",
+                "La Ley 39/2015 del Procedimiento Administrativo Común."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El contrato de seguro se rige por la Ley 50/1980 de Contrato de Seguro. Fundamento: Página 7, sección 6.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué es el 'siniestro' en un contrato de seguro?",
+            "options": [
+                "El beneficio económico neto que obtiene la aseguradora cada trimestre.",
+                "La materialización del riesgo asegurado que genera la obligación de indemnizar.",
+                "La renovación automática de la póliza de seguro al vencimiento.",
+                "La prima extraordinaria que cobra el corredor de seguros por su gestión."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El siniestro es la materialización del riesgo cubierto por la póliza, que genera la obligación de indemnizar. Fundamento: Página 7, sección 6.",
+            "position": "D"
+        },
+        {
+            "question": "Según el caso práctico del tema, ¿qué tipo de contrato es el que firmaría una empresa para utilizar maquinaria durante 3 años con opción de compra al final?",
+            "options": [
+                "Un contrato de renting sin opción de compra.",
+                "Un contrato de compraventa mercantil al contado.",
+                "Un contrato de leasing financiero con opción de compra al vencimiento.",
+                "Un contrato de seguro de maquinaria industrial."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Si la empresa utiliza la maquinaria con cuotas periódicas y opción de compra al final, se trata de un leasing financiero. Fundamento: Página 8, sección 7.",
+            "position": "C"
+        }
+    ]
+}

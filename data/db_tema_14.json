@@ -1,0 +1,365 @@
+{
+    "title": "Acto y procedimiento administrativo (Tema 14)",
+    "items": [
+        {
+            "question": "¿Qué es un acto administrativo según el texto?",
+            "options": [
+                "Una declaración de voluntad, juicio, conocimiento o deseo realizada por la Administración en el ejercicio de una potestad administrativa.",
+                "Una decisión judicial dictada exclusivamente por un tribunal civil ordinario.",
+                "Un contrato firmado por dos empresas privadas sobre bienes muebles.",
+                "Una ley votada en el Parlamento nacional con rango de ley orgánica."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El acto administrativo es una declaración de voluntad, juicio, conocimiento o deseo realizada por la Administración. Fundamento: Página 4, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuáles son los elementos subjetivos de un acto administrativo?",
+            "options": [
+                "El silencio administrativo y la presunción de legalidad obligatoria.",
+                "La competencia del órgano, la investidura legítima del titular y la voluntad expresa del mismo.",
+                "Solo la publicación en el BOE antes de su entrada en vigor.",
+                "Los plazos de caducidad y de prescripción de las acciones civiles."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los elementos subjetivos incluyen la competencia del órgano, la investidura legítima del titular y la voluntad. Fundamento: Página 4, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿En qué se diferencia un acto administrativo 'expreso' de uno 'presunto'?",
+            "options": [
+                "El expreso es dictado formalmente por el órgano competente, mientras que el presunto se produce por silencio administrativo.",
+                "El expreso se firma siempre ante notario y el presunto se deduce de una prueba pericial.",
+                "No hay diferencia, son sinónimos dentro del Derecho Administrativo.",
+                "El expreso solo se aplica en materia tributaria y el presunto en materia penal."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El acto expreso se produce formalmente, mientras que el presunto se deriva del silencio administrativo (falta de resolución en plazo). Fundamento: Página 4, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué implica la 'ejecutividad' de los actos administrativos?",
+            "options": [
+                "Que son meras recomendaciones sin fuerza ejecutiva alguna.",
+                "Que necesitan siempre la ratificación de un tribunal civil para aplicarse.",
+                "Que son inmediatamente eficaces desde el momento en que se dictan, salvo excepciones legales.",
+                "Que solo son ejecutivos si el interesado da su consentimiento por escrito."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los actos administrativos son inmediatamente ejecutivos (eficaces desde que se dictan), salvo que una disposición indique lo contrario. Fundamento: Página 4, sección 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué fase del procedimiento administrativo incluye la presentación de una solicitud por el interesado?",
+            "options": [
+                "La fase de ordenación del expediente físico.",
+                "La fase de finalización del procedimiento.",
+                "La fase de instrucción y prueba del caso.",
+                "La fase de iniciación del procedimiento."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: En la fase de iniciación, el procedimiento puede empezar a instancia de parte mediante una solicitud del interesado. Fundamento: Página 5, sección 3.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué datos debe contener obligatoriamente la solicitud de inicio de un procedimiento?",
+            "options": [
+                "Solo el nombre completo del interesado y su fecha de nacimiento.",
+                "Nombre, identificación del medio de notificación, hechos, razones y petición, lugar, fecha, firma y órgano al que se dirige.",
+                "Exclusivamente el objeto del procedimiento, sin necesidad de identificación personal.",
+                "Un análisis legal detallado con jurisprudencia de soporte para cada argumento."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La solicitud debe incluir nombre, medio de notificación, hechos, petición, lugar, fecha, firma y órgano destinatario. Fundamento: Página 5, sección 3.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué es la 'ordenación' dentro del procedimiento administrativo?",
+            "options": [
+                "La fase que comprende los trámites y diligencias necesarias para concretar y verificar los datos del expediente.",
+                "La fase donde el juez dicta sentencia firme e inapelable contra la Administración.",
+                "La publicación del bando municipal en el tablón de anuncios del Ayuntamiento.",
+                "La designación de un abogado de oficio para defender al administrado en todo caso."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La ordenación comprende los trámites y diligencias necesarias para concretar y verificar los datos que deben tenerse en cuenta para la resolución. Fundamento: Página 6, sección 3.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuál es la forma ordinaria de terminación de un procedimiento administrativo?",
+            "options": [
+                "La publicación en un diario de tirada nacional.",
+                "El desistimiento voluntario de la Administración sin motivar.",
+                "La resolución que decide todas las cuestiones planteadas por los interesados.",
+                "La declaración de nulidad radical por un tribunal penal especializado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: La forma ordinaria de terminación es la resolución, que decide todas las cuestiones planteadas por los interesados. Fundamento: Página 6, sección 3.",
+            "position": "C"
+        },
+        {
+            "question": "¿En qué plazo computable debe resolverse un procedimiento administrativo si la norma no fija uno específico?",
+            "options": [
+                "En 3 meses como máximo desde la fecha de inicio.",
+                "En 6 meses a contar desde la notificación del acto recurrido.",
+                "En 1 año natural a contar desde que se nombre al instructor.",
+                "No existe plazo supletorio legal, queda a criterio del funcionario responsable."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Cuando la norma no fije plazo, el plazo máximo es de 3 meses. Fundamento: Página 6, sección 3.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué es el 'silencio administrativo positivo'?",
+            "options": [
+                "Cuando la Administración dicta una resolución verbal expresa de aprobación.",
+                "Cuando, transcurrido el plazo sin resolución y si la norma lo contempla, se entiende estimada la solicitud del interesado.",
+                "Cuando el Tribunal Constitucional avala expresamente un acto de la Administración.",
+                "Cuando el funcionario responsable renuncia a tramitar el expediente en plazo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El silencio positivo implica que, si la Administración no resuelve en plazo, la solicitud se entiende estimada (aceptada). Fundamento: Página 6, sección 3.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cómo deben computarse los plazos señalados en días, salvo que se indique lo contrario?",
+            "options": [
+                "En días naturales, incluyendo domingos y festivos obligatoriamente.",
+                "Solo en días laborables de lunes a viernes, sin excepciones.",
+                "En días hábiles, excluyendo domingos y festivos declarados oficiales.",
+                "En semanas completas de siete días naturales consecutivos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los plazos señalados en días se entienden en días hábiles, excluyendo domingos y festivos. Fundamento: Página 7, sección 3.",
+            "position": "C"
+        },
+        {
+            "question": "¿Cuándo finaliza un plazo fijado en meses si el mes de vencimiento no tiene un día equivalente al de inicio?",
+            "options": [
+                "Se prorroga automáticamente hasta el primer día hábil del mes siguiente.",
+                "Termina el primer día del mes de vencimiento independientemente del cómputo.",
+                "El plazo se anula completamente por imposibilidad legal de cálculo.",
+                "El plazo termina el último día del mes de vencimiento."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Si el mes de vencimiento no tiene día equivalente, el plazo vence el último día de dicho mes. Fundamento: Página 7, sección 3.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué medio debe utilizarse para las notificaciones cuando el interesado está obligado a la relación electrónica?",
+            "options": [
+                "Notificación presencial obligatoria en la oficina de correos más próxima.",
+                "Cualquier medio elegido por el funcionario, incluido el envío por WhatsApp.",
+                "Notificación electrónica a través de la sede electrónica o la dirección habilitada única.",
+                "Publicación en el tablón de anuncios de la Casa Consistorial exclusivamente."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Si el interesado está obligado a la relación electrónica, la notificación se practica por medios electrónicos. Fundamento: Página 7, sección 3.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué sucede si se intenta la notificación al interesado y este no está presente en su domicilio?",
+            "options": [
+                "La puede recibir cualquier persona mayor de 14 años que se encuentre en el domicilio.",
+                "El procedimiento se archiva definitivamente tras el primer intento fallido.",
+                "Se envía un requerimiento judicial del juzgado de guardia al interesado.",
+                "El acto administrativo se considera automáticamente anulado por caducidad."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Si el interesado no está, puede hacerse cargo de la notificación cualquier persona mayor de 14 años que se encuentre en el domicilio. Fundamento: Página 7, sección 3.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuáles son los tres tipos de recursos administrativos que establece la ley?",
+            "options": [
+                "Casación, suplicación y apelación ante el Tribunal Constitucional.",
+                "Recurso de alzada, recurso potestativo de reposición y recurso extraordinario de revisión.",
+                "Recurso de amparo, recurso de inconstitucionalidad y cuestión prejudicial.",
+                "Demanda civil, querella criminal y recurso de habeas corpus."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La ley establece tres tipos de recursos administrativos: alzada, potestativo de reposición y extraordinario de revisión. Fundamento: Página 8, sección 4.",
+            "position": "B"
+        },
+        {
+            "question": "¿Contra qué tipo de actos se interpone el recurso de alzada?",
+            "options": [
+                "Contra sentencias firmes de tribunales penales de ámbito nacional.",
+                "Contra resoluciones y actos de trámite que no ponen fin a la vía administrativa.",
+                "Exclusivamente contra actos de los órganos colegiados de las universidades.",
+                "Solo contra actos presuntos derivados de silencio administrativo negativo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El recurso de alzada se interpone contra resoluciones y actos de trámite que no ponen fin a la vía administrativa. Fundamento: Página 8, sección 4.",
+            "position": "B"
+        },
+        {
+            "question": "¿Ante quién se interpone el recurso potestativo de reposición?",
+            "options": [
+                "Ante el Tribunal Supremo como sala de lo contencioso-administrativo.",
+                "Ante el Defensor del Pueblo como mediador obligatorio entre las partes.",
+                "Ante el órgano que dictó el acto administrativo que se impugna.",
+                "Ante el órgano superior jerárquico de quien dictó la resolución."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El recurso potestativo de reposición se interpone ante el mismo órgano que dictó el acto impugnado. Fundamento: Página 8, sección 4.",
+            "position": "C"
+        },
+        {
+            "question": "¿Cuál es el plazo para interponer un recurso de alzada desde la notificación del acto?",
+            "options": [
+                "Dos meses desde la publicación del acto en el BOE.",
+                "Quince días naturales desde la comunicación verbal del funcionario.",
+                "Un mes desde la notificación del acto expreso.",
+                "Seis meses a contar desde el día en que se celebró la vista oral."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El plazo es de un mes desde la notificación del acto, o en cualquier momento si no hay acto expreso. Fundamento: Página 9, Tabla recursos.",
+            "position": "C"
+        },
+        {
+            "question": "¿En qué plazo debe resolverse el recurso de alzada?",
+            "options": [
+                "En un mes.",
+                "En seis meses.",
+                "En tres meses.",
+                "En un año."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El recurso de alzada debe resolverse en tres meses. Fundamento: Página 9, Tabla recursos.",
+            "position": "C"
+        },
+        {
+            "question": "¿En qué plazo debe resolverse el recurso potestativo de reposición?",
+            "options": [
+                "En un mes.",
+                "En tres meses.",
+                "En dos meses.",
+                "En seis meses."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El recurso potestativo de reposición debe resolverse en un mes. Fundamento: Página 9, Tabla recursos.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuál es el plazo para interponer un recurso extraordinario de revisión basado en documentos esenciales nuevos?",
+            "options": [
+                "Cuatro años desde la notificación de la resolución.",
+                "Un mes desde la notificación de la resolución.",
+                "Tres meses desde el conocimiento de los documentos o la sentencia firme.",
+                "Un año natural desde la publicación del acto en la gaceta oficial."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Si es por documentos nuevos o sentencia firme, el plazo es de tres meses. Si es por error de hecho, cuatro años. Fundamento: Página 9, Tabla recursos.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué recurso cabe contra la desestimación de un recurso de alzada?",
+            "options": [
+                "Recurso contencioso-administrativo y, en su caso, recurso extraordinario de revisión.",
+                "Un nuevo recurso de alzada ante el mismo órgano que resolvió inicialmente.",
+                "Recurso de apelación ante el Tribunal Constitucional obligatoriamente.",
+                "No cabe ningún tipo de recurso adicional por tratarse de cosa juzgada."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Contra la desestimación del recurso de alzada cabe recurso contencioso-administrativo y, en su caso, revisión. Fundamento: Página 9, Tabla recursos.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué tipo de recurso es el contencioso-administrativo?",
+            "options": [
+                "Un recurso exclusivamente administrativo resuelto por la propia Administración pública.",
+                "Un recurso de naturaleza penal que se tramita ante el juez de instrucción del partido.",
+                "Un recurso judicial que se tramita ante la jurisdicción contencioso-administrativa.",
+                "Un recurso de naturaleza laboral presentado ante los juzgados de lo social competentes."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Es un recurso judicial que se tramita ante la jurisdicción contencioso-administrativa. Fundamento: Página 10, sección 6.",
+            "position": "C"
+        },
+        {
+            "question": "¿Cuál es el plazo para interponer un recurso contencioso-administrativo contra un acto expreso?",
+            "options": [
+                "El plazo es de 2 meses desde la notificación del acto.",
+                "El plazo es de 6 meses desde la publicación en el BOE.",
+                "No existe plazo, se puede interponer en cualquier momento posterior.",
+                "10 días hábiles desde la comunicación oficial al interesado."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El plazo es de 2 meses desde la notificación del acto expreso, y de 6 meses en caso de actos presuntos. Fundamento: Página 10, sección 6.",
+            "position": "A"
+        },
+        {
+            "question": "En los órganos colegiados del orden contencioso-administrativo, ¿qué profesionales son obligatorios?",
+            "options": [
+                "Solo un procurador de los tribunales sin necesidad de abogado.",
+                "Tanto abogado como procurador son obligatorios.",
+                "Solo un graduado social colegiado en materia de Seguridad Social.",
+                "Un perito judicial y un mediador civil acreditado por el Ministerio."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: En los órganos colegiados, son obligatorios tanto el abogado como el procurador. Fundamento: Página 10, sección 6.",
+            "position": "B"
+        },
+        {
+            "question": "¿Quién puede interponer un recurso contencioso-administrativo?",
+            "options": [
+                "Exclusivamente los funcionarios de carrera del cuerpo administrativo.",
+                "Solo las personas jurídicas con domicilio social en España.",
+                "Únicamente las organizaciones sin ánimo de lucro registradas.",
+                "Un interesado, un grupo de interesados o una Administración pública."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Puede interponerlo un interesado o un grupo de ellos, o una Administración pública. Fundamento: Página 10, sección 6.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué causa extingue un acto administrativo por 'nulidad de pleno derecho'?",
+            "options": [
+                "Que haya transcurrido más de un año desde su aprobación sin impugnación alguna.",
+                "Que el acto lesione derechos y libertades susceptibles de amparo constitucional.",
+                "Que el Ministro del ramo no lo haya firmado de forma manuscrita.",
+                "Que el interesado no estuviera conforme con la cuantía de la tasa aplicada."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La nulidad de pleno derecho se predica, entre otros supuestos, de los actos que lesionen derechos susceptibles de amparo constitucional. Fundamento: Página 5, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué significa que un acto administrativo es 'anulable'?",
+            "options": [
+                "Que es absolutamente nulo desde el principio y no puede producir ningún efecto jurídico.",
+                "Que incurre en una infracción del ordenamiento jurídico que no es nulidad de pleno derecho, siendo válido mientras no sea anulado.",
+                "Que necesita obligatoriamente de una ley orgánica posterior para su confirmación.",
+                "Que su eficacia depende de la firma del Rey y el refrendo del Presidente del Gobierno."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los actos anulables son los que incurren en infracción del ordenamiento menos grave que la nulidad de pleno derecho; son válidos mientras no se anulen. Fundamento: Página 5, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Contra qué tipo de actos administrativos procede el recurso extraordinario de revisión?",
+            "options": [
+                "Contra actos de trámite que no hayan sido publicados en ningún diario oficial.",
+                "Contra los actos provisionales sujetos a revisión por otro órgano de alzada.",
+                "Contra actos firmes respecto de los que no cabe ningún otro recurso ordinario.",
+                "Contra las propuestas de resolución que aún no son definitivas."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El recurso extraordinario de revisión procede contra actos firmes en los que no cabe ningún otro recurso. Fundamento: Página 9, Tabla recursos.",
+            "position": "C"
+        },
+        {
+            "question": "¿Quién es el demandado en un recurso contencioso-administrativo?",
+            "options": [
+                "Siempre es una persona física a título individual designada por el juez.",
+                "Siempre es una Administración Pública.",
+                "Siempre es otro ciudadano interesado en el procedimiento como codemandado.",
+                "Lo será alternativamente el Ministerio Fiscal o el Abogado del Estado."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La demandada en un recurso contencioso-administrativo será siempre una Administración. Fundamento: Página 10, sección 6.",
+            "position": "D"
+        }
+    ]
+}

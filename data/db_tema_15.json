@@ -1,0 +1,353 @@
+{
+    "title": "Contratación pública (Tema 15)",
+    "items": [
+        {
+            "question": "¿Qué ley regula actualmente los contratos del sector público en España?",
+            "options": [
+                "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP).",
+                "La Ley 39/2015 del Procedimiento Administrativo Común.",
+                "El Real Decreto Legislativo 1/2010 de Sociedades de Capital.",
+                "La Ley Orgánica del Poder Judicial de 1985."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La norma básica es la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público. Fundamento: Página 4, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué principios fundamentales deben respetarse en la contratación pública?",
+            "options": [
+                "Secreto, reserva y discrecionalidad absoluta por parte del contratante.",
+                "Libertad de acceso, publicidad, transparencia, no discriminación e igualdad de trato.",
+                "Preferencia por empresas locales frente a competidores internacionales.",
+                "Precio más bajo como único criterio sin valorar la calidad del servicio."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La contratación pública se rige por los principios de libertad de acceso, publicidad, transparencia, no discriminación e igualdad de trato. Fundamento: Página 4, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué es un contrato de obras según la LCSP?",
+            "options": [
+                "Es la compra de bienes muebles a un proveedor homologado.",
+                "Es la realización de servicios de limpieza en edificios públicos.",
+                "Es el contrato cuyo objeto es la realización de una obra o la ejecución de trabajos de construcción.",
+                "Es un contrato de consultoría por el que se elaboran informes técnicos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El contrato de obras tiene por objeto la realización de una obra o la ejecución de trabajos. Fundamento: Página 4, sección 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué distingue al contrato de concesión de obras del contrato de obras ordinario?",
+            "options": [
+                "No hay ninguna diferencia sustancial entre ambos tipos de contrato.",
+                "Solo el nombre, ya que el régimen jurídico es idéntico en todos los casos.",
+                "El plazo del contrato, que en la concesión es siempre inferior a seis meses.",
+                "En la concesión, la contraprestación al contratista es el derecho a explotar la obra construida."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: En la concesión de obras, la contraprestación consiste en el derecho a explotar la obra. Fundamento: Página 4, sección 2.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué es un contrato de suministro?",
+            "options": [
+                "Un contrato cuyo objeto es la adquisición, arrendamiento o compra a plazos de productos o bienes muebles.",
+                "Un contrato exclusivo para la contratación de personal interino.",
+                "Un contrato de ejecución de obras públicas por fases consecutivas.",
+                "Un contrato de gestión de servicios sanitarios hospitalarios."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El contrato de suministro tiene por objeto la adquisición, arrendamiento o compra a plazos de productos o bienes muebles. Fundamento: Página 5, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué tipo de contrato se aplica cuando la Administración encarga una 'prestación de hacer' que no es obra ni suministro?",
+            "options": [
+                "Un contrato de concesión de servicios exclusivamente.",
+                "Un contrato de servicios.",
+                "Un contrato de colaboración público-privada.",
+                "Un convenio interadministrativo de cooperación horizontal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El contrato de servicios tiene por objeto una prestación de hacer dirigida a obtener un resultado distinto de una obra o suministro. Fundamento: Página 5, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué figura del contrato administrativo incluye al 'responsable del contrato'?",
+            "options": [
+                "Es el contratista adjudicatario del contrato por procedimiento abierto.",
+                "Es el candidato que perdió la licitación y vigila su correcta ejecución.",
+                "Es la persona designada por el órgano de contratación para supervisar la ejecución del contrato.",
+                "Es el interventor del Tribunal de Cuentas encargado de fiscalizar los gastos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El responsable del contrato es la persona que el órgano de contratación designa para supervisar su ejecución. Fundamento: Página 5, sección 3.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué documento administrativo recoge las condiciones particulares de cada contrato público?",
+            "options": [
+                "La memoria económica del presupuesto anual.",
+                "El pliego de cláusulas administrativas particulares.",
+                "El Plan General de Ordenación Urbana municipal.",
+                "La nómina del personal al servicio de la Administración."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El pliego de cláusulas administrativas particulares establece las condiciones específicas del contrato. Fundamento: Página 5, sección 3.",
+            "position": "B"
+        },
+        {
+            "question": "¿En qué consiste el procedimiento abierto de adjudicación?",
+            "options": [
+                "Solo pueden participar las empresas con sede social en el mismo municipio.",
+                "El contrato se adjudica directamente sin publicidad ni competencia.",
+                "Pueden participar todos los empresarios interesados que cumplan los requisitos de solvencia.",
+                "Se negocian las condiciones del contrato exclusivamente con un único licitador."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: En el procedimiento abierto pueden participar todos los empresarios interesados que cumplan los requisitos. Fundamento: Página 6, sección 4.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué caracteriza al procedimiento restringido de contratación?",
+            "options": [
+                "Todo empresario puede presentar su oferta sin restricción previa.",
+                "La Administración elige previamente a las empresas que pueden presentar ofertas.",
+                "Solo participan cooperativas de segundo grado del mismo sector productivo.",
+                "No requiere de publicidad ni de convocatoria en perfil del contratante."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: En el restringido, la Administración elige previamente qué empresas pueden presentar ofertas. Fundamento: Página 6, sección 4.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué procedimiento de adjudicación permite la negociación de los términos del contrato con los candidatos?",
+            "options": [
+                "El procedimiento abierto ordinario sin mesa de contratación.",
+                "El procedimiento restringido con participación ciudadana.",
+                "El procedimiento con negociación o licitación con negociación.",
+                "El procedimiento de adjudicación directa por cuantía menor."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El procedimiento con negociación permite al órgano de contratación negociar los términos con los candidatos. Fundamento: Página 6, sección 4.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué es el 'diálogo competitivo' en la contratación pública?",
+            "options": [
+                "Una reunión informal entre funcionarios y representantes sindicales del sector.",
+                "Una tertulia televisiva sobre licitaciones públicas emitida en abierto.",
+                "Una negociación entre todos los partidos políticos sobre los presupuestos generales.",
+                "Un procedimiento en el que la Administración dialoga con los candidatos para desarrollar soluciones que satisfagan sus necesidades."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: El diálogo competitivo es un procedimiento en el que la Administración dialoga con candidatos para desarrollar soluciones adecuadas. Fundamento: Página 7, sección 4.",
+            "position": "D"
+        },
+        {
+            "question": "¿Para qué está destinado el contrato de asociación para la innovación?",
+            "options": [
+                "Para la compra de material de oficina estándar de bajo coste.",
+                "Para desarrollar productos, servicios u obras innovadores y comprar los resultados.",
+                "Para la contratación de personal funcionario en prácticas.",
+                "Para la concesión de subvenciones a organizaciones no gubernamentales."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El contrato de asociación para la innovación está destinado a desarrollar productos, servicios u obras y comprar los resultados. Fundamento: Página 8.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuándo se entiende cumplido un contrato público por el contratista?",
+            "options": [
+                "Cuando el contratista ha realizado el desembolso inicial acordado.",
+                "Cuando transcurren 30 días naturales desde la firma del contrato.",
+                "Cuando, cumpliendo los términos del contrato y a satisfacción de la Administración, se ha cumplido la totalidad de la prestación.",
+                "Cuando el contratista renuncia voluntariamente a cualquier otra licitación pública."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El contrato se entiende cumplido cuando se ha realizado la totalidad de la prestación a satisfacción de la Administración. Fundamento: Página 8, sección 7.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué puede hacer la Administración si el contratista incurre en demora por causas imputables al mismo?",
+            "options": [
+                "Resolver el contrato o imponer una indemnización diaria.",
+                "Otorgar una prórroga indefinida sin penalización alguna al contratista.",
+                "Renegociar íntegramente los términos económicos en favor del contratista.",
+                "Ceder el contrato a un tercero sin notificación al contratista original."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Si el contratista incurre en demora imputable, la Administración puede resolver el contrato o imponer una indemnización diaria. Fundamento: Página 8, sección 7.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuál de estas es una causa legal de resolución de un contrato público?",
+            "options": [
+                "La jubilación voluntaria anticipada del responsable del contrato.",
+                "La declaración de concurso o insolvencia del contratista.",
+                "La modificación del organigrama interno de la Administración contratante.",
+                "La subida del IPC por encima del 3% anual durante la vigencia del contrato."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La declaración de concurso o de insolvencia del contratista es una causa legal de resolución del contrato. Fundamento: Página 8, sección 7.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuánto tiempo de demora en el pago por parte de la Administración permite al contratista solicitar la resolución?",
+            "options": [
+                "1 mes o el plazo inferior pactado.",
+                "3 meses desde el primer impago documentado.",
+                "Un año natural completo desde el vencimiento de la primera factura.",
+                "Más de 6 meses, u otro inferior si se ha establecido en el contrato."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: El contrato puede resolverse si la Administración demora el pago más de 6 meses (o un plazo inferior si se pactó). Fundamento: Página 8, sección 7.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué sucede con el contratista tras el cumplimiento total de la prestación?",
+            "options": [
+                "Queda liberado de toda responsabilidad de forma inmediata y definitiva.",
+                "Tiene derecho al abono del precio pero sigue respondiendo durante el plazo de garantía.",
+                "Debe realizar un nuevo concurso de méritos antes de cobrar.",
+                "Pierde automáticamente su clasificación empresarial por extinción del contrato."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El contratista tiene derecho al cobro pero seguirá respondiendo durante el plazo de garantía establecido. Fundamento: Página 8, sección 7.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuál de las siguientes es una prohibición para contratar con la Administración?",
+            "options": [
+                "Tener sede social en otra comunidad autónoma diferente a la contratante.",
+                "Ser una empresa de nueva creación con menos de dos años de antigüedad.",
+                "Haber sido condenado en sentencia firme por delitos de terrorismo o corrupción.",
+                "No disponer de página web corporativa accesible en internet."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Están prohibidos los condenados por sentencia firme por delitos como terrorismo, financiación ilegal de partidos, trata de personas, etc. Fundamento: Página 9, sección 9.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué sucede con los empresarios sancionados en firme por infracciones muy graves en materia laboral?",
+            "options": [
+                "Gozan de preferencia en la adjudicación como medida de rehabilitación.",
+                "No se les aplica ninguna restricción si han pagado la sanción económica.",
+                "Están incluidos en las prohibiciones para contratar con la Administración.",
+                "Solo se aplica si la infracción se produjo dentro de los últimos 12 meses."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los sancionados con carácter firme por infracciones muy graves en materia laboral o social están prohibidos de contratar. Fundamento: Página 9, sección 9.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué triple condición tiene un Ayuntamiento como órgano de contratación según la LCSP?",
+            "options": [
+                "Es sector público, Administración pública y poder adjudicador.",
+                "Es tribunal arbitral, órgano consultivo y poder normativo.",
+                "Es autoridad laboral, persona jurídica privada y emprendedor público.",
+                "Es poder legislativo, organismo autónomo y agencia de regulación."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Un Ayuntamiento forma parte del sector público, es Administración pública y es poder adjudicador. Fundamento: Página 10, sección 10.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué es un contrato SARA (sujeto a regulación armonizada)?",
+            "options": [
+                "Un contrato entre dos Estados miembros de la UE sobre un tratado bilateral.",
+                "Un contrato adjudicado por un poder adjudicador cuyo valor estimado supera los umbrales de cuantía que fija la ley.",
+                "Un contrato menor que no requiere publicidad por su escasa cuantía.",
+                "Un contrato entre una Administración y un particular para uso de dominio público."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los contratos SARA son los de un poder adjudicador cuyo valor estimado supera los umbrales fijados por la ley. Fundamento: Página 11, sección 10.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cómo se calcula el valor estimado de un contrato a efectos de la LCSP?",
+            "options": [
+                "Sumando el IVA al precio total a pagar durante toda la vida del contrato.",
+                "Excluyendo el IVA de la cantidad total a pagar durante toda la duración del contrato.",
+                "Dividiendo el precio anual entre el número de licitadores presentados.",
+                "Multiplicando el precio mensual por el número de empleados públicos implicados."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El valor estimado se calcula excluyendo el IVA de la cantidad total a pagar durante toda la duración del contrato. Fundamento: Página 9, caso práctico 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué empresarios no pueden contratar por haber incumplido sus obligaciones tributarias o de Seguridad Social?",
+            "options": [
+                "Los que están al corriente de sus obligaciones fiscales y laborales.",
+                "Los que no están al corriente de sus obligaciones tributarias o de Seguridad Social.",
+                "Los que han pagado sus impuestos pero con un retraso inferior a diez días.",
+                "Los que tienen un aplazamiento de pago concedido por la Administración tributaria."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: No pueden contratar los que no estén al corriente de sus obligaciones tributarias o de Seguridad Social. Fundamento: Página 9, sección 9.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué empresario no puede contratar por haber dado lugar a la resolución de un contrato previo?",
+            "options": [
+                "Un empresario que completó el contrato anterior dentro del plazo establecido.",
+                "Un empresario que recibió una mención de excelencia en la ejecución del contrato.",
+                "Un empresario que provocó la resolución de un contrato público por causa imputable a él.",
+                "Un empresario que obtuvo una prórroga legalmente concedida por causa justificada."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: No puede contratar quien dio lugar a la resolución de un contrato público por causa imputable al empresario. Fundamento: Página 10, sección 9.",
+            "position": "C"
+        },
+        {
+            "question": "¿Cuál es la causa de resolución de un contrato cuando el contratista no paga los salarios de sus trabajadores?",
+            "options": [
+                "Es un riesgo empresarial que no afecta a la continuidad del contrato público.",
+                "La Administración solo puede amonestarlo verbalmente sin consecuencias jurídicas.",
+                "No existe causa de resolución por esta razón según la legislación vigente.",
+                "El impago de salarios o el incumplimiento del convenio colectivo son causa de resolución."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: El impago de salarios o incumplimiento del convenio colectivo es causa legal de resolución del contrato. Fundamento: Página 8, sección 7.",
+            "position": "D"
+        },
+        {
+            "question": "La muerte del contratista persona física, ¿es causa de resolución del contrato público?",
+            "options": [
+                "Sí, la muerte o incapacidad del contratista persona física es causa de resolución.",
+                "No, el contrato se transmite automáticamente a sus herederos legales.",
+                "Solo si el contrato tiene una cuantía superior a 100.000 euros.",
+                "No, la Administración debe esperar un año para que se nombre un sucesor."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La muerte o incapacidad del contratista persona física es causa legal de resolución del contrato. Fundamento: Página 8, sección 7.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué umbral supera el contrato de obra del caso práctico para ser considerado SARA?",
+            "options": [
+                "El umbral de 5.350.000 euros para contratos de obras de poder adjudicador.",
+                "El umbral de 100.000 euros para contratos menores sin publicidad.",
+                "El umbral de 1.000.000 euros para contratos de suministro normalizado.",
+                "No se establece ningún umbral, todos los contratos de obra son SARA."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Es SARA porque su valor estimado supera el umbral de más de 5.350.000 euros fijado para obras. Fundamento: Página 11, sección 10.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué sucede si un empresario falsea datos relacionados con los requisitos para contratar con la Administración?",
+            "options": [
+                "Recibe una bonificación fiscal por su colaboración con la Administración.",
+                "No pasa nada si la falsificación fue detectada antes de la adjudicación.",
+                "La Administración le concede una segunda oportunidad para subsanar el error.",
+                "Queda incluido en las prohibiciones para contratar con la Administración."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Los que falseen datos para contratar con la Administración quedan prohibidos de hacerlo. Fundamento: Página 9, sección 9.",
+            "position": "D"
+        }
+    ]
+}

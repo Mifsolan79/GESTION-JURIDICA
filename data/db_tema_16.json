@@ -1,0 +1,353 @@
+{
+    "title": "Facturación y gestiones ante la Administración Pública (Tema 16)",
+    "items": [
+        {
+            "question": "¿Qué ley regula el impulso de la factura electrónica en el sector público español?",
+            "options": [
+                "La Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica.",
+                "La Ley 39/2015 del Procedimiento Administrativo Común.",
+                "La Ley 9/2017 de Contratos del Sector Público.",
+                "La Ley Orgánica 3/2018 de Protección de Datos Personales."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La Ley 25/2013 regula la factura electrónica y el registro contable de facturas en el sector público. Fundamento: Página 4, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué entidades están obligadas a emitir factura electrónica a la Administración?",
+            "options": [
+                "Solo los autónomos que facturen menos de 10.000 euros al año.",
+                "Las sociedades anónimas, sociedades limitadas, personas jurídicas y otras entidades que determine la ley.",
+                "Exclusivamente los organismos internacionales con sede en la UE.",
+                "Únicamente las empresas con más de 250 empleados en plantilla."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Las sociedades anónimas, limitadas y otras entidades determinadas por la ley están obligadas a emitir factura electrónica. Fundamento: Página 4, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué formato estándar se utiliza en España para las facturas electrónicas dirigidas a la Administración?",
+            "options": [
+                "El formato PDF firmado digitalmente sin estructura XML.",
+                "El formato Facturae (XML estructurado y firmado electrónicamente).",
+                "El formato Word con membrete de la empresa emisora.",
+                "Un escaneado en formato JPEG del documento original en papel."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Las facturas electrónicas se emiten en formato Facturae, que es un XML estructurado y firmado electrónicamente. Fundamento: Página 4, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué es FACe?",
+            "options": [
+                "Un programa de formación profesional sobre contabilidad electrónica.",
+                "El servicio de correo electrónico interno de los ministerios españoles.",
+                "El punto general de entrada de facturas electrónicas de la Administración General del Estado.",
+                "Un organismo independiente de supervisión de la banca española."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: FACe es el Punto General de Entrada de Facturas Electrónicas de la Administración General del Estado. Fundamento: Página 4, sección 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué ley regula las subvenciones públicas en España?",
+            "options": [
+                "La Ley 38/2003, de 17 de noviembre, General de Subvenciones.",
+                "La Ley 9/2017 de Contratos del Sector Público.",
+                "La Ley 59/2003 de Firma Electrónica.",
+                "El Real Decreto Legislativo 1/2010 de Sociedades de Capital."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La Ley 38/2003, General de Subvenciones, es la norma que regula las subvenciones públicas. Fundamento: Página 5, sección 3.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuáles son los elementos esenciales de una subvención pública?",
+            "options": [
+                "La existencia de una deuda tributaria y un aplazamiento de pago.",
+                "La entrega de dinero sin contraprestación de ningún tipo por parte del beneficiario.",
+                "La entrega de fondos públicos sin contraprestación directa, sujeta al cumplimiento de un objetivo de interés general.",
+                "La compra de bienes muebles a precio reducido entre Administraciones."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: La subvención implica entrega de fondos públicos sin contraprestación directa, sujeta al cumplimiento de un objetivo de interés general. Fundamento: Página 5, sección 3.",
+            "position": "C"
+        },
+        {
+            "question": "¿A qué obliga el principio de 'publicidad' en materia de subvenciones?",
+            "options": [
+                "A que las subvenciones se anuncien exclusivamente en prensa deportiva.",
+                "A que las bases reguladoras y las convocatorias se publiquen en los diarios oficiales correspondientes.",
+                "A que se envíe un correo electrónico a cada ciudadano del país.",
+                "A que solo los partidos políticos conozcan las convocatorias antes de su apertura."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El principio de publicidad exige la publicación de las bases reguladoras y convocatorias en los diarios oficiales. Fundamento: Página 5, sección 3.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué tipos de firma electrónica reconoce la Ley 59/2003?",
+            "options": [
+                "Solo la firma manuscrita digitalizada (escaneada) y la bio-firma.",
+                "Firma electrónica simple, firma electrónica avanzada y firma electrónica cualificada (o reconocida).",
+                "Firma con sello de caucho y firma hológrafa exclusivamente.",
+                "Solo la firma basada en blockchain y la firma por inteligencia artificial."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La ley reconoce tres tipos: firma electrónica simple, avanzada y cualificada (reconocida). Fundamento: Página 6, sección 4.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué caracteriza a la firma electrónica avanzada frente a la simple?",
+            "options": [
+                "Que permite identificar al firmante y detectar cualquier cambio posterior en los datos firmados.",
+                "Que no tiene ningún valor probatorio ante los tribunales.",
+                "Que se basa en un sello de cera digital proporcionado por un notario.",
+                "Que solo se puede usar para firmar correos electrónicos personales."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La firma avanzada permite identificar al firmante, está vinculada a él de manera única y detecta cualquier cambio posterior. Fundamento: Página 6, sección 4.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué requisito adicional tiene la firma electrónica cualificada respecto a la avanzada?",
+            "options": [
+                "Que se realiza con un dispositivo seguro de creación de firma y está basada en un certificado reconocido.",
+                "Que tiene un coste económico superior a 500 euros por transacción.",
+                "Que solo puede emitirla el Banco de España o el Banco Central Europeo.",
+                "Que debe renovarse cada 24 horas para mantener su validez legal."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La firma cualificada es una avanzada basada en un certificado reconocido y generada con un dispositivo seguro. Fundamento: Página 6, sección 4.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué es un certificado electrónico según el texto?",
+            "options": [
+                "Un documento en papel sellado por el Ministerio de Justicia.",
+                "Un título académico oficial expedido por una universidad pública.",
+                "Un documento firmado electrónicamente que vincula unos datos de verificación a un firmante y confirma su identidad.",
+                "Una licencia de software propietario que autoriza el uso de un programa."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El certificado electrónico es un documento firmado que vincula datos de verificación a un firmante y confirma su identidad. Fundamento: Página 7, sección 5.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué organismo español emite los certificados electrónicos de persona física más utilizados?",
+            "options": [
+                "El Banco de España como autoridad monetaria nacional.",
+                "El Ministerio de Defensa a través de sus servidores militares.",
+                "La Fábrica Nacional de Moneda y Timbre (FNMT).",
+                "La Agencia Española de Protección de Datos (AEPD)."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: La FNMT es el organismo que emite los certificados electrónicos de persona física más extendidos. Fundamento: Página 7, sección 5.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué es el DNI electrónico (DNIe)?",
+            "options": [
+                "Un documento de identidad que no incluye ninguna funcionalidad digital.",
+                "Una tarjeta de crédito que sirve para realizar pagos electrónicos.",
+                "El documento de identidad que incorpora un chip con dos certificados electrónicos (autenticación y firma).",
+                "Un pasaporte digital que sustituye al pasaporte convencional en la UE."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El DNIe incorpora un chip con dos certificados: uno de autenticación y otro de firma electrónica. Fundamento: Página 7, sección 5.",
+            "position": "C"
+        },
+        {
+            "question": "¿Dónde puede renovar un ciudadano los certificados caducados de su DNI electrónico?",
+            "options": [
+                "En cualquier cajero automático bancario con lector NFC disponible.",
+                "En el Punto de Actualización del DNIe de una comisaría de Policía, de forma presencial.",
+                "Mediante una llamada telefónica al 112 solicitando cita previa.",
+                "Solo de forma telemática a través de la web del Ministerio de Interior."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El interesado debe acudir presencialmente a una comisaría de Policía, donde el Punto de Actualización del DNIe permite renovar los certificados. Fundamento: Página 9, caso práctico 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué es el sistema Cl@ve?",
+            "options": [
+                "Un antivirus oficial proporcionado por la Administración pública.",
+                "Un sistema de cifrado militar utilizado por el CNI exclusivamente.",
+                "Un sistema de ordenación de expedientes electrónicos internos.",
+                "Un sistema de identificación de los ciudadanos ante la Administración a través de claves concertadas."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Cl@ve es un sistema de identificación de los ciudadanos ante la Administración mediante claves concertadas (usuario y contraseña). Fundamento: Página 9, sección 8.",
+            "position": "D"
+        },
+        {
+            "question": "¿Cuál es la diferencia entre Cl@ve PIN y Cl@ve permanente?",
+            "options": [
+                "Cl@ve PIN ofrece una contraseña de validez limitada; Cl@ve permanente utiliza una contraseña fija establecida por el usuario.",
+                "Cl@ve PIN solo funciona en Android y Cl@ve permanente solo en iOS.",
+                "No hay diferencia, son exactamente el mismo servicio con diferente nombre.",
+                "Cl@ve PIN es exclusivo para funcionarios y Cl@ve permanente para ciudadanos."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Cl@ve PIN facilita una contraseña temporal renovable, mientras que Cl@ve permanente usa una contraseña fija elegida por el usuario. Fundamento: Página 10, sección 8.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cómo puede registrarse un ciudadano en el sistema Cl@ve?",
+            "options": [
+                "Solo acudiendo presencialmente a una oficina adherida, sin excepción.",
+                "Exclusivamente a través de una app de mensajería del Gobierno.",
+                "De manera presencial en oficinas adheridas o a través de internet (con o sin certificado).",
+                "Pagando una tasa de 50 euros en una entidad bancaria colaboradora."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El registro puede hacerse presencialmente o por internet (con carta de invitación o con certificado electrónico/DNIe). Fundamento: Página 10, sección 8.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué trámites se pueden realizar con el certificado digital de la FNMT?",
+            "options": [
+                "Solamente la presentación de la declaración del IRPF y nada más.",
+                "Presentación de recursos, consulta de multas, firma electrónica de documentos, solicitud de subvenciones, entre otros.",
+                "Exclusivamente la consulta del padrón municipal de habitantes.",
+                "Solo la descarga del certificado de antecedentes penales en formato PDF."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Con el certificado digital se pueden realizar múltiples trámites: recursos, consulta de multas, firma, subvenciones, censos, etc. Fundamento: Página 8, sección 6.1.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué tres tipos de certificado de representación emite la FNMT?",
+            "options": [
+                "Certificado de defunción, certificado de nacimiento y certificado de matrimonio.",
+                "Certificado de representación de Administrador único/solidario, de persona jurídica y de entidades sin personalidad jurídica.",
+                "Certificado de penales, certificado de empadronamiento y certificado sanitario.",
+                "Certificado escolar, certificado de aptitud profesional y certificado médico."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La FNMT emite tres tipos: Administrador único/solidario, persona jurídica y entidades sin personalidad jurídica. Fundamento: Página 9, sección 6.2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué debe hacer Pablo, representante de una S.A. que no es administrador único, para emitir facturas electrónicas?",
+            "options": [
+                "Solicitar un certificado de representación de Administrador único y solidario.",
+                "No necesita ningún certificado, basta con su DNI convencional.",
+                "Debe solicitar un certificado de representación de persona jurídica de la FNMT.",
+                "Debe acudir a un juzgado de primera instancia para obtener un poder notarial especial."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Al ser representante de una S.A. sin ser administrador único/solidario, necesita un certificado de representación de persona jurídica. Fundamento: Página 11, resolución caso práctico.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué nivel de seguridad adicional puede requerir Cl@ve permanente para ciertos servicios?",
+            "options": [
+                "Una fotografía selfie con el DNI en la mano enviada por correo electrónico.",
+                "Un segundo factor de autenticación mediante código numérico de un solo uso recibido por SMS.",
+                "La presencia física del ciudadano en la sede del Ministerio correspondiente.",
+                "La firma manuscrita de un documento notarial adicional por cada acceso."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Si el servicio requiere mayor seguridad, Cl@ve permanente solicita un código numérico de un solo uso recibido por SMS. Fundamento: Página 10, sección 8.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué identifica al usuario en el sistema Cl@ve?",
+            "options": [
+                "Su número de la Seguridad Social y su código IBAN bancario.",
+                "Su dirección de correo electrónico personal y su número de teléfono fijo.",
+                "Su número de permiso de conducir y su fecha de nacimiento.",
+                "Su número del documento de identidad (DNI/NIE) como identificador de usuario."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: El identificador de usuario en Cl@ve es el número del documento de identidad. Fundamento: Página 10, sección 8.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué concesión puede solicitar un ciudadano que no tiene certificado electrónico para registrarse en Cl@ve por internet?",
+            "options": [
+                "Una carta de invitación con un Código Seguro de Verificación (CSV) para completar el registro.",
+                "Un formulario impreso que debe rellenar a mano y enviar por correo postal certificado.",
+                "Una invitación a una conferencia presencial sobre tecnologías de la información.",
+                "Una copia del BOE con el decreto regulador del sistema Cl@ve."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Sin certificado electrónico, el ciudadano puede solicitar una carta de invitación con CSV para registrarse en Cl@ve por internet. Fundamento: Página 10, sección 8.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué herramienta permite a los proveedores de la Administración consultar el estado de sus facturas electrónicas?",
+            "options": [
+                "El portal FACe, que además de recibir facturas permite consultar su estado de tramitación.",
+                "La página web personal del proveedor donde publica sus propias facturas.",
+                "El tablón de anuncios físico de la Delegación del Gobierno.",
+                "El Registro de la Propiedad del lugar de domicilio del proveedor."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: FACe permite tanto enviar facturas electrónicas como consultar su estado de tramitación. Fundamento: Página 4, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Requiere el sistema Cl@ve PIN el uso de una aplicación móvil?",
+            "options": [
+                "No, solo funciona a través del navegador web del ordenador de sobremesa.",
+                "Sí, Cl@ve PIN puede utilizar la app Cl@ve PIN o recibir el código por SMS al móvil.",
+                "Solo si el ciudadano tiene un terminal Apple de última generación.",
+                "No, Cl@ve PIN se activa exclusivamente mediante llamada telefónica automatizada."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Cl@ve PIN puede utilizar la aplicación Cl@ve PIN o comunicar el PIN mediante SMS al teléfono móvil del usuario. Fundamento: Página 10, sección 8.",
+            "position": "D"
+        },
+        {
+            "question": "¿Cuál es el efecto jurídico de la firma electrónica cualificada?",
+            "options": [
+                "Tiene el mismo valor que una firma manuscrita tradicional.",
+                "Solo es válida si va acompañada de un sello físico de la empresa.",
+                "No tiene valor legal por sí misma y requiere validación judicial.",
+                "Solo es válida en procedimientos de menos de 3.000 euros de cuantía."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La firma electrónica cualificada tiene el mismo valor que la firma manuscrita. Fundamento: Página 6, sección 4.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué obligación tienen las Administraciones según la Ley de factura electrónica respecto al registro contable?",
+            "options": [
+                "No tienen ninguna obligación específica de registro contable de facturas.",
+                "Solo deben registrar las facturas superiores a 50.000 euros.",
+                "Deben llevar un registro contable de facturas y resolver el pago en los plazos legales.",
+                "Deben destruir las facturas electrónicas tras su contabilización inmediata."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: La ley obliga a llevar un registro contable de facturas en el sector público. Fundamento: Página 4, sección 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué sucede si un ciudadano utiliza Cl@ve PIN y cierra el navegador o se desconecta de la sede electrónica?",
+            "options": [
+                "Pierde todos los datos introducidos y debe solicitar un nuevo DNI.",
+                "La sesión se mantiene activa indefinidamente por motivos de accesibilidad.",
+                "La sesión finaliza y debe identificarse de nuevo para acceder al servicio.",
+                "Se abre automáticamente una nueva sesión sin necesidad de identificación."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Una vez identificado con Cl@ve PIN, se accede al servicio hasta desconectarse de la sede electrónica o cerrar el navegador. Fundamento: Página 10, sección 8.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué gestiones se pueden realizar a través del DNI electrónico ante la Administración?",
+            "options": [
+                "Únicamente la renovación del propio documento de identidad.",
+                "Solo la consulta del estado de una multa de tráfico pendiente.",
+                "Trámites telemáticos como declaraciones de impuestos, consulta de datos, firma de documentos y solicitudes administrativas.",
+                "Exclusivamente la solicitud de pasaporte y la inscripción en el censo electoral."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El DNIe permite realizar múltiples gestiones telemáticas: impuestos, consultas, firma electrónica, subvenciones, etc. Fundamento: Página 8, sección 6.1.",
+            "position": "C"
+        }
+    ]
+}

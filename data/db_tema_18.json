@@ -1,0 +1,341 @@
+{
+    "title": "Documentación jurídica de constitución y funcionamiento de la empresa (Tema 18)",
+    "items": [
+        {
+            "question": "¿Qué función cumplen los notarios en el sistema jurídico español?",
+            "options": [
+                "Son fedatarios públicos que dan fe de los actos y contratos autorizados ante ellos.",
+                "Son jueces especializados en derecho mercantil y societario.",
+                "Son funcionarios de la Agencia Tributaria que recaudan impuestos.",
+                "Son mediadores privados sin autoridad pública reconocida."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Los notarios son fedatarios públicos que dan fe de actos y contratos, garantizando la seguridad en el tráfico jurídico. Fundamento: Página 4, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué tipo de documentos autorizan los notarios?",
+            "options": [
+                "Sentencias judiciales en materia penal y civil.",
+                "Escrituras públicas, actas notariales y testimonios de legitimación.",
+                "Partes de alta y baja en la Seguridad Social exclusivamente.",
+                "Certificados académicos y títulos universitarios oficiales."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los notarios autorizan escrituras públicas, actas notariales y testimonios. Fundamento: Página 4, sección 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué función tienen los registradores de la propiedad y mercantiles?",
+            "options": [
+                "Son abogados privados que asesoran a las empresas en sus trámites.",
+                "Son jueces de primera instancia con competencia en materia civil.",
+                "Son fedatarios públicos que dan publicidad y seguridad a los actos inscritos en los registros.",
+                "Son inspectores de trabajo que verifican el cumplimiento laboral."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los registradores son fedatarios públicos que dan publicidad y seguridad jurídica a los actos y derechos inscritos. Fundamento: Página 4, sección 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué contiene la escritura de constitución de una sociedad mercantil?",
+            "options": [
+                "Solo la denominación social y el domicilio fiscal de la empresa.",
+                "Un análisis de mercado y el plan de negocio de la empresa.",
+                "La identidad de los socios, su voluntad de constituir la sociedad, la forma jurídica elegida y las aportaciones de cada socio.",
+                "Exclusivamente los estatutos sociales sin identificación de los socios."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: La escritura recoge la identidad de los socios, su voluntad de constituir la sociedad y las aportaciones de cada uno. Fundamento: Página 5, caso práctico.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué diferencia hay entre la escritura de constitución y los estatutos sociales?",
+            "options": [
+                "Son el mismo documento con diferente nombre legal.",
+                "La escritura recoge la voluntad de constituir la sociedad; los estatutos establecen su funcionamiento y las relaciones entre socios.",
+                "Los estatutos se firman ante notario y la escritura no requiere fedatario.",
+                "La escritura es voluntaria y los estatutos son obligatorios solo para S.A."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La escritura recoge la voluntad de constituir la sociedad; los estatutos establecen su funcionamiento y relaciones entre socios. Fundamento: Página 9, caso práctico 2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Dónde debe aparecer la identidad de los socios fundadores de una sociedad?",
+            "options": [
+                "En la escritura de constitución.",
+                "En los estatutos sociales exclusivamente.",
+                "En el Libro Diario de la empresa.",
+                "En el Boletín Oficial del Estado."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La identidad de los socios debe figurar en la escritura de constitución. Fundamento: Página 9, caso práctico 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué documento recoge la denominación social de la empresa?",
+            "options": [
+                "El Libro Mayor de la contabilidad empresarial.",
+                "La nómina de la primera mensualidad de los trabajadores.",
+                "Los estatutos sociales de la sociedad.",
+                "El certificado de empadronamiento municipal de los socios."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: La denominación social se recoge en los estatutos sociales. Fundamento: Página 9, caso práctico 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué es el Libro Diario en la contabilidad empresarial?",
+            "options": [
+                "Un libro donde se registran las actas de las reuniones de la junta general.",
+                "Un libro que recoge cronológicamente las operaciones económicas de la empresa día a día.",
+                "Un libro que clasifica a los socios por su porcentaje de participación.",
+                "Un libro de inventario que valora los activos inmobiliarios de la sociedad."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El Libro Diario recoge cronológicamente las operaciones económicas día a día. Fundamento: Página 8, sección 4.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué compone el balance según el Plan General Contable?",
+            "options": [
+                "Solo las deudas con proveedores y acreedores comerciales.",
+                "El inventario de las oficinas y su equipamiento informático.",
+                "El activo (bienes y derechos), el pasivo (obligaciones) y el patrimonio neto.",
+                "El número de empleados y sus categorías profesionales."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El balance se compone de activo, pasivo y patrimonio neto (diferencia entre activo y pasivo). Fundamento: Página 8, sección 4.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué son las provisiones dentro del pasivo de una empresa?",
+            "options": [
+                "Beneficios no distribuidos del ejercicio anterior.",
+                "Previsiones para gastos futuros de la empresa.",
+                "Aportaciones extraordinarias de los socios al capital social.",
+                "Dividendos pendientes de cobro por parte de los accionistas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Las provisiones son previsiones para gastos futuros que forman parte del pasivo. Fundamento: Página 8, sección 4.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué información debe recoger el Libro de Actas de una sociedad?",
+            "options": [
+                "Solo el listado de socios y su porcentaje de capital actual.",
+                "Los acuerdos de las juntas generales y órganos colegiados, con datos de convocatoria, asuntos tratados, intervenciones y resultados de votaciones.",
+                "Exclusivamente los contratos comerciales firmados con terceros.",
+                "El nombre y domicilio de todos los proveedores de la empresa."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El Libro de Actas recoge los acuerdos de las juntas, con datos de convocatoria, asuntos, intervenciones y votaciones. Fundamento: Página 10, sección 6.",
+            "position": "D"
+        },
+        {
+            "question": "¿En qué plazo deben los administradores presentar en el Registro Mercantil el testimonio notarial de los acuerdos inscribibles?",
+            "options": [
+                "Dentro de los 30 días naturales siguientes a la firma del contrato.",
+                "Dentro de los 8 días siguientes a la aprobación del acta.",
+                "En un plazo de 6 meses desde el cierre del ejercicio social.",
+                "No existe plazo legal para dicha presentación."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los administradores deben presentar el testimonio notarial dentro de los 8 días siguientes a la aprobación del acta. Fundamento: Página 10, sección 6.",
+            "position": "B"
+        },
+        {
+            "question": "¿Para qué tipo de sociedades es obligatorio el Libro Registro de Acciones Nominativas?",
+            "options": [
+                "Para las sociedades limitadas y las cooperativas de segundo grado.",
+                "Para comunidades de bienes y sociedades civiles ordinarias.",
+                "Para las sociedades anónimas, las anónimas laborales y las comanditarias por acciones.",
+                "Para todas las personas físicas autónomas registradas como emprendedores."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El Libro de Acciones Nominativas es obligatorio para S.A., S.A. laborales y comanditarias por acciones. Fundamento: Página 10, sección 6.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué información recoge el Libro Registro de Socios?",
+            "options": [
+                "El detalle de los contratos con los clientes y proveedores principales.",
+                "La titularidad de las participaciones sociales, las transmisiones y los gravámenes.",
+                "La facturación mensual desglosada por tipo de impuesto.",
+                "Las nóminas y las cotizaciones a la Seguridad Social del personal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Recoge la titularidad de las participaciones, las transmisiones y los derechos reales o gravámenes sobre ellas. Fundamento: Página 10, sección 6.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué derecho tienen todos los socios respecto al Libro Registro de Socios?",
+            "options": [
+                "Consultarlo en cualquier momento.",
+                "Destruirlo cuando dejen de ser socios de la empresa.",
+                "Modificarlo libremente sin autorización de la junta general.",
+                "Vendérselo a terceros interesados en entrar en la sociedad."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Todos los socios tienen derecho a consultar el libro en cualquier momento, incluyendo su identidad y domicilio. Fundamento: Página 10, sección 6.",
+            "position": "A"
+        },
+        {
+            "question": "¿Para qué tipo de sociedades es obligatorio el Libro Registro de Contratos entre el socio único y la sociedad?",
+            "options": [
+                "Para las cooperativas de crédito con más de 100 socios.",
+                "Para las sociedades limitadas y anónimas unipersonales.",
+                "Para todas las sociedades colectivas sin excepción alguna.",
+                "No existe ese libro en la legislación mercantil vigente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Es obligatorio para las sociedades limitadas y anónimas unipersonales (con un solo socio). Fundamento: Página 10, sección 6.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué es el CIRCE en relación con la creación de empresas?",
+            "options": [
+                "Un sistema telemático para la creación de empresas a través de internet.",
+                "Un tribunal especializado en resolver conflictos mercantiles.",
+                "Un impuesto especial para las empresas de nueva creación.",
+                "Un organismo dedicado a la formación profesional digital."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El CIRCE pone a disposición de los emprendedores un servicio telemático para la creación de empresas por internet. Fundamento: Página 9.",
+            "position": "A"
+        },
+        {
+            "question": "¿Dónde deben legalizarse los libros contables y societarios?",
+            "options": [
+                "En la Agencia Tributaria del domicilio fiscal del empresario.",
+                "En la sede del Notario donde se firmó la escritura de constitución.",
+                "Ante el Registro Mercantil correspondiente.",
+                "En el Juzgado de Primera Instancia del municipio."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los libros contables y societarios deben legalizarse ante el Registro Mercantil. Fundamento: Página 10, sección 6.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué es el Libro Mayor en contabilidad?",
+            "options": [
+                "El libro donde se registran las actas de la junta general.",
+                "El libro que agrupa las operaciones del Diario por cuentas contables.",
+                "El libro donde figuran los estatutos originales de la sociedad.",
+                "El libro de registro de las facturas emitidas a clientes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El Libro Mayor agrupa las operaciones registradas en el Diario clasificándolas por cuentas contables. Fundamento: Página 8, sección 4.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué relación existe entre el Libro Diario y el Libro Mayor?",
+            "options": [
+                "No guardan ninguna relación entre sí.",
+                "Son el mismo libro con diferente denominación según la región.",
+                "Las aplicaciones de gestión contable elaboran el Libro Mayor a partir de las anotaciones del Diario.",
+                "El Libro Mayor se redacta primero y luego se resume en el Diario."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Las aplicaciones informáticas de gestión contable permiten elaborar el Libro Mayor a partir de las anotaciones del Libro Diario. Fundamento: Página 8, sección 4.",
+            "position": "C"
+        },
+        {
+            "question": "Según el caso práctico, ¿en qué carpeta se clasificaría un documento con el contenido de las reuniones del Consejo?",
+            "options": [
+                "En la carpeta 'Libros contables' como parte del Libro Diario.",
+                "En la carpeta 'Constitución de la sociedad' junto a la escritura.",
+                "En la carpeta 'Otros libros' del Libro Registro de Acciones.",
+                "En la subcarpeta 'Actas' como parte del Libro de Actas."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Los documentos con el contenido de las reuniones del Consejo van en la subcarpeta 'Actas' (Libro de Actas). Fundamento: Página 11, resolución caso práctico.",
+            "position": "D"
+        },
+        {
+            "question": "¿A qué subcarpeta pertenece un documento con la relación de actividades diarias de la empresa?",
+            "options": [
+                "A 'Libros contables', como parte del Libro Diario.",
+                "A 'Actas', como parte del Libro de Actas.",
+                "A 'Constitución de la sociedad', como addenda al escritura.",
+                "A 'Otros libros', como parte del Libro Registro de Socios."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La relación de actividades diarias forma parte del Libro Diario, que se archiva en 'Libros contables'. Fundamento: Página 11, resolución caso práctico.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué documento que identifica a un titular concreto se registra en el Libro de Acciones Nominativas?",
+            "options": [
+                "Las acciones al portador que carecen de titular identificado.",
+                "Las acciones nominativas emitidas a nombre de un titular concreto.",
+                "Las participaciones sociales de una sociedad limitada.",
+                "Los bonos del Estado adquiridos por la sociedad emisora."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: En el Libro de Acciones Nominativas se registran las acciones emitidas a nombre de un titular concreto. Fundamento: Página 10, sección 6.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué documento forma parte de las cuentas anuales de una empresa?",
+            "options": [
+                "El saldo de la cuenta corriente personal de cada socio.",
+                "La convocatoria de la junta general ordinaria.",
+                "El balance de situación, la cuenta de pérdidas y ganancias y la memoria.",
+                "El acta de inspección de la Seguridad Social."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Las cuentas anuales incluyen el balance, la cuenta de pérdidas y ganancias y la memoria, entre otros. Fundamento: Página 8, sección 4.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué efecto jurídico tiene la intervención de un notario en la constitución de una sociedad?",
+            "options": [
+                "Solo tiene efectos decorativos sin consecuencias legales.",
+                "Otorga validez penal a los delitos societarios cometidos.",
+                "Da fe pública de la voluntad de los socios y de los términos del acto.",
+                "Exime a los socios de inscribirse en el Registro Mercantil."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: El notario da fe pública de la constitución, garantizando la autenticidad de la voluntad de los socios. Fundamento: Página 4, sección 2.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué condición debe cumplir una persona para figurar como socio inscrito en el Libro Registro de Socios?",
+            "options": [
+                "Ser mayor de 65 años y estar jubilado.",
+                "Ser persona física de nacionalidad española exclusivamente.",
+                "Estar inscrito en el libro con su identidad y domicilio.",
+                "Haber trabajado como empleado de la sociedad al menos 3 años."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: La condición de socio solo pertenece a los inscritos en el libro, en el que debe aparecer su identidad y domicilio. Fundamento: Página 10, sección 6.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuál es la función del patrimonio neto en el balance?",
+            "options": [
+                "Representar la deuda total de la empresa con terceros.",
+                "Representar la diferencia entre el activo y el pasivo de la empresa.",
+                "Contabilizar los impuestos devengados durante el ejercicio fiscal.",
+                "Registrar las donaciones recibidas de organismos internacionales."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El patrimonio neto es la diferencia entre el activo (bienes y derechos) y el pasivo (obligaciones) de la empresa. Fundamento: Página 8, sección 4.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué libro contable registra un inventario de los bienes de la empresa al inicio y al cierre del ejercicio?",
+            "options": [
+                "El Libro de Inventario y Cuentas Anuales.",
+                "El Libro de Actas de la junta general de socios.",
+                "El Libro Registro de Contratos del socio único.",
+                "El Libro Mayor clasificado por cuentas contables."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El Libro de Inventario y Cuentas Anuales registra el inventario de bienes al inicio y cierre del ejercicio. Fundamento: Página 8, sección 4.",
+            "position": "A"
+        }
+    ]
+}
