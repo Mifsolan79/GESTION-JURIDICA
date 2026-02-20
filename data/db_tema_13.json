@@ -1,0 +1,365 @@
+{
+    "title": "Documentación en el proceso administrativo (Tema 13)",
+    "items": [
+        {
+            "question": "¿Cuál de estos es un supuesto para ser considerado 'interesado' en un procedimiento administrativo?",
+            "options": [
+                "Aquellos cuyos intereses puedan verse afectados por la resolución y se personan como parte.",
+                "Cualquier ciudadano que resida en el mismo municipio donde se tramita.",
+                "Solo los que han nacido en territorio español y poseen DNI.",
+                "Exclusivamente las personas jurídicas con ánimo de lucro declarado."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La ley considera interesados a quienes promueven el proceso, a quienes tienen derechos afectados y a quienes tienen intereses afectados y se personan. Fundamento: Página 4, sección 2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué define correctamente a un administrado de clase 'simple'?",
+            "options": [
+                "Tener una relación especial con la Administración como un concesionario.",
+                "Hacer un uso común y no excluyente de los servicios públicos.",
+                "Ser un funcionario público en activo dentro de la misma unidad.",
+                "Actuar siempre mediante un representante legal acreditado apud acta."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Los administrados simples son los que hacen un uso común y no excluyente de los servicios públicos, como el usuario de una piscina. Fundamento: Página 4, sección 2.1.",
+            "position": "B"
+        },
+        {
+            "question": "¿Quiénes pueden tener la condición de administrados en sus relaciones con la Administración española?",
+            "options": [
+                "Únicamente los ciudadanos de nacionalidad española residentes.",
+                "Solo los ciudadanos de la Unión Europea por el principio de libre circulación.",
+                "Tanto españoles como extranjeros en las condiciones que establezcan las leyes.",
+                "Exclusivamente las personas físicas mayores de edad con plena capacidad."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los administrados pueden ser personas físicas o jurídicas, y pueden relacionarse con la Administración tanto españoles como extranjeros. Fundamento: Página 4, sección 2.1.",
+            "position": "C"
+        },
+        {
+            "question": "¿En qué caso se reconoce capacidad de obrar a los grupos de afectados o uniones sin personalidad jurídica?",
+            "options": [
+                "En todos los casos de interés general sin excepción previa.",
+                "Solo si demuestran tener un capital social mínimo depositado.",
+                "Nunca pueden actuar ante la Administración por falta de personalidad.",
+                "Cuando la ley lo autorice expresamente para un fin concreto."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: La ley reconoce capacidad de obrar a grupos de afectados y entidades sin personalidad jurídica cuando la ley lo autorice expresamente. Fundamento: Página 5, sección 2.2.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué sucede en un procedimiento administrativo si la relación jurídica del interesado es transmisible?",
+            "options": [
+                "Los herederos del interesado le sucederán en sus derechos y obligaciones.",
+                "El procedimiento se extingue automáticamente por fallecimiento del titular.",
+                "La Administración debe nombrar obligatoriamente un tutor de oficio.",
+                "Los derechos del interesado pasan a ser propiedad directa del Estado."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Si la relación jurídica es transmisible, los herederos del interesado le sucederán en sus derechos y obligaciones en el procedimiento. Fundamento: Página 5, sección 2.2.",
+            "position": "A"
+        },
+        {
+            "question": "¿Quién actúa habitualmente como receptor de las actuaciones administrativas cuando existe representación?",
+            "options": [
+                "El interesado original de forma presencial siempre.",
+                "El representante acreditado en el procedimiento.",
+                "El juez de guardia de la demarcación correspondiente.",
+                "El Boletín Oficial del Estado mediante edicto obligatorio."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Cuando se actúa mediante representante, este será el receptor de las actuaciones administrativas en el procedimiento. Fundamento: Página 5, sección 2.2.",
+            "position": "B"
+        },
+        {
+            "question": "¿Cuál de los siguientes es un derecho reconocido por ley a todos los administrados?",
+            "options": [
+                "A no pagar tasas de tramitación en ningún procedimiento ordinario.",
+                "A elegir libremente al funcionario que debe instruir su expediente.",
+                "Al acceso a la información pública, archivos y registros según las leyes.",
+                "A dictar la resolución definitiva de su propio caso particular."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Entre los derechos generales está el acceso a la información pública, archivos y registros, de acuerdo con lo previsto en las leyes. Fundamento: Página 6, sección 4.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué derecho de identificación tienen los interesados en la tramitación de un procedimiento?",
+            "options": [
+                "A conocer el historial clínico del personal administrativo.",
+                "A obtener los datos bancarios de los demás interesados presentes.",
+                "A denunciar anónimamente a cualquier empleado sin pruebas previas.",
+                "A identificar a las autoridades y personal responsable de la tramitación."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Los interesados tienen el derecho específico de identificar a las autoridades y al personal responsable de tramitar los procedimientos. Fundamento: Página 6, sección 4.",
+            "position": "D"
+        },
+        {
+            "question": "¿Tienen los ciudadanos la obligación general de presentar documentos originales ante la Administración?",
+            "options": [
+                "No, salvo en casos determinados por las leyes donde sea estrictamente necesario.",
+                "Sí, siempre es obligatorio presentar el original para cotejo manual.",
+                "Solo si el documento aportado no tiene firma electrónica cualificada.",
+                "Únicamente si el trámite se realiza en una oficina física presencial."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Los administrados tienen derecho a no presentar documentos originales, salvo en casos determinados por las leyes. Fundamento: Página 7, sección 4.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué derecho asiste al interesado respecto a documentos que ya obren en poder de la Administración?",
+            "options": [
+                "Debe volver a presentarlos escaneados en cada nueva fase del proceso.",
+                "A no presentar datos y documentos que ya se encuentren en poder de la Administración.",
+                "A exigir que la Administración destruya los documentos previos en 5 días.",
+                "No tiene ningún derecho, la ley obliga a la entrega física sistemática."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: Un derecho fundamental es no presentar datos y documentos que ya se encuentren en poder de la Administración o hayan sido elaborados por ella. Fundamento: Página 7, sección 4.",
+            "position": "B"
+        },
+        {
+            "question": "¿Hasta qué momento procesal puede el interesado formular alegaciones y aportar nuevos documentos?",
+            "options": [
+                "Solo en el momento exacto de presentar la solicitud de iniciación.",
+                "Únicamente una vez que haya recaído la resolución administrativa final.",
+                "En cualquier fase del procedimiento anterior al trámite de audiencia.",
+                "Solo si la Administración otorga un permiso especial por escrito."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los administrados pueden formular alegaciones y aportar documentos en cualquier fase anterior al trámite de audiencia. Fundamento: Página 7, sección 4.",
+            "position": "C"
+        },
+        {
+            "question": "¿Cuál es una garantía fundamental de los administrados en los procedimientos sancionadores?",
+            "options": [
+                "El derecho a que la sanción no se notifique para evitar perjuicios.",
+                "La obligación del interesado de autoinculparse ante la autoridad.",
+                "La ejecución inmediata de la multa sin posibilidad de defensa previa.",
+                "La presunción de inexistencia de responsabilidad administrativa mientras no se demuestre lo contrario."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Una garantía clave en procesos sancionadores es la presunción de inexistencia de responsabilidad mientras no se pruebe lo contrario. Fundamento: Página 7, sección 5.",
+            "position": "D"
+        },
+        {
+            "question": "¿Cuál de estos es un motivo legal de abstención para una autoridad o personal administrativo?",
+            "options": [
+                "Tener vínculo matrimonial o parentesco hasta el cuarto grado de consanguinidad con los interesados.",
+                "Ser residente en el mismo código postal que el representante del interesado.",
+                "Tener una formación académica distinta a la materia que se está tramitando.",
+                "Pertenecer a un cuerpo de funcionarios diferente al del instructor del caso."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El parentesco hasta el cuarto grado de consanguinidad con los interesados es una causa legal de abstención. Fundamento: Página 7, sección 5.",
+            "position": "A"
+        },
+        {
+            "question": "¿A qué grado de parentesco por afinidad se extiende el deber legal de abstención?",
+            "options": [
+                "Únicamente al primer grado de afinidad (suegros y yernos).",
+                "Hasta el segundo grado de afinidad (incluyendo cuñados y abuelos del cónyuge).",
+                "Se extiende hasta el cuarto grado de afinidad, igual que la consanguinidad.",
+                "La ley de procedimiento no contempla la afinidad como causa de abstención."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: El deber de abstención se extiende hasta el segundo grado de afinidad con los interesados o sus representantes. Fundamento: Página 7, sección 5.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué debe hacer un funcionario si ha intervenido como perito o testigo en el mismo procedimiento que ahora debe tramitar?",
+            "options": [
+                "Aprovechar su conocimiento previo para resolver con mayor rapidez.",
+                "Consultar con los demás testigos si debe continuar en el puesto.",
+                "Tiene el deber legal de abstenerse de intervenir en dicho procedimiento.",
+                "Debe ser obligatoriamente el presidente del órgano colegiado de decisión."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Haber intervenido como perito o testigo en el procedimiento es una causa tasada de abstención. Fundamento: Página 8, sección 5.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué relación de servicio previa motiva legalmente la abstención de un funcionario?",
+            "options": [
+                "Cualquier relación laboral que haya tenido en el pasado sin límite de tiempo.",
+                "Haber trabajado en la misma gran empresa hace más de diez años.",
+                "No influye el pasado laboral, solo si la relación de servicio es actual.",
+                "Haber tenido relación de servicio con el interesado en los dos años anteriores."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Motiva la abstención haber tenido relación de servicio con alguno de los interesados en los dos años anteriores al asunto. Fundamento: Página 8, sección 5.",
+            "position": "D"
+        },
+        {
+            "question": "¿En qué consiste esencialmente el derecho de recusación del administrado?",
+            "options": [
+                "En la facultad del interesado de promover que un funcionario no intervenga por existir causas legales para ello.",
+                "En la capacidad del ciudadano de elegir a dedo al funcionario que le cae mejor.",
+                "En el derecho a solicitar que se borre el historial delictivo de un expediente.",
+                "En la obligación de cambiar de abogado si el procedimiento dura más de un año."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: La recusación es el derecho del interesado a solicitar que un funcionario no intervenga cuando concurre una causa de abstención. Fundamento: Página 8, sección 5.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cómo debe formalizarse el planteamiento de una recusación por parte del interesado?",
+            "options": [
+                "Mediante comparecencia verbal ante el propio funcionario al que se recusa.",
+                "Por escrito, indicando obligatoriamente la causa legal en la que se funda.",
+                "A través de una queja genérica en el buzón de sugerencias de la oficina.",
+                "La recusación es un proceso automático detectado por los sistemas de IA pública."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La recusación se debe plantear siempre por escrito e indicando la causa legal en la que se fundamenta la solicitud. Fundamento: Página 8, sección 5.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué obligación impone la ley a los ciudadanos respecto a las inspecciones de la Administración?",
+            "options": [
+                "Solo están obligados a colaborar si hay una orden judicial previa expresa.",
+                "Pueden negarse a cualquier informe basándose en su derecho a la privacidad.",
+                "Colaborar y facilitar los informes, inspecciones y actos de investigación requeridos.",
+                "La ley de procedimiento no contempla obligaciones para los ciudadanos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los ciudadanos tienen la obligación de colaborar y facilitar los informes e inspecciones requeridos por la Administración. Fundamento: Página 8, sección 6.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué datos mínimos debe contener una citación para la comparecencia de un administrado?",
+            "options": [
+                "Únicamente el nombre del cargo que firma el requerimiento de asistencia.",
+                "Solo la referencia al artículo de la ley que castiga la inasistencia súbita.",
+                "La descripción física detallada de la oficina y el color de las paredes de espera.",
+                "El lugar, fecha, hora, medios disponibles y el objeto de la comparecencia."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Toda citación para comparecencia debe detallar lugar, fecha, hora, medios y el objeto o motivo de la misma. Fundamento: Página 8, sección 6.",
+            "position": "D"
+        },
+        {
+            "question": "¿Qué plazo otorga la Administración para subsanar los defectos encontrados en una solicitud inicial?",
+            "options": [
+                "Un plazo de diez días naturales o hábiles según el procedimiento.",
+                "Un mes completo desde la recepción del aviso por parte del órgano.",
+                "Quince días laborables en todos los casos de ámbito estatal o local.",
+                "No existe plazo legal, el procedimiento se archiva directamente por defecto."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: El interesado dispone de un plazo de diez días para subsanar los defectos que tenga su solicitud de iniciación. Fundamento: Página 9, sección 6.",
+            "position": "A"
+        },
+        {
+            "question": "¿Qué grado de consanguinidad representan los hermanos según la normativa vigente?",
+            "options": [
+                "Primer grado, por ser familiares de núcleo directo.",
+                "Segundo grado, ya que el tronco común son los padres (1 grado arriba y 1 abajo).",
+                "Tercer grado, por ser parientes colaterales en la línea sucesoria.",
+                "Cuarto grado, igual que los primos hermanos de primer nivel."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: En la escala de parentesco por consanguinidad (familia propia), los hermanos pertenecen al segundo grado. Fundamento: Página 10, Tabla 2.",
+            "position": "B"
+        },
+        {
+            "question": "En la relación de parentesco, los tíos se sitúan en el grado de consanguinidad:",
+            "options": [
+                "Primer grado.",
+                "Segundo grado.",
+                "Tercer grado.",
+                "Cuarto grado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los tíos (hermanos de los padres) pertenecen al tercer grado de consanguinidad. Fundamento: Página 10, Tabla 2.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué relación de parentesco se establece legalmente entre un suegro y su yerno o nuera?",
+            "options": [
+                "Segundo grado de consanguinidad propia por vínculo legal.",
+                "Tercer grado de afinidad por consanguinidad indirecta.",
+                "Primer grado de consanguinidad lineal por adopción administrativa.",
+                "Primer grado de afinidad (familia del cónyuge)."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: El suegro y el yerno/nuera mantienen un parentesco de primer grado de afinidad. Fundamento: Página 10, Tabla 2.",
+            "position": "D"
+        },
+        {
+            "question": "¿A qué se refiere el término 'Registro electrónico de apoderamientos'?",
+            "options": [
+                "A un registro para inscribir los poderes de representación otorgados apud acta o electrónicamente.",
+                "A un listado secreto de las propiedades inmobiliarias de los funcionarios en activo.",
+                "A un archivo donde se guardan exclusivamente las firmas manuscritas escaneadas.",
+                "A un censo obligatorio de todos los ciudadanos con derecho a voto en la Unión."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Es el registro donde deben inscribirse los poderes de representación otorgados para actuar ante la Administración. Fundamento: Página 10, sección 8.",
+            "position": "A"
+        },
+        {
+            "question": "¿Cuál de estos es un medio válido y común de identificación electrónica ante la Administración según la Ley 39/2015?",
+            "options": [
+                "Una fotografía del DNI físico enviada por correo electrónico ordinario.",
+                "Sistemas de clave concertada como Cl@ve PIN o Cl@ve permanente.",
+                "Presentar físicamente el carnet de conducir en la ventanilla de recepción.",
+                "Cualquier red social que tenga vinculado el número de teléfono móvil personal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Explicación: La identificación electrónica se puede realizar mediante certificados, DNI electrónico o sistemas de clave concertada (Cl@ve). Fundamento: Página 10, sección 8.",
+            "position": "B"
+        },
+        {
+            "question": "¿Qué sujetos están OBLIGADOS a relacionarse electrónicamente con la Administración en todo caso?",
+            "options": [
+                "Todas las personas físicas con ingresos superiores al salario mínimo profesional.",
+                "Únicamente los ciudadanos de otros países de la zona euro que residan en España.",
+                "Las personas jurídicas y las entidades sin personalidad jurídica requeridas.",
+                "Únicamente los estudiantes de ciclos formativos de grado superior y directivos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Están obligados a la relación electrónica las personas jurídicas y entidades sin personalidad jurídica, entre otros. Fundamento: Página 10, sección 8.",
+            "position": "C"
+        },
+        {
+            "question": "¿Qué obligación tienen los profesionales colegiados (como abogados o notarios) respecto a la Administración?",
+            "options": [
+                "Pueden elegir siempre el soporte papel para mayor seguridad jurídica propia.",
+                "Ninguna relación especial, se rigen por las mismas normas que los pensionistas.",
+                "Solo deben usar medios digitales si el procedimiento tiene una cuantía elevada.",
+                "Están obligados a relacionarse electrónicamente para los trámites en ejercicio de su profesión."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Explicación: Los profesionales colegiados están obligados a relacionarse electrónicamente para los trámites que realicen por su profesión. Fundamento: Página 10, sección 8.",
+            "position": "D"
+        },
+        {
+            "question": "¿Dónde se practican de forma oficial las notificaciones electrónicas de la Administración Pública?",
+            "options": [
+                "En la sede electrónica de la Administración o mediante dirección electrónica habilitada única.",
+                "Únicamente en las cuentas de correo electrónico particulares de Gmail o Hotmail.",
+                "Mediante la publicación directa en el muro de perfil del interesado en redes sociales.",
+                "En la página oficial de noticias del Ayuntamiento o la Comunidad correspondiente."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Explicación: Las notificaciones se practican en la sede electrónica o a través de la dirección electrónica habilitada única. Fundamento: Página 11, sección 8.",
+            "position": "A"
+        },
+        {
+            "question": "¿Tienen los representantes de un sujeto obligado a la relación electrónica alguna obligación especial?",
+            "options": [
+                "Pueden seguir usando medios físicos si lo prefieren para su archivo personal.",
+                "No tienen obligaciones, ya que la responsabilidad es solo del titular del derecho.",
+                "También tienen la obligación legal de relacionarse electrónicamente con la Administración.",
+                "Solo están obligados si el trámite se realiza en horario de tarde o fines de semana."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Explicación: Los representantes de quienes estén obligados a relacionarse electrónicamente también tienen dicha obligación. Fundamento: Página 11, sección 8.",
+            "position": "C"
+        }
+    ]
+}
